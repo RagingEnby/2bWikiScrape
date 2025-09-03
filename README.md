@@ -1,5 +1,6 @@
 # 2bWikiScrape
-A short and simple program made to scrape [The 2b2t Wiki](https://2b2t.miraheze.org)
+A short and simple program made to scrape [The 2b2t Wiki](https://2b2t.miraheze.org). I started this project because I would like to scrape member lists from base/group/event pages for use in a 2b2t Discord bot I'm working on (name TBD). 
+-# If you're interested, here's a little sneak peak of [QueuePeek v2](https://enby.pics/u/DVp9z9.png) I'm working on (QueuePeek was a 2b2t exploit allowing you to scrape the entire 2b2t queue, I have found a very hacky way to do this once again)
 
 ## 'Devlog'
 This is just sort of a blog-ish area for me to type out my thoughts as I work on this project. This is likely going to eventually turn into the first blog post on my website in a series I'm going to call 'flash projects' where I give myself ~24 hours from start to finish on a random project idea.
