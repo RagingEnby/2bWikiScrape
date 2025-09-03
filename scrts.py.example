@@ -1,0 +1,6 @@
+PROXIES: set[str] = {
+    "http://username:password@ip:port/",
+    "http://username:password@ip2:port/",
+    "http://username:password@ip3:port/"
+}
+MONGO_URI: str = "mongodb://username:password@ip:27018/"
