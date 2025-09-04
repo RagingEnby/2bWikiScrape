@@ -5,6 +5,9 @@ description = "A short and simple Python project to scrape the 2b2t wiki"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "async-mediawiki>=0.2.0",
+    "aiofiles>=24.1.0",
     "curl-cffi>=0.13.0",
 ]
+
+[project.urls]
+Repository = "https://github.com/RagingEnby/2bWikiScrape"

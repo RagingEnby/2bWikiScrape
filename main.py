@@ -1,24 +1,44 @@
 import asyncio
+import random
 import json
+import constants
 
 from modules import asyncreqs
 from modules import wiki
-import constants
+from modules import utils
 
+
+async def close():
+    try:
+        await asyncreqs.close()
+    except Exception as e:
+        print('unable to close asyncreqs session:', e)
+        
+        
+async def do_page(page: wiki.Page):
+    content = await page.get_content()
+    await asyncio.gather(
+        utils.write(f'output/pages/{page.title}.txt', content),
+        utils.write(f'output/pages/{page.title}.md', page.markdown)
+    )
+        
 
 async def main():
     try:
-        tasks = [asyncreqs.proxy_get(wiki.URL) for _ in range(len(constants.PROXIES))]
-        responses = await asyncio.gather(*tasks)
-        codes = set(response.status_code for response in responses)
-        if codes != {200}:
-            print('Some proxies failed')
-            for response in responses:
-                if response.status_code != 200:
-                    print(response.text)
-        print("Response codes:", codes)
+        pages = await wiki.get_all_pages()
+        await utils.write(f'output/all_pages.json', json.dumps(pages.to_dict(), indent=2))
+        for page in pages:
+            if page.ns != 0:
+                print(page.to_dict())
+                
+        #page = random.choice(pages.pages)
+        #await asyncio.gather(
+        #    do_page(page),
+        #    do_page(pages.query('popbob'))
+        #)
+        await do_page(pages.query('popbob'))
     finally:
-        await asyncreqs.close()
+        await close()
 
 
 if __name__ == "__main__":
