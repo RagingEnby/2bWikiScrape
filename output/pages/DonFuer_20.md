@@ -1,0 +1,1 @@
+#REDIRECT [DonFuer 20](https://2b2t.miraheze.org/wiki/DonFuer_20)

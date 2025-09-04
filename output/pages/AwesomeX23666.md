@@ -1,0 +1,1 @@
+#REDIRECT [DocSmurf](https://2b2t.miraheze.org/wiki/DocSmurf)

@@ -1,0 +1,12 @@
+{{Player Bias}}**Coldwave** is a past member of the [Facepunch Republic](https://2b2t.miraheze.org/wiki/Facepunch_Republic) known for founding [Hitlerwood](https://2b2t.miraheze.org/wiki/Hitlerwood) (which later merged with the [Black Flag Group](https://2b2t.miraheze.org/wiki/Black_Flag_Group) to form [Valkyria](https://2b2t.miraheze.org/wiki/Valkyria)).
+## History
+### Facepunch
+Coldwave was in the [Facepunch Republic](https://2b2t.miraheze.org/wiki/Facepunch_Republic) in its heyday and was also a Mayor. After the fall of the Facepunch Republic in mid-2012, he made a base at 15k with [Zach3397](https://2b2t.miraheze.org/wiki/Zach3397). But, they got bored and left the base, but before they left they made a large memorial to the Facepunch Republic.{{Citation needed}} They then moved to [2k2k](https://2b2t.miraheze.org/wiki/2k2k) to gather members for a new republic they were interested in making. At 2k2k, they met, Hinderjd, Dorquemada, Lostmygun, Sveargieth, and Devon54321. The new Republic made a new base called "Fort Cosby Doop Dop Jello Pudding", or Fort Cosby for short, which was a simple staircase with rooms connected to it. The base was leaked by a visitor and [x0XP](https://2b2t.miraheze.org/wiki/x0XP) griefed Fort Cosby. Another base was made including Joezep5, Ginger23, and [Parthicus](https://2b2t.miraheze.org/wiki/Parthicus), but Parth leaked the base to x0XP before the base was even named. KnightVista, Otto, and Misschihiro also joined at an unknown time. The Republic almost fell apart before the base of [Hitlerwood](https://2b2t.miraheze.org/wiki/Hitlerwood) was created. At Hitlerwood, they finally made a long-lasting base without insiding.
+### Valkyria
+Coldwave later became an active member of Valkyria after Hitlerwood and the [Black Flag Group](https://2b2t.miraheze.org/wiki/Black_Flag_Group) met on a temporary map. He also accidentally leaked [Belegost](https://2b2t.miraheze.org/wiki/Belegost) when he used the Adolf client, which contributed to the beginning of the [2nd Incursion](https://2b2t.miraheze.org/wiki/2nd_Incursion).
+## Trivia
+*At Valkyria, he made his "2b2t Card Game", which were a joke stereotyping different players in a [Pokemon Card format](https://en.wikipedia.org/wiki/Down_syndrome). A total of two sets of Coldwave's card-game were created. Here are the links to the [First](https://imgur.com/a/LjTnS) and [Second](https://imgur.com/a/xeXuc).
+*He was known for "running the fuck away."
+
+## References
+{{Reflist}}

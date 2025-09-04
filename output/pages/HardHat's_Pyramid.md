@@ -1,0 +1,1 @@
+#REDIRECT [CaptainHardhat's Pyramid](https://2b2t.miraheze.org/wiki/CaptainHardhat%27s_Pyramid)

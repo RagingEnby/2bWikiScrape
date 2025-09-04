@@ -1,0 +1,1 @@
+#REDIRECT [Crimson Star](https://2b2t.miraheze.org/wiki/Crimson_Star)

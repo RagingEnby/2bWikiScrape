@@ -1,0 +1,1 @@
+#REDIRECT [Template:Template other](https://2b2t.miraheze.org/wiki/Template:Template_other)

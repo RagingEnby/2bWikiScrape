@@ -1,0 +1,1 @@
+#REDIRECT [1 Million Base](https://2b2t.miraheze.org/wiki/1_Million_Base)

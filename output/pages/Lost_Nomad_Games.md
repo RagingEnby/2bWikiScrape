@@ -1,0 +1,1 @@
+#REDIRECT [The Lost Nomads](https://2b2t.miraheze.org/wiki/The_Lost_Nomads)

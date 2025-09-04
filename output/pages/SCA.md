@@ -1,0 +1,1 @@
+#REDIRECT [Southern Canal Association](https://2b2t.miraheze.org/wiki/Southern_Canal_Association)

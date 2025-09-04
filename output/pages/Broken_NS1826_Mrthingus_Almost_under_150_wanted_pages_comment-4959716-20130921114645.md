@@ -1,0 +1,1 @@
+I've written articles for Katrinonus, SamatelloHD, VanizKai, Slugha1 and TheRayquaza93 if that helps.

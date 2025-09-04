@@ -1,0 +1,3 @@
+Believe it or not, we were okay with the responsibilty he gave us. We help gathered some competitors and even recorded the talkshow with just us before StickKid came online and wanted to do a do-over, which we agreed with. We even debated with Ratchet5 on something about deciding what the draw time would be and StickKid went with what me and Supster131 agreed on. It's not as bad as you think.
+
+Due to what happened recently though, me and Supster131 are now the main hosts as StickKid has decided to step down... as you can see above. It's kind of a sad situation but that's how it stands at the moment.

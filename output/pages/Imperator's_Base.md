@@ -1,0 +1,41 @@
+{{Wdl}}{{BaseTemplate
+| image = Imperator's base.png
+| quote =
+| caption =
+| status = Griefed
+| builders = [ImperatorTerrae](https://2b2t.miraheze.org/wiki/ImperatorTerrae), [LegitLobster](https://2b2t.miraheze.org/wiki/LegitLobster), [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia), [JohnZoo](https://2b2t.miraheze.org/wiki/JohnZoo), [HansivomAll](https://2b2t.miraheze.org/wiki/HansivomAll), [HiveTyrantRaphi](https://2b2t.miraheze.org/wiki/HiveTyrantRaphi), [xcc2](https://2b2t.miraheze.org/wiki/xcc2), [omaliymix](https://2b2t.miraheze.org/wiki/omaliymix), [CytotoxicTcell](https://2b2t.miraheze.org/wiki/CytotoxicTcell), [iTristan](https://2b2t.miraheze.org/wiki/iTristan), [popbob](https://2b2t.miraheze.org/wiki/popbob), [irishboy55](https://2b2t.miraheze.org/wiki/irishboy55), [THEJudgeHolden](https://2b2t.miraheze.org/wiki/THEJudgeHolden)
+| date_started = April 21, 2012
+| date_finished =
+| coords = {{Coords|-1,078,035|-1,083,170}}
+| leaker = [iTristan](https://2b2t.miraheze.org/wiki/iTristan) (accidentally)
+| date_griefed = December 24–25, 2015
+| griefers = [jared2013](https://2b2t.miraheze.org/wiki/jared2013) and [fr1kin](https://2b2t.miraheze.org/wiki/fr1kin)
+| wdl = [World download](http://www.mediafire.com/file/0e0odawr3bofqb7/2b2t+Imp%27s+Base.zip)
+}}**Imperator's Base**, otherwise known as **Imp's**, **The Ungriefable Base**, and originally **Viking Base**, was one of the largest bases on 2b2t, built by [Viking Group](https://2b2t.miraheze.org/wiki/Viking_Group) starting in 2012. It was the site of the prominent and well-known [Jesus Statue](https://2b2t.miraheze.org/wiki/Jesus_Statue), as well as the home of many of 2b2t's most recognizable structures, such as [Cyto](https://2b2t.miraheze.org/wiki/Cyto)'s castle, LegitLobster's cathedral, and [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia)'s floating castle. The Jesus Statue at the center of the base became synonymous with the server when it was featured as the permanent background for [the server's official website](https://2b2t.miraheze.org/wiki/2b2t#Website). The base was infamously griefed by [jared2013](https://2b2t.miraheze.org/wiki/jared2013) and [fr1kin](https://2b2t.miraheze.org/wiki/fr1kin) on Christmas Eve, 2015.
+
+## History
+Construction of the base began on April 21, 2012 when [JohnZoo](https://2b2t.miraheze.org/wiki/JohnZoo), [HiveTyrantRaphi](https://2b2t.miraheze.org/wiki/HiveTyrantRaphi), [HansivomAll](https://2b2t.miraheze.org/wiki/HansivomAll), [KJOLLA](https://2b2t.miraheze.org/wiki/KJOLLA), [ImperatorTerrae](https://2b2t.miraheze.org/wiki/ImperatorTerrae), and [irishboy55](https://2b2t.miraheze.org/wiki/irishboy55), otherwise known as "Viking Group", arrived at the location via Nether roof. The original base consisted of numerous small settlements, many of which Imperator would later deconstruct to replace with the grandiose mansions that eventually came to characterize the base. Builders such as [CytotoxicTcell](https://2b2t.miraheze.org/wiki/CytotoxicTcell), [LegitLobster](https://2b2t.miraheze.org/wiki/LegitLobster),and [omaliymix](https://2b2t.miraheze.org/wiki/omaliymix) arrived in the months after the base was started, followed by [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia) and [xcc2](https://2b2t.miraheze.org/wiki/xcc2). The Jesus Statue was one of the first large-scale builds to be made at the base, and was constructed jointly by many of the original inhabitants. Large flags were also built, with each nationality being associated with a member of Viking Group.
+
+In late 2012, it became apparent that ImperatorTerrae was the de facto leader of the base, as he began issuing orders to deconstruct the smaller builds of many of the original inhabitants. Consequentially, several of the base's original inhabitants became displeased with his direction, specifically JohnZoo who left the server permanently around February 2013. Before leaving, JohnZoo created a series of journals, some of which would be discovered during the grief in 2015. These journals documented in fine detail the removal of certain aspects of the base, as well as the "tyrannical" behavior of Imperator. Due to his leadership, the base eventually became known simply as "Imp's". By 2015, very little of the original base remained.
+
+In late 2012, the coordinates of the base were accidentally leaked and circulated by [x0XP](https://2b2t.miraheze.org/wiki/x0XP), however due to the distance and circumstance of the leak, nobody bothered to visit the base and it remained undiscovered. However, in 2013 the base was discovered by [popbob](https://2b2t.miraheze.org/wiki/popbob), [iTristan](https://2b2t.miraheze.org/wiki/iTristan), and [Pyrobyte](https://2b2t.miraheze.org/wiki/Pyrobyte) using [Thunderhack](https://2b2t.miraheze.org/wiki/Coordinate_exploit#Thunder_Hack). Imperator extended an invitation to them, which was accepted, and the base consequently became known as "The Ungriefable Base". iTristan later built a small house and a statue, and popbob built a sewer to dwell in. It was around this time that the image of the Jesus Statue became the background of 2b2t's website.
+
+By 2014, many of the inhabitants of Imp's had quit, leaving the base dormant with the exception of LegitLobster, who constructed his cathedral during this time. Due to the base's isolation, it was difficult for invited players such as [Branillon](https://2b2t.miraheze.org/wiki/Branillon), [berkbrein](https://2b2t.miraheze.org/wiki/berkbrein), and [b4uit](https://2b2t.miraheze.org/wiki/b4uit) to reach, leaving the base effectively separated from the rest of the server.
+
+In late 2015, the base was discovered by [James_Rustles](https://2b2t.miraheze.org/wiki/James_Rustles) and [CainesLaw](https://2b2t.miraheze.org/wiki/CainesLaw), who chose to stay. However, to Imperator, this symbolized the base's demise, and it was during this time that iTristan, used his direct access to the server to copy the region files of the base to another location, which would later become known as "[Imperator's Base 2](https://2b2t.miraheze.org/wiki/Imp%27s_2)".
+### Grief
+In early 2015, whilst sharing images with other members of a Skype chat, iTristan accidentally posted an image with coordinates of a small building on the outskirts of Imperator's Base. The image was saved by jared2013, who later identified the coordinates as those of Imp's, and proceeded to tunnel to the base in early December 2015.
+
+On Christmas Eve, 2015, jared2013 arrived with fr1kin at the base. Starting with the Jesus Statue, they blew up the majority of the center of the base within a relatively short time frame using TNT that had been duplicated at the base. However, during the grief, James_Rustles began burning the remaining caches of items to prevent the griefers from utilizing their materials. jared and fr1kin, consequently, mined an entire desert in the vicinity of the base to provide enough TNT for its destruction. CainesLaw and jared2013 dueled inside Offtopia's incomplete library. The complete destruction of the base took roughly 48 hours, which, to this day, is the single longest grief in the server's history.
+
+Following the grief, an argument in chat occurred, which would later become known as the infamous "jared vs. popbob" dialogue, for which [Fit](https://2b2t.miraheze.org/wiki/Fit) did a dramatic reading about seven months prior to his becoming a YouTuber.
+
+## Legacy
+Imperator's Base remains amongst the largest and most well-known bases in 2b2t's history for its time. The dramatic story of its rise and eventual fall continues to be an iconic aspect of 2b2t's popular culture. The Jesus Statue in particular is often imitated both at locations on the server as well as on servers abroad, and its image alone has become synonymous with 2b2t.
+
+## Gallery
+<gallery mode="packed">
+File:Imps render.png|An early render of Imperator's Base. Parts of the original Viking Base can be seen near the center of the image
+File:Impsbase.png|The Jesus statue
+File:2b2tJesusStauteGriefed1.png|The Jesus statue post-grief
+</gallery>

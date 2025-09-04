@@ -1,0 +1,1 @@
+#REDIRECT [Team_Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher)

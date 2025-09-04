@@ -1,0 +1,1 @@
+#REDIRECT [United Group Embassy](https://2b2t.miraheze.org/wiki/United_Group_Embassy)

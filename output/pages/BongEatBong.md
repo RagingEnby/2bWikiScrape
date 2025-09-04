@@ -1,0 +1,11 @@
+# BongEatBong
+
+**BongEatBong** is a builder that joined 2b2t at the start of 2020. She is best known for leading [Millennium](https://2b2t.miraheze.org/wiki/Millennium) and her activities with the [Followers of the Crafting Table](https://2b2t.miraheze.org/wiki/Followers_of_the_Crafting_Table).
+
+## History
+BongEatBong joined 2b2t at the beginning of 2020. Soon after she joined, she became acquainted with [SiKPops](https://2b2t.miraheze.org/wiki/SiKPops), who had just left [Emperium](https://2b2t.miraheze.org/wiki/Emperium) to start his own group. BongEatBong quickly integrated herself into the community, befriending players like [Sakuya](https://2b2t.miraheze.org/wiki/Sakuya), [Banana_on_2b2t](https://2b2t.miraheze.org/wiki/Banana_on_2b2t), [Cosmic_Senpai](https://2b2t.miraheze.org/wiki/Cosmic_Senpai), and others. As a result, she learned how to do the then-private [Donkey Ice Dupe](https://2b2t.miraheze.org/wiki/Duplication_glitch), which led to both her and Millenium creating extensive stashes. BongEatBong continued to build and play with her friends in Millennium until the groups decline in the Summer of 2020. During this time she became active in other groups on the server. She became a guest in the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) and became a full member of the [Crafting Table Cult](https://www.youtube.com/watch?v=AXwNeqfQodg). Bong's activity on the server dwindled following the Summer of 2020 and after her use of the [Pyro Dupe](https://www.youtube.com/watch?v=9-7KrUMXkv8) she exited 2b2t altogether. Excluding small stints of playtime and activity, BongEatBong was inactive from Winter 2020 to the Summer 2023 and the [announcement of the server's update to 1.19](https://2b2t.org/2023-08-14/). BongEatBong returned to lead [Millennium](https://2b2t.miraheze.org/wiki/Millennium), but soon handed control of the group to [ANALP0RN](https://2b2t.miraheze.org/wiki/ANALP0RN) and again left the server. BongEatBong is inactive as of 2024.
+
+<gallery>
+Bongeatbongmapart.png|BongEatBong was a  contributor to the "Emperor's Helping Pill" mapart and often left many copies of it on the highways around spawn in 2020
+BongBanners.png|BongEatBong was often spammed large amounts of Millennium's banners around spawn. She duped more banner shulkers than any other item
+</gallery>

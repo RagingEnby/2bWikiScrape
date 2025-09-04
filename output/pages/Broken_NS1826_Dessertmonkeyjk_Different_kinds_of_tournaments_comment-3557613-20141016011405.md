@@ -1,0 +1,1 @@
+Huh, looks like comments can be turned off for blog posts. Well, if you feel like typing then fire away.

@@ -1,0 +1,1 @@
+#REDIRECT [Talk:Popbob/@comment-33655521-20180606230151](https://2b2t.miraheze.org/wiki/Talk:Popbob%2F%40comment-33655521-20180606230151)

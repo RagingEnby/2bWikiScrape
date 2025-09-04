@@ -1,0 +1,1 @@
+#REDIRECT [Teutonic Order](https://2b2t.miraheze.org/wiki/Teutonic_Order)

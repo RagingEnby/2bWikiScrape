@@ -1,0 +1,1 @@
+#REDIRECT [Helheim 2#Hintertown 6](https://2b2t.miraheze.org/wiki/Helheim_2#Hintertown_6)

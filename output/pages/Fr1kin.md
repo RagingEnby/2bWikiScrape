@@ -1,0 +1,18 @@
+# fr1kin
+
+{{stub}}**fr1kin** is an [oldfag](https://2b2t.miraheze.org/wiki/oldfag) who joined in late 2011. He is most known for his membership in [Nerds Inc](https://2b2t.miraheze.org/wiki/Nerds_Inc), his hacked client [Forgehax](https://2b2t.miraheze.org/wiki/Cheat_Clients), and his participation in the [NoCom](https://2b2t.miraheze.org/wiki/Nocom) exploit.
+
+{{Nocom}}
+## History
+**fr1kin** joined 2builders2tools in 2011. He participated in several bases with friends he had met through both the Garry's Mod and Counter Strike cheating communities. Most notably including [0xymoron](https://2b2t.miraheze.org/wiki/0xymoron) and [c0bra51](https://2b2t.miraheze.org/wiki/c0bra51). In 2012, he became friends with [x0XP](https://2b2t.miraheze.org/wiki/x0XP), with whom he created a base at 500k, simply known as [500k Base](https://2b2t.miraheze.org/wiki/500k_Base). It was during this time that he utilized a recently discovered exploit with the newly added written books that involved writing out strings of enchantment NBT data into the book. Upon signing these books would take on the enchantments. Fr1kin and x0XP would write these books to have enchantment values of 32,767. Which later became known as [32k Books](https://2b2t.miraheze.org/wiki/Illegal_items). He and x0XP were also the recipients of [Hausemaster](https://2b2t.miraheze.org/wiki/Hausemaster)'s [Book of Coords](https://2b2t.miraheze.org/wiki/Book_of_Coords), which was a written book which contained the coordinates of several bases on the server.
+
+From 2013 to 2014, fr1kin was inactive, returning in early 2015 during the [Third Incursion](https://2b2t.miraheze.org/wiki/Third_Incursion), and becoming friends with [jared2013](https://2b2t.miraheze.org/wiki/jared2013) via an introduction by x0XP. With jared2013, he created [Goldfarm Base](https://2b2t.miraheze.org/wiki/Goldfarm_Base), which remained active until 2016 Post-Rusher.
+
+**Fr1kin** griefed [0xymoron'](https://2b2t.miraheze.org/wiki/0xymoron)<nowiki/>s [Newbase v2](https://2b2t.miraheze.org/wiki/Newbase_v2), following the apperance of it in a [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher) video. In 2016 fr1kin was briefly a member of [The 4th Reich](https://2b2t.miraheze.org/wiki/The_4th_Reich), with whom he griefed [Helios](https://2b2t.miraheze.org/wiki/Helios) as well as a number of other bases, and was introduced to [0x22](https://2b2t.miraheze.org/wiki/0x22) and [Babbaj](https://2b2t.miraheze.org/wiki/Babbaj). Through his connection with both [iTristan](https://2b2t.miraheze.org/wiki/iTristan) and [Jared2013](https://2b2t.miraheze.org/wiki/Jared2013), Fr1kin became a member of [Nerds Inc](https://2b2t.miraheze.org/wiki/Nerds_Inc) at the end of 2016.
+
+In early 2017, fr1kin utilized an exploit he had discovered which enabled him to bring the server TPS (Ticks Per Second) to 0.00, effectively pausing interaction on the server. At this time, he and [kinorana](https://2b2t.miraheze.org/wiki/kinorana) recovered [Pig Spawners](https://2b2t.miraheze.org/wiki/Illegal_items) from [Pyrobyte's Master Stash](https://2b2t.miraheze.org/wiki/Pyrobyte%27s_Master_Stash), which were circulated later in 2017.
+
+In 2018, the [NoCom](https://2b2t.miraheze.org/wiki/NoCom) exploit was brought to fr1kin's attention by 0x22 and Babbaj, and he worked with them, as well as [leijurv](https://2b2t.miraheze.org/wiki/leijurv) to expand and refine the capabilities of the exploit until it was ultimately discovered in 2021. Since 2020, fr1kin has been inactive on 2b2t.
+## References
+[2b2t reddit](https://web.archive.org/web/20161119073717/https://www.reddit.com/r/2b2t/|old)
+[interview with fr1kin (TAP)](https://www.youtube.com/watch?v=0SxXS2S8mwM&t=77s|)

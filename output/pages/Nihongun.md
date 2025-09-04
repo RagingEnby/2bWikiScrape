@@ -1,0 +1,1 @@
+#REDIRECT [cityboss1#Nihongun](https://2b2t.miraheze.org/wiki/cityboss1#Nihongun)

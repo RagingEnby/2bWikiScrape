@@ -1,0 +1,36 @@
+{{BaseTemplate
+| image = DonFuer_25.png
+| builders = [D_loaded](https://2b2t.miraheze.org/wiki/D_loaded), [Lukent](https://2b2t.miraheze.org/wiki/Lukent), [NamoVFX](https://2b2t.miraheze.org/wiki/NamoVFX), [a1fastyellowgto](https://2b2t.miraheze.org/wiki/a1fastyellowgto), [Darkomier](https://2b2t.miraheze.org/wiki/Darkomier), [Phosph0lipid](https://2b2t.miraheze.org/wiki/Phosph0lipid), [N8TT](https://2b2t.miraheze.org/wiki/N8TT), [Volker1](https://2b2t.miraheze.org/wiki/Volker1), [Dongster](https://2b2t.miraheze.org/wiki/Dongster), [FuriousFish](https://2b2t.miraheze.org/wiki/FuriousFish), [Bonk](https://2b2t.miraheze.org/wiki/Bonk), [PenguinBagels](https://2b2t.miraheze.org/wiki/PenguinBagels), [xBlaze](https://2b2t.miraheze.org/wiki/xBlaze), [IOSL](https://2b2t.miraheze.org/wiki/IOSL), [Joetheblue](https://2b2t.miraheze.org/wiki/Joetheblue), [Alexkooj](https://2b2t.miraheze.org/wiki/Alexkooj), [skyisweird1042](https://2b2t.miraheze.org/wiki/skyisweird1042), [Deathstar784](https://2b2t.miraheze.org/wiki/Deathstar784), [iAmZeiss](https://2b2t.miraheze.org/wiki/iAmZeiss), [Centxuri](https://2b2t.miraheze.org/wiki/Centxuri), [Simp_Police](https://2b2t.miraheze.org/wiki/Simp_Police), [JackPadge](https://2b2t.miraheze.org/wiki/JackPadge), [Warske](https://2b2t.miraheze.org/wiki/Warske), [MaxHalloway](https://2b2t.miraheze.org/wiki/MaxHalloway), [Metalbunny](https://2b2t.miraheze.org/wiki/Metalbunny), [Toska](https://2b2t.miraheze.org/wiki/Toska)
+| date_started = August 12, 2022
+| date_finished =
+| date_abandoned =
+| coords = <code>2121204, 285238</code>
+| leaker =
+| date_griefed = November 19, 2022
+| griefers = Self-grief
+}}
+
+**Donfuer 25** was a base founded on August 12, 2022, by [Donfuer](https://2b2t.miraheze.org/wiki/Donfuer), following the completion of the group's [Aureus City](https://2b2t.miraheze.org/wiki/Aureus_City) Rebuild project. The base's design was a departure from the group's usual style, being a modern city divided into various districts. Prior to its destruction, it was one of the largest player made cities on the server.
+
+## History
+### Groundbreaking and construction
+Construction began on August 13th, 2022, after [NamoVFX](https://2b2t.miraheze.org/wiki/NamoVFX) first arrived at the location and quickly began building the first seawalls. More members arrived and began building over the following days, and the pace in construction increased significantly. Next to the signboard, an Aureus City Rebuild Commemoration tower was built by [D loaded](https://2b2t.miraheze.org/wiki/D_loaded), as well as a McDonald's Restaurant. DonFuer 25 had multiple districts, including a financial district based on New York City designed by [Warske](https://2b2t.miraheze.org/wiki/Warske), a casino district based on Fallout New Vegas designed [Darkomier](https://2b2t.miraheze.org/wiki/Darkomier), and a futuristic district designed by [Phosph0lipid](https://2b2t.miraheze.org/wiki/Phosph0lipid). A suburban district was later added, built in part by [N8TT](https://2b2t.miraheze.org/wiki/N8TT) and [Joetheblue](https://2b2t.miraheze.org/wiki/Joetheblue). The suburban district contained a row of townhouses, a seawall with walkways, a skate park, an abandoned plantation house, and many suburban-styled houses. All houses were built with no interiors, a staple of DonFuer's building style. The activities in the suburban district mirrored those of the downtown district, with space being occupied quickly, causing NamoVFX to terraform a sizable amount of new buildable space to accommodate the expansion. This cycle continued throughout the base's lifetime. An underground metrosystem was built by [Darkomier](https://2b2t.miraheze.org/wiki/Darkomier) and [Alexkooj](https://2b2t.miraheze.org/wiki/Alexkooj) to connect all key locations of the base. The digging of the subway also helped collect materials for the base. Each main district had a station that connected to all other area through a railway system, increasing the efficiency of the team. It took roughly one week to finish the digging and building. The final district was comprised of a park, a harbor, a theme park, and several high-rise buildings.
+
+### Destruction
+Attacks on the [Southern Canal](https://2b2t.miraheze.org/wiki/Southern_Canal)—whose builders DonFuer had allied with—as well as grander plans for the city and recent visits by [Centxuri](https://2b2t.miraheze.org/wiki/Centxuri) and [2b2t_](https://2b2t.miraheze.org/wiki/2b2t_(player)), spurred increased activity and fears of a potential grief. Concerns grew as it was found out that [2b2t_](https://2b2t.miraheze.org/wiki/2b2t_(player)) stole materials from the base, along with rumours being spread of [catgirllana](https://2b2t.miraheze.org/wiki/catgirllana) having coordinates to the base. This prompted the leadership within Donfuer to agree on trying to quickly finish the building of a specific district of the base, intending to self greif the base upon completion. Meanwhile the leadership of the group had also been messaging [Fit](https://2b2t.miraheze.org/wiki/Fit) and showing him renders of the base intending to grab his attention and have him make a video on the base in order to bring attention to the base itself and Donfuer. Knowing it was unlikely for a base to get into a Fit video without an engaging story the leadership of the group would agree with Fit to fabricate a story about the base being leaked by a member's girlfriend. This was done without the majority of the members knowledge with the exception of the groups nobles and [Phosph0lipid](https://2b2t.miraheze.org/wiki/Phosph0lipid). To give credibility to the story a discord alt account was created on the 17th of November 2022 which supposedly belonged to ‘Lucie’, the girlfriend which was said to have leaked the coordinates. The account was used to message [Orsond](https://2b2t.miraheze.org/wiki/Orsond) on November 18th 2022, ‘leaking’ coordinates to the base, the account also claimed to have shared coordinates with [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys), which is false. On the 19th of November 2022 Donfuer leadership would self grief the base and have Fit run the falsified story in his video ‘[The Girlfriend That LEAKED This 2b2t Base](https://www.youtube.com/watch?v=leI11hySanc)’.
+
+## Gallery
+<gallery mode="packed">
+File:First Donfuer 25 render by Namo.png|The first render of DonFuer 25 by [NamoVFX](https://2b2t.miraheze.org/wiki/NamoVFX)
+File:Donfuer 25,14 November by Toska.png|A render of DonFuer 25 by Toska
+File:Original Donfuer 25 base plans by D loaded.png|Original DonFuer 25 base plans
+File:Futuristic district by Phosph0lipid.png|The futuristic district, constructed by Phosph0lipid
+File:Render of Donfuer 25 by Toska.png|A secondary render of DonFuer 25 by Toska
+File:Render used for Fitmc's Youtube Thumbnail.png|A render of DonFuer 25 used by [FitMC](https://2b2t.miraheze.org/wiki/FitMC)
+File:Warske's buildings at Donfuer 25.png|Buildings in the historical district, constructed by [Warske](https://2b2t.miraheze.org/wiki/Warske)
+</gallery>
+
+## External links
+* [Official tour video by DonFuer](https://youtu.be/TSjg97eztCI)
+* [Tour video by NamoVFX](https://youtu.be/fg48dPeq4c8)
+{{Reflist}}

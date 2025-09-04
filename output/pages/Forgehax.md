@@ -1,0 +1,1 @@
+#REDIRECT [Cheat Clients](https://2b2t.miraheze.org/wiki/Cheat_Clients)

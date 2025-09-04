@@ -1,0 +1,1 @@
+#REDIRECT [Communist Party of 2b2t](https://2b2t.miraheze.org/wiki/Communist_Party_of_2b2t)

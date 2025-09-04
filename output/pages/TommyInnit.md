@@ -1,0 +1,1 @@
+#REDIRECT [YouTube tourists#TommyInnit](https://2b2t.miraheze.org/wiki/YouTube_tourists#TommyInnit)

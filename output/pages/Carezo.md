@@ -1,0 +1,14 @@
+# Carezo
+
+Carezo is a griefer & explorer as well as being the founding member of [TheNonBozos](https://2b2t.miraheze.org/wiki/TheNonBozos).
+
+## History
+Carezo joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) in December 2020 after hacking on clone anarchy servers. He met [Averil](https://2b2t.miraheze.org/wiki/Averil) and became close friends with him. They griefed [DonFuer 20](https://2b2t.miraheze.org/wiki/DonFuer_20) together on March 13, 2021. Carezo joined the [Watchmen Revival](https://2b2t.miraheze.org/wiki/Watchmen_Revival) in June 2021, and assisted them in their conflict with the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) at [The Homeland](https://2b2t.miraheze.org/wiki/The_Homeland). He was promoted into the leadership of the group before nuking the discord with Averil after the Guardsmen conflict slowed down.
+
+In August 2021, Carezo founded the [TheNonBozos](https://2b2t.miraheze.org/wiki/TheNonBozos), a griefing group, with [soggydoggy](https://2b2t.miraheze.org/wiki/soggydoggy), [Dom1405](https://2b2t.miraheze.org/wiki/Dom1405), and [_handyman](https://2b2t.miraheze.org/wiki/_handyman). Together they griefed several [Spawnfuers](https://2b2t.miraheze.org/wiki/DonFuer#Rangers), as well as [Spawnfuer 20](https://2b2t.miraheze.org/wiki/Donfuer), [Los Garr 2](https://2b2t.miraheze.org/wiki/Donfuer), and [Woodkeep](https://2b2t.miraheze.org/wiki/The_Imperials). The group slowed down in late 2021, and then ceased operating entirely in November, when Carezo was prio-banned on all of his accounts for participating in [No Server November 2021](https://2b2t.miraheze.org/wiki/No_Server_November).
+
+Soon after this he announced an event, Sword Survival, bringing regular PvP without crystals to 2b2t, featuring notable members of the server such as [BachiBachBach](https://2b2t.miraheze.org/wiki/BachiBachBach) & [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock)
+
+After a two-year hiatus, Carezo returned to the server in January 2023, helping [Xcc2](https://2b2t.miraheze.org/wiki/Xcc2) in building bases all around the server as well as exposing [Rebane2001](https://2b2t.miraheze.org/wiki/Rebane2001) - Another event after the firsts success was announced called Sword Survival II in April 2023, although Carezo left before being able to finish this event, therefore [Imperials](https://2b2t.miraheze.org/wiki/Imperials) took it over as a base project of their own, then Carezo left the server again that April with no explanation.
+
+As of June 2024 he has been seen active in certain 2b2t related Discord servers showing signs he may return to the server again soon.

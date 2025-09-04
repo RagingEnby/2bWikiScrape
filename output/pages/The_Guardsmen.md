@@ -1,0 +1,1 @@
+#REDIRECT [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen)

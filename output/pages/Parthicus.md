@@ -1,0 +1,15 @@
+**Parthicus** is an oldfag who joined from 4chan in early 2011.
+
+## History
+### 2011–2012
+ [hacked item](https://2b2t.miraheze.org/wiki/Hacked_Items) stash including sponges, bedrock, and end portal frames.]]
+Parthicus found 2b2t while browsing the /v/ board of 4chan in early 2011. After playing for a short time, he left the server until much later in the year. Upon rejoining in late 2011, Parthicus moved to [mcshmeggy's](https://2b2t.miraheze.org/wiki/mcsheggy) base, [Cuirass Castle](https://2b2t.miraheze.org/wiki/Cuirass_Castle). In early 2012, Parthicus left Cuirass Castle and created [Wolf's Den](https://2b2t.miraheze.org/wiki/Wolf%27s_Den). While there, he built an illegal [End portal](https://2b2t.miraheze.org/wiki/End) using [portal frames](https://2b2t.miraheze.org/wiki/Illegal_items) he stole from [omaliymix](https://2b2t.miraheze.org/wiki/omaliymix). He also raided an unnamed base owned by [shougun](https://2b2t.miraheze.org/wiki/shougun) and [x0xp](https://2b2t.miraheze.org/wiki/X0XP) and traded the items to [KJOLLA](https://2b2t.miraheze.org/wiki/KJOLLA), who brought much of it to [Imperator's Base](https://2b2t.miraheze.org/wiki/Imperator%27s_Base). After the End portal was removed from the Wolf's Den, Parthicus moved to [The Lands](https://2b2t.miraheze.org/wiki/The_Lands).
+
+### 2013–2016
+Parthicus based at the Lands for before moving first to a base called "1 Mil town", then to [Valkyria](https://2b2t.miraheze.org/wiki/Valkyria_(Base)). He would return intermittently to the Lands and grief various bases until the fall of the Lands in March of 2016. Parthicus founded [Rishada](https://2b2t.miraheze.org/wiki/Rishada), and raided [CreamOFtheSlop](https://2b2t.miraheze.org/wiki/CreamOFtheSlop) and [XxPR3D4TORxX86](https://2b2t.miraheze.org/wiki/XxPR3D4TORxX86) base. Their base was unnamed, but also housed [popbob](https://2b2t.miraheze.org/wiki/popbob) and [taylo](https://2b2t.miraheze.org/wiki/taylo112). Housed at Rishada were [32K Weapons](https://2b2t.miraheze.org/wiki/32K_Weapons) stolen from [AlphaComputer](https://2b2t.miraheze.org/wiki/AlphaComputer) and [iTristan](https://2b2t.miraheze.org/wiki/iTristan). Also at Rashida was a trading hall built by [YellowstoneJoe](https://2b2t.miraheze.org/wiki/YellowstoneJoe). Rashida was griefed in early 2016 by [jared2013](https://2b2t.miraheze.org/wiki/jared2013). Parthicus subsequently based at [Space Valkyria 2](https://2b2t.miraheze.org/wiki/Space_Valkyria_2) with [Jacktherippa](https://2b2t.miraheze.org/wiki/Jacktherippa) until its grief.
+
+### 2016–2020
+Following the coming of [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher), Parthicus griefed extensively, destroying such bases as [C4RTM4N's](https://2b2t.miraheze.org/wiki/C4RTM4N) [2b2t Creative Mode Project](https://2b2t.miraheze.org/wiki/2b2t_Creative_Mode_Project) on December 27, 2016, and [Ironfarm Base](https://2b2t.miraheze.org/wiki/Ironfarm_Base) on March 31, 2017.
+
+## References
+{{Reflist}}

@@ -1,0 +1,12 @@
+**IvoireThePaladin** is a builder that built at [Ireton](https://2b2t.miraheze.org/wiki/Ireton) and reconstructed [Castle Hatehart](https://2b2t.miraheze.org/wiki/Castle_Hatehart).
+
+## History
+IvoireThePaladin joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) on June 1, 2016 from [TheCampingRusher's](https://2b2t.miraheze.org/wiki/TheCampingRusher) [video](https://www.youtube.com/watch?v=MQbnPn5BM-E).
+
+He set up in [Castle Hatehart](https://2b2t.miraheze.org/wiki/Castle_Hatehart), expanded it, and farmed resources for several days before leaving [Spawn](https://2b2t.miraheze.org/wiki/Spawn) via the [Nether highways](https://2b2t.miraheze.org/wiki/Nether_highways). He stayed at a variety of small bases within a few hundred kilometers for the remainder of the [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War), most notably at his base Iron Cross, which he built with [money_creeper03](https://2b2t.miraheze.org/wiki/money_creeper03).
+
+When the [April Fool's 2017 Temp Map](https://2b2t.miraheze.org/wiki/Temp_maps#2017_April_Fool%27s_Temp_Map) occurred, IvoireThePaladin went to Fort Dick, where he met [Irevore](https://2b2t.miraheze.org/wiki/Irevore), [Kraze7997](https://2b2t.miraheze.org/wiki/Kraze7997), [Crayfisher2012](https://2b2t.miraheze.org/wiki/Crayfisher2012), [janne1204](https://2b2t.miraheze.org/wiki/janne1204), [D0NTkillKENNY](https://2b2t.miraheze.org/wiki/D0NTkillKENNY), and [ForgottenHarmony](https://2b2t.miraheze.org/wiki/ForgottenHarmony).
+
+When the main map returned, IvoireThePaladin and the rest of the group moved to Irevore's base, [Ireton](https://2b2t.miraheze.org/wiki/Ireton). IvoireThePaladin regularly traveled back to Castle Hatehart to make repairs after it had been griefed several times by [iTavux](https://2b2t.miraheze.org/wiki/iTavux) and a player simply known as 'G'. When IvoireThePaladin got there after an especially large grief, he met [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy), who had already repaired large sections of the base. They became friends there and afterward IvoireThePaladin was invited to the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons) as a guest, but later decided to leave to focus on Ireton. After Castle Hatehart suffered an abnormally destructive grief in January 2017, he left a small monument there, and then concentrated solely on Ireton (largely in the form of autofishing) until he went inactive.
+
+## References

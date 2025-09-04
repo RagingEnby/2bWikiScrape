@@ -1,0 +1,5 @@
+{{NoInfo}}
+
+IamTUNA, known primarily as **Tuna**, is a well-known shitposter and chatfag who joined in 2012. He participated in bases such as [Yiffington I](https://2b2t.miraheze.org/wiki/Yiffington_I), as well as [The KKK](https://2b2t.miraheze.org/wiki/The_KKK), and was an affiliate of [Fit](https://2b2t.miraheze.org/wiki/Fit), prior to YouTube fame, as well as [SilverKrownKing](https://2b2t.miraheze.org/wiki/SilverKrownKing) and [DemonElite119](https://2b2t.miraheze.org/wiki/DemonElite119). He was active during the [Third Incursion](https://2b2t.miraheze.org/wiki/Third_Incursion), and was made a member of [nerds inc](https://2b2t.miraheze.org/wiki/Nerds_Inc) in late 2016 along with [fr1kin](https://2b2t.miraheze.org/wiki/fr1kin). He has been inactive on 2b2t since [Veteran Queue](https://2b2t.miraheze.org/wiki/Veteran_Queue) was removed in late 2017.
+
+Nowadays, IamTUNA spends their time on [Constantiam](https://2b2t.miraheze.org/wiki/Constantiam) shitposting for hours on end in the chat.

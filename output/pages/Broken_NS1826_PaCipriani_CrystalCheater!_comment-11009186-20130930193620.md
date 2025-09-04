@@ -1,0 +1,1 @@
+Yes I think that it is a bit fishy, cause how can he got those medals if you start with adding 250 to articles up to 1000? And not even getting "You've lost your 40 marbles" Badge? Cause that only needs 100 edits but the is atles 750!

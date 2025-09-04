@@ -1,0 +1,1 @@
+#REDIRECT [Empire's Edge](https://2b2t.miraheze.org/wiki/Empire%27s_Edge)

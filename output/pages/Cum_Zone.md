@@ -1,0 +1,1 @@
+#REDIRECT [Crimson Star#Cum Zone](https://2b2t.miraheze.org/wiki/Crimson_Star#Cum_Zone)

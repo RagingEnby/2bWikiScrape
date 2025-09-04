@@ -1,0 +1,1 @@
+#REDIRECT [Block Game Mecca](https://2b2t.miraheze.org/wiki/Block_Game_Mecca)

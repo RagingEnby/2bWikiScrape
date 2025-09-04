@@ -1,0 +1,1 @@
+#REDIRECT [Terminology#S](https://2b2t.miraheze.org/wiki/Terminology#S)

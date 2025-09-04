@@ -1,0 +1,1 @@
+#REDIRECT [Exodus (group)](https://2b2t.miraheze.org/wiki/Exodus_(group))

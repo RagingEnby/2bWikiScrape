@@ -1,0 +1,1 @@
+#REDIRECT [Talk:Jay monroe](https://2b2t.miraheze.org/wiki/Talk:Jay_monroe)

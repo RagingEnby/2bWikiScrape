@@ -1,0 +1,1 @@
+#REDIRECT [Backstreet Boys](https://2b2t.miraheze.org/wiki/Backstreet_Boys)

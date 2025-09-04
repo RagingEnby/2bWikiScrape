@@ -1,0 +1,1 @@
+#REDIRECT [Spawn sky symbols](https://2b2t.miraheze.org/wiki/Spawn_sky_symbols)

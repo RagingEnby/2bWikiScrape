@@ -1,0 +1,4 @@
+{{stub}}
+**CuppyK** is a builder and the Leader of the [Sun Knights](https://2b2t.miraheze.org/wiki/Sun_Knights).
+## History
+CuppyK joined 2b2t after finding it through a [SalC1](https://2b2t.miraheze.org/wiki/SalC1) video. While escaping [Spawn](https://2b2t.miraheze.org/wiki/Spawn), he met [bobbers22](https://2b2t.miraheze.org/wiki/bobbers22), who gave him gear and invited him to [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association). CuppyK built at [SBAs 9-20](https://2b2t.miraheze.org/wiki/SBA) before getting kicked from the group and starting the [Sun Knights](https://2b2t.miraheze.org/wiki/Sun_Knights). He also built at [Larptown](https://2b2t.miraheze.org/wiki/Larptown), and [Kekwtown](https://2b2t.miraheze.org/wiki/Astral_Brotherhood#April_2022_Expansion) among other bases. CuppyK also often spends time in Nether spawn with other Sun Knights, repairing the infrastructure in the area.

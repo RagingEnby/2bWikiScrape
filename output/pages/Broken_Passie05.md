@@ -1,0 +1,1 @@
+#REDIRECT [Passie05](https://2b2t.miraheze.org/wiki/Passie05)

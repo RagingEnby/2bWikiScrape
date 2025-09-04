@@ -1,0 +1,1 @@
+You're the one who is going to start controversy in this tournament. Besides, where's the draw video? Sign ups ended.

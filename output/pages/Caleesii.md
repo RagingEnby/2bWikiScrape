@@ -1,0 +1,1 @@
+#REDIRECT [List of pre-june players](https://2b2t.miraheze.org/wiki/List_of_pre-june_players)

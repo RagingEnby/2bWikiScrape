@@ -1,0 +1,9 @@
+**Toysoildier** is a builder that built at [Mu](https://2b2t.miraheze.org/wiki/Mu) and was a member of the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons).
+## History
+Toysoildier joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) in June 2016 following [TheCampingRusher's](https://2b2t.miraheze.org/wiki/TheCampingRusher) video. He kept to himself until the start of [Byrnsy's](https://2b2t.miraheze.org/wiki/Byrnsy) X+ Nether Highway world border dig with the [Nether Highway Group](https://2b2t.miraheze.org/wiki/Nether_Highway_Group) in December 2016. He participated in the dig for much of its duration, and based at [Oasis Outpost](https://2b2t.miraheze.org/wiki/Oasis_Outpost), [15 Mil Town](https://2b2t.miraheze.org/wiki/15_Mil_Town) [24 Million Cave](https://2b2t.miraheze.org/wiki/24_Million_Cave), [Point Nemo](https://2b2t.miraheze.org/wiki/Point_Nemo), and [Point Dory](https://2b2t.miraheze.org/wiki/Point_Dory) in the process before being invited to [Mu](https://2b2t.miraheze.org/wiki/Mu) following the completion of the dig. While at Mu, he helped to make [32K Weapons](https://2b2t.miraheze.org/wiki/32K_Weapons) widely available, the sales of which funded priority queue for many Mu members. He was the first player to get the 'How did I get here?' achievement on the sever. In the interim, he built at [Victoria](https://2b2t.miraheze.org/wiki/Victoria) and participated in the [South Canal Corp](https://2b2t.miraheze.org/wiki/South_Canal_Corp), with whom he participated in the [100K OW Mapping Project](https://2b2t.miraheze.org/wiki/100K_OW_Mapping_Project). He also became a member of the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons), with whom he participated at a variety of lodges and events with. Following the grief of Mu in February 2020, he stopped playing 2b2t.
+## Gallery
+<gallery>
+Skjermbilde_2018-06-10_kl._01.44.09.png|Skjermbilde by Toysoildier
+Toysoldier.jpg|Toysoldier by Toysoildier
+</gallery>
+## References

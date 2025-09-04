@@ -1,0 +1,1 @@
+#REDIRECT [Talk:Househousehouse1/@comment-119.237.157.186-20180107110810](https://2b2t.miraheze.org/wiki/Talk:Househousehouse1%2F%40comment-119.237.157.186-20180107110810)

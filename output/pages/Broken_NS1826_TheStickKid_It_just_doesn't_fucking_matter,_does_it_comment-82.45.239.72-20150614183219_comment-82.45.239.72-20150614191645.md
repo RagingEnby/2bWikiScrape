@@ -1,0 +1,1 @@
+Besides, he caused unnecessary drama, so he certainly should be banned.

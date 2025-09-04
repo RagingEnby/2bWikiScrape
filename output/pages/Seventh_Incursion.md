@@ -1,0 +1,1 @@
+#REDIRECT [7th Incursion](https://2b2t.miraheze.org/wiki/7th_Incursion)

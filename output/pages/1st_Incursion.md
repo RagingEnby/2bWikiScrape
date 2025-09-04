@@ -1,0 +1,21 @@
+{{IncursionInfobox
+|base_of_origin=[Valkyria](https://2b2t.miraheze.org/wiki/Valkyria_(base))
+|spawn_base=2k2k
+|duration=1 week
+|outcome=Failure
+|s1=Second Incursion
+|groups=[Valkyria](https://2b2t.miraheze.org/wiki/Valkyria)}}{{Incursion}}
+
+**I Incursion** or **1st Incursion** or **The First Incursion** was organized by [Valkyria (group)](https://2b2t.miraheze.org/wiki/Valkyria_(group)) and occurred in June of 2013. The event took place at a time when the number of players was small. Therefore, the main information was obtained from [Sato86](https://2b2t.miraheze.org/wiki/Sato86), as well as from a documentary video by [FitMC](https://2b2t.miraheze.org/wiki/FitMC).
+
+## History
+The 1st Incursion, also known as ‘Incursion I’ or the ‘Spawn Invasion’, was an event that took place in June 2013. At the time the base members of [Valkyria](https://2b2t.miraheze.org/wiki/Valkyria) were getting bored and decided to ‘invade’ spawn and take control of the spawn region. Equipped with kinorana’s duped ‘God’ armor and gear (presumably max enchanted gear), a group of Valkyrians traveled to spawn to kill players and withers. The ‘patrols’ also had a good area to work with due to the admin recently flattening spawn to decrease lag on the server. The invaders settled down at 2k2k, the base the [Facepunch Republic](https://2b2t.miraheze.org/wiki/Facepunch_Republic) had tried to defend earlier, and used it as a base of operation. The invasion lasted for around a week, but soon afterwards fell apart due to participants pursuing other goals. Due to this the leader [Sato86](https://2b2t.miraheze.org/wiki/Sato86) considered the incursion mostly a failure, be it that the participants didn’t really care about it at the time. The invasion basically lacked clear objectives and goals, causing players to become disorganized and lose interest in the event very quickly. Yet, the event also showed that even in anarchy, players could band together to accomplish something. In later years the event was called an ‘incursion’, one of the unique moments where a sizable portion of the community comes together to achieve a specific goal, mostly focussed around the spawn region. Nowadays the 1st Incursion is considered the first of the three ‘classic incursions’, which took place before the presence of big youtubers on the server.
+
+{{Caption|Yes, the first incursion was motivated by boredom. At the time we didn’t even call it incursion… This is now June of 2013. The first version of Valkyria is almost complete regarding the buildings and most basemates were tired of building and basing. Hindejd, one of five founders of Valkyria came to us with the idea of “invading” spawn. Usually, that idea would be refused, but the conditions were perfect because of the 1.4.7. Everyone at Valkyria was extremely well equipped with Kino duped armor, tools, and weapons which means we would have a chance to stand equal to any veteran spawn killer we could find.
+
+We accepted this idea and marched to spawn, but not all together. Some people went a few days ahead of the rest, like Drewbookman and Hinderjd. They were important to settle some farms to sustain us. Half of the players of Valkyria were not online at the time or refused to come. After walking for hours at spawn and killing all the withers we could find, we decided to settle at 2k2k.
+
+2k2k was a symbolic place for players like hinder and coldwave, since it was a former Facepunch base. The newfag haven of Phagocytic. That was the main reason why we picked it. The place was not in bad condition despite a giant lavacast. The underground was beautiful. But despite the good start, the first incursion became a mess. People started to separate to pursue their goals at spawn. We were not organized at the time, so 2k2k soon fell to griefers. Some of us also died, including me. This was due to the fact that even with good equipment, some of us still lacked the PVP experience. Spawn also made its role by killing some of us by fall damage. The whole event lasted only 1 week with a few ripples because some members remained at spawn for a bit more time. The First Incursion failed… But no one really cared about it at the time. We wanted a challenge and we bite more than we could chew.|Sato}}
+
+## References
+{{Events}}

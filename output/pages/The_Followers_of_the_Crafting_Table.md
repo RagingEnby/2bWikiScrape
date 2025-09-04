@@ -1,0 +1,1 @@
+#REDIRECT [Followers of the Crafting Table](https://2b2t.miraheze.org/wiki/Followers_of_the_Crafting_Table)

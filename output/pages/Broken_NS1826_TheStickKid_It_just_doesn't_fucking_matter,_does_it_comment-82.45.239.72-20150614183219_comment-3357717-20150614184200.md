@@ -1,0 +1,1 @@
+He basically insulted me just like every asshole i've met. He says im a terrible host. He says i don't do shit for my co-hosts. He says im ripping his shit off. He is basically giving me shit and causing drama. Things were going well and then he fucked it all up.

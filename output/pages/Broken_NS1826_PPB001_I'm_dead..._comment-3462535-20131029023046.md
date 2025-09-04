@@ -1,0 +1,1 @@
+It's not that the stuff you've been adding is "not allowed", it's just that it's unnecessary to have on the wiki and just clutters it up. That as well as the fact that you don't quite know how to format pages correctly meant that your pages needed some tidying up after you'd added the content to them so that was a bit time consuming as well.

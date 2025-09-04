@@ -1,0 +1,1 @@
+#REDIRECT [Guardsmen#Camp Spooky](https://2b2t.miraheze.org/wiki/Guardsmen#Camp_Spooky)

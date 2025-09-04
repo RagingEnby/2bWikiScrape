@@ -1,0 +1,1 @@
+#REDIRECT [WorldEdit](https://2b2t.miraheze.org/wiki/WorldEdit)

@@ -1,0 +1,1 @@
+#REDIRECT [NickHasCancer](https://2b2t.miraheze.org/wiki/NickHasCancer)

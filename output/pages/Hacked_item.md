@@ -1,0 +1,1 @@
+#REDIRECT [Illegal items](https://2b2t.miraheze.org/wiki/Illegal_items)

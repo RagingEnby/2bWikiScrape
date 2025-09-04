@@ -1,0 +1,24 @@
+**Byrnsy** is an [oldfag](https://2b2t.miraheze.org/wiki/oldfag) who is most well known for leading the dig to the X+ world border from December 2016 - March 2017, and digging the last blocks of the highway. Although [iTristan](https://2b2t.miraheze.org/wiki/iTristan) and [Pyrobyte](https://2b2t.miraheze.org/wiki/Pyrobyte) had reached the world border before the [X+ Diggers](https://2b2t.miraheze.org/wiki/Nether_Highway_Group) and were the first to have done so, it was through a backdoor involving teleportation. There is a misconception that he was the first legitimate player to reach the world border. In fact, [MiningMinecraft](https://2b2t.miraheze.org/wiki/MiningMinecraft), as well as some other diggers, arrived there before Byrnsy, but he did dig the final blocks of the [X+ Highway](https://2b2t.miraheze.org/wiki/Highways).
+
+## History
+It is unknown when exactly Byrnsy first joined 2b2t. Although he may have played in 2011 (using the name xxBurnseyxx). the earliest proof of his playing comes from September 2012. He has said that he first found out about 2b2t from a thread on 4chan.
+
+Byrnsy was largely a solo player prior to 2016, only occasionally appearing at spawn or speaking in chat. Despite this, he did have a small part in the third incursion (usually consisting of being killed by the more active incursion players). Sometime in late 2015, Byrnsy found a dupe stash containing full armor sets and several stacks of Notch Apples. This dupe stash gave Byrnsy the resources needed to fully participate in the Rusher War.
+
+### Rusher War
+Because Byrnsy has armor and Notch Apples, he quickly started participating in the [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War) activities in June of 2016. Most notably, he fought [CorruptedUnicorn](https://2b2t.miraheze.org/wiki/CorruptedUnicorn). After the first fight, Byrnsy gave Corrupted and his friend several God Apples as a sign of respect for a good fight. These apples would eventually be duped, giving power to the Resistance. Byrnsy would also participate in several other fights posted on Youtube, including a 2v2 with [Torogadude](https://2b2t.miraheze.org/wiki/Torogadude) against several [Archon](https://2b2t.miraheze.org/wiki/Archon) Youtubers and a rematch against CorruptedUnicorn.
+
+Byrnsy eventually became involved with the main incursion group led by [Sato](https://2b2t.miraheze.org/wiki/Sato86) and [Fit](https://2b2t.miraheze.org/wiki/Fit), although he was not an active participant on many group raids or events. He did base with this group for a short time at [Medina](https://2b2t.miraheze.org/wiki/Medina) however.
+
+#### Post-war
+Byrnsy returned to solo play in September of 2016, creating his Ocean Base as well as the Milhouse Map. While mapping the area around his base one day, he came across an underground path spanning thousands of blocks. This base led to [The Drain](https://2b2t.miraheze.org/wiki/The_Drain), which was an active base at the time. Rather than griefing the base, Byrnsy left some signs asking if he could build there. The group at The Drain agreed, and Byrnsy joined the base. The Drain was griefed soon after Byrnsy joined, but Byrnsy would remain involved with the group in several future smaller projects.
+
+### Traveling to the +X Border
+Eventually deciding he was bored with building, Byrnsy decided to try digging to the 2b2t world border via the +X nether highway, which only went to 800k at the time. He left from spawn on December 9th, 2016. Starting at 175k, he made nether milestones every 25k. These milestones were often pretty simple, each having a portal, a unique theme, and areas for players to place signs. After every 10% of the journey, he would post albums containing screenshots and captions to the 2b2t subreddit.
+
+These posts inadvertently started a movement that saw many players make the trek to head to the world border. The first players to reach where Byrnsy was on the highway were Pufferfluffs and Auion. These three players started the first major +X highway dig base, known as [Outpost Oasis](https://2b2t.miraheze.org/wiki/Outpost_Oasis). As time went on, more people joined the dig. These players, now calling themselves [The Nether Highway Group](https://2b2t.miraheze.org/wiki/Nether_Highway_Group), made bases at 15 million overworld and 3 million nether. This group eventually reached the +X border, founding [Point Nemo](https://2b2t.miraheze.org/wiki/Point_Nemo) and [Point Dory](https://2b2t.miraheze.org/wiki/Point_Dory). After Dory, the group started a new highway, this time to the +X +Z corner, which was eventually reached.
+
+### Mu Megabase
+After the corner dig, Byrnsy became a significant contributor at [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu), basing there for about 26 months. Major builds he contributed to the base included the hall of statues, the pearling area, and much of the nether infrastructure.
+
+## References

@@ -1,0 +1,1 @@
+#REDIRECT [The Purge](https://2b2t.miraheze.org/wiki/The_Purge)

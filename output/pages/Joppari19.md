@@ -1,0 +1,9 @@
+**joppari19** (aka **joppari**) is a builder and a member of the [Southern Canal Association](https://2b2t.miraheze.org/wiki/Southern_Canal_Association)
+## History
+joppari19 joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) on October 3, 2022. He escaped [Spawn](https://2b2t.miraheze.org/wiki/Spawn) via the [Southern Canal](https://2b2t.miraheze.org/wiki/Southern_Canal), which included [Godroster's](https://2b2t.miraheze.org/wiki/Godroster) so-called 'cookie shack' weigh stations with food for new players.
+
+joppari joined [Southern Canal Association](https://2b2t.miraheze.org/wiki/Southern_Canal_Association) as a result. He worked to expand and extend the Southern Canal for the remainder of 2022, also assisting the group against the so-called [Southern Canal Incursion](https://2b2t.miraheze.org/wiki/Southern_Canal_Association#Southern_Canal_Incursion). He also began building 'jop care spots' along the Southern Canal in homage to the 'cookie shacks' which had enabled him to escape spawn in the first place. While at the [SCA New Year's Eve](https://2b2t.miraheze.org/wiki/Southern_Canal_Association) event, joppari met [Romal_furnoi](https://2b2t.miraheze.org/wiki/Romal_furnoi).
+
+Together they founded a base, which caused joppari to go inactive in the SCA for a few months; it was later griefed in May 2023. He also became involved with [The Collective](https://2b2t.miraheze.org/wiki/The_Collective), [Spawn Sentries](https://2b2t.miraheze.org/wiki/Spawn_Sentries), [Zealous Covenant](https://2b2t.miraheze.org/wiki/Zealous_Covenant), [Waterway Union](https://2b2t.miraheze.org/wiki/Waterway_Union), [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association), and [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood) in early 2023, building at a wide variety of bases with them, although mostly the Collective and SBA.
+
+## References

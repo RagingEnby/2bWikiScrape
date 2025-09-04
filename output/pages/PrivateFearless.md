@@ -1,0 +1,1 @@
+#REDIRECT [YouTube tourists#PrivateFearless](https://2b2t.miraheze.org/wiki/YouTube_tourists#PrivateFearless)

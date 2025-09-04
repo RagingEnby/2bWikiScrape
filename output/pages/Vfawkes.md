@@ -1,0 +1,1 @@
+#REDIRECT [V Fawkes](https://2b2t.miraheze.org/wiki/V_Fawkes)

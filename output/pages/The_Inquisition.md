@@ -1,0 +1,1 @@
+#REDIRECT [Inquisition](https://2b2t.miraheze.org/wiki/Inquisition)

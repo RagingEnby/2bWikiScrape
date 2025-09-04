@@ -1,0 +1,1 @@
+#REDIRECT [test.2b2t.org](https://2b2t.miraheze.org/wiki/test.2b2t.org)

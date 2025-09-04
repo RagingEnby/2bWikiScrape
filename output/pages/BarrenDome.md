@@ -1,0 +1,1 @@
+#REDIRECT [BarrenDome](https://2b2t.miraheze.org/wiki/BarrenDome)

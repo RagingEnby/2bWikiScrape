@@ -1,0 +1,31 @@
+**chiekn** is a 2019 newfag, who is known for being a stash finder, exploiter, and builder. He has built with several groups such as [The Ancients](https://2b2t.miraheze.org/wiki/The_Ancients), [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons), [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood) and [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association).
+
+## History
+Chiekn first joined the server on the 23rd of July 2019 with his cousin in vanilla. They escaped spawn together, and quickly got established. After a few months on the server, they went on to establish their first base, Fernweh, in March 2020. This base is still standing to this day and houses many tamed mobs and pets from various old players.
+
+He began playing 2b properly around early 2021, employing clients and mods to improve his previous vanilla experiences.  Around this time he began basehunting in earnest and would get established well with items. He grew interested in the history of illegals and illegally placed blocks, along with other exploits and rare items. He would also start watching 2b streamers, such as [Raaanch](https://2b2t.miraheze.org/wiki/Raaanch) and [Paulsteve007](https://2b2t.miraheze.org/wiki/Paulsteve007), and would connect with various other 2b players. He met [Joetty](https://2b2t.miraheze.org/wiki/Joetty) during this period and would become good friends with him. Joetty would then go on to teach chiekn about how illegal items had never been removed, and they began experimenting with these. In October 2021, they discovered how to move illegal items around, using this knowledge to discover the armour dupe, which required putting an unbreakable armor piece into a dispenser. During 2021, chiekn also befriended [RulesOff](https://2b2t.miraheze.org/wiki/RulesOff), a very talented programmer and streamer. Together with RulesOff's help, they created an auto-duper for the armor dupe.
+
+## Illegally Placed Blocks & Exploits
+chiekn had a profound interest in illegal items on the server, and also illegally placed blocks. He conducted research about past locations, and then visit all the places that still had illegally placed blocks around. In late 2021, most public places with these were removed. A year later, a player by the name of [TockTick](https://2b2t.miraheze.org/wiki/TockTick) privately shared to him a location that still had illegally placed bedrock in the nether. He flew out to document this area. This bedrock would stand all the way until Summer 2024, when it was removed. This bedrock sparked him to start strategically hunt for old artifacts. He began flying around spawn, at the range of 160k, to log all the old trails. This how he discovered [The Invisible Castle](https://2b2t.miraheze.org/wiki/The_Invisible_Castle). After a few months, he and a few others noticed that this castle was invaded by new players. This made chiekn unhappy, as this was one of the only few lasting bases from 2011. He went on to remove all the new builds that was added onto the base and restored the original terrain around.
+
+In 2022, chiekn learned from [Harrissssonn](https://2b2t.miraheze.org/wiki/Harrissssonn) a TP exploit that involved pushing a boat into a gateway in the end. Together with the rest of the Ancients, they abused the exploit, which led to the establishment of [Corner Base](https://2b2t.miraheze.org/wiki/Corner_Base). chiekn continued to research with gateways, and discovered multiple strange effects with it, such as godmode and duplicating entities. Around this time, he and [YoMoBoYo](https://2b2t.miraheze.org/wiki/YoMoBoYo) experimented extensively with gateways, and found ways to break the gateways and bedrock around it.
+
+## The Ancients, SBA, Astral & SpawnMasons
+In late 2021, chiekn joined [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association) where he met [Hovecs](https://2b2t.miraheze.org/wiki/Hovecs), [YoMoBoYo](https://2b2t.miraheze.org/wiki/YoMoBoYo), [Minecraft_simon](https://2b2t.miraheze.org/wiki/Minecraft_simon), and many others. After being in SBA for a few months, he would be invited to help build [Squid Games 3](https://2b2t.miraheze.org/wiki/Squid_Games_3). After this, he would be invited into [The Ancients](https://2b2t.miraheze.org/wiki/The_Ancients). He would start building with this group at different events, and would also lead into being invited into [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood). He would go on to build at different bases, such as [Dubrovnik](https://2b2t.miraheze.org/wiki/Dubrovnik) and [New Menegroth](https://2b2t.miraheze.org/wiki/New_Menegroth).
+
+chiekn was invited into the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons) in September 2022. After arriving at their main base, [Sky Masons](https://2b2t.miraheze.org/wiki/Sky_Masons), he built a Chicken Island together with Hovecs. He also began constructing his own island, which was nearly finished when the base was griefed. chiekn also built with the Spawnmasons and Ancients at [The Isle](https://2b2t.miraheze.org/wiki/The_Isle). chiekn was made a full member of the SpawnMasons in August 2023.
+
+## Munmap & Randar
+In 2023, an account by the name of [Munmap](https://2b2t.miraheze.org/wiki/Munmap) started showing up to bases. As chiekn was known for his trolling and exploiting, people started accusing him of being munmap. Chiekn, in his trolly way, accepted the title blatantly. Ironically enough, he was later invited to start stealing and checking points that he got from [Randar](https://2b2t.miraheze.org/wiki/Randar), which was a coordinate exploit, lasting from April 2023 to August 2023. He later received access to the Munmap account, being one of the main players to steal through the Randar exploit.
+
+## Gallery
+<gallery>
+File:Chiekn portal.png|chiekn visiting an illegally placed end portal
+File:Chiekn unbreakables.png|Wearing duped unbreakables
+File:Chiekn chicken.png|chiekn and hovecs at their Chicken build at Sky
+File:Headless pistons.png|Yomo and chiekn messing around with illegal block states in the end
+File:Drain shop heist.png|chiekn with the gang at the Drain Shop heist
+File:Ourplace.png|our/place location
+File:Dubrovnik2.png|chiekn's build at Dubrovnik
+File:Bedrock3.png|chiekn visiting illegal bedrock
+</gallery>

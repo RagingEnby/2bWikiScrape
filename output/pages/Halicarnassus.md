@@ -1,0 +1,19 @@
+{{BaseTemplate
+| image = I_tri_towers.jpg
+| quote =
+| caption = I_tri's towers at Halicarnassus
+| status = Griefed
+| builders = [A97J](https://2b2t.miraheze.org/wiki/A97J), [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs), [Chipoff](https://2b2t.miraheze.org/wiki/Chipoff), [I_tri](https://2b2t.miraheze.org/wiki/I_tri), [iAmZeiss](https://2b2t.miraheze.org/wiki/iAmZeiss), [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut), [Lunch_Katsu](https://2b2t.miraheze.org/wiki/Lunch_Katsu), [oofcloof](https://2b2t.miraheze.org/wiki/oofcloof), [Steampunkjax](https://2b2t.miraheze.org/wiki/Steampunkjax), [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a), and [0Channy](https://2b2t.miraheze.org/wiki/0Channy)
+| date_started = December 7, 2020
+| date_finished =
+| coords = (-418800, 1209700)
+| leaker = [Zetrax](https://2b2t.miraheze.org/wiki/Zetrax)
+| date_griefed = October 22, 2021
+| griefers = Self-grief ([Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut))
+| wdl =
+}}**Halicarnassus** was a million base inhabited by [Crimson](https://2b2t.miraheze.org/wiki/Crimson), [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate), and [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood) members for its 10 month lifespan from 2020 to 2021, although it existed independently of these groups.
+
+## History
+Halicarnassus was founded by a short-lived group of trusted [Crimson](https://2b2t.miraheze.org/wiki/Crimson) and [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate) members (called [Stashcrew](https://2b2t.miraheze.org/wiki/Stashcrew)) on December 21st, 2020. It served as a both a place to deposit the stashes several members of the group had found, and to provide a longer-term base for the members of the group. The members moved to [Adamantium](https://2b2t.miraheze.org/wiki/Adamantium) with [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut) in the wake of [jared2013's](https://2b2t.miraheze.org/wiki/jared2013) leak of [Block Game Jerusalem](https://2b2t.miraheze.org/wiki/Block_Game_Jerusalem) to [orsond](https://2b2t.miraheze.org/wiki/orsond), as well as the grief of [Lateott](https://2b2t.miraheze.org/wiki/Fate#History) and theft of [NotedPainter814's](https://2b2t.miraheze.org/wiki/NotedPainter814) stash by orsond. The group remained with the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) for a long period after and nearly all became members over the next year. As the builders were building with the Guardsmen, they were not building at the base. Besides [iAmZeiss](https://2b2t.miraheze.org/wiki/iAmZeiss) stealing a large portion of the stash with [dragonworm](https://2b2t.miraheze.org/wiki/dragonworm) for [DonFuer 21](https://2b2t.miraheze.org/wiki/DonFuer_21) (formerly Deepwater Horizon), the base stayed largely inactive for the majority of 2021.
+
+The base lay dormant except for the construction of [I_tri](https://2b2t.miraheze.org/wiki/I_tri)’s Desert towers and [Steampunkjax's](https://2b2t.miraheze.org/wiki/Steampunkjax) Parthenon Temple, and the invitation of [Chipoff](https://2b2t.miraheze.org/wiki/Chipoff). Several new members from the [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood) were invited to the base in early September 2021. They included [A97J](https://2b2t.miraheze.org/wiki/A97J) - the final builder of the base, and [Zetrax](https://2b2t.miraheze.org/wiki/Zetrax) - who leaked the base to orsond. Following the grief of [Menegroth](https://2b2t.miraheze.org/wiki/Astral_Brotherhood#Formative_bases) and the discovery of Zetrax leaking Halicarnassus, the base members decided to grief Halicarnassus themselves. It was griefed by Joey_Coconut on October 22, 2021.

@@ -1,0 +1,1 @@
+I think these ideas are all interesting, but the problem, as is often the case, would be engagement. Having a voting process would be a good way to test the water and see if people are on board with the idea of new post-IAS tournaments.

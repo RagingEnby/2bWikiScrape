@@ -1,0 +1,1 @@
+#REDIRECT [Overworld highways#Flower Trail](https://2b2t.miraheze.org/wiki/Overworld_highways#Flower_Trail)

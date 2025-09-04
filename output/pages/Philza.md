@@ -1,0 +1,1 @@
+#REDIRECT [YouTube tourists#Ph1LzA](https://2b2t.miraheze.org/wiki/YouTube_tourists#Ph1LzA)

@@ -1,0 +1,1 @@
+#REDIRECT [Astral Republic](https://2b2t.miraheze.org/wiki/Astral_Republic)

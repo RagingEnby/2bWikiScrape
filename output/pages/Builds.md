@@ -1,0 +1,1 @@
+#REDIRECT [List of small bases](https://2b2t.miraheze.org/wiki/List_of_small_bases)

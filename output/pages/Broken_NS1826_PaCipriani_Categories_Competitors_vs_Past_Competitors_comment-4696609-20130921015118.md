@@ -1,0 +1,1 @@
+Well, what if someone makes one blog post, where we ask each other, what should be added/edited on the wiki in general.

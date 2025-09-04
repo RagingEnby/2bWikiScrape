@@ -1,0 +1,25 @@
+{{BaseTemplate
+| image = Adamantium.png
+| quote =
+| caption = A render of Adamantium
+| status = Griefed
+| builders = [0Channy](https://2b2t.miraheze.org/wiki/0Channy), [Lunch_Katsu](https://2b2t.miraheze.org/wiki/Lunch_Katsu), [aholic1208](https://2b2t.miraheze.org/wiki/aholic1208), [BachiBachBach](https://2b2t.miraheze.org/wiki/BachiBachBach), [Banana_On_2b2t](https://2b2t.miraheze.org/wiki/Banana_On_2b2t), [Black_Heart](https://2b2t.miraheze.org/wiki/Black_Heart), [bluebirdx](https://2b2t.miraheze.org/wiki/bluebirdx), [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs), [Bathory343](https://2b2t.miraheze.org/wiki/Bathory343), [Dectonic](https://2b2t.miraheze.org/wiki/Dectonic), [digandbuilder](https://2b2t.miraheze.org/wiki/digandbuilder), [dragonworm](https://2b2t.miraheze.org/wiki/dragonworm), [Drathader](https://2b2t.miraheze.org/wiki/Drathader), [D_loaded](https://2b2t.miraheze.org/wiki/D_loaded), [FamilyPumpkin6](https://2b2t.miraheze.org/wiki/FamilyPumpkin6), [Fiddlesticks98](https://2b2t.miraheze.org/wiki/Fiddlesticks98), [Forceken](https://2b2t.miraheze.org/wiki/Forceken), [Franknificant](https://2b2t.miraheze.org/wiki/Franknificant), [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock), [Hespera](https://2b2t.miraheze.org/wiki/Hespera), [HURTLOCKERBECK](https://2b2t.miraheze.org/wiki/HURTLOCKERBECK), [Hurtmercury](https://2b2t.miraheze.org/wiki/Hurtmercury), [iAmZeiss](https://2b2t.miraheze.org/wiki/iAmZeiss), [IronException](https://2b2t.miraheze.org/wiki/IronException), [ItsParkerYT](https://2b2t.miraheze.org/wiki/ItsParkerYT), [I_tri](https://2b2t.miraheze.org/wiki/I_tri) , [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut), [JSR4](https://2b2t.miraheze.org/wiki/JSR4), [Mad_King_Lambo](https://2b2t.miraheze.org/wiki/Mad_King_Lambo), [NexxMc](https://2b2t.miraheze.org/wiki/NexxMc), [Orsond](https://2b2t.miraheze.org/wiki/Orsond), [pepsilord420](https://2b2t.miraheze.org/wiki/pepsilord420), [PoyrazD12](https://2b2t.miraheze.org/wiki/PoyrazD12), [Rathause](https://2b2t.miraheze.org/wiki/Rathause), [Roy4l_Rondi](https://2b2t.miraheze.org/wiki/Roy4l_Rondi), [Sakuya](https://2b2t.miraheze.org/wiki/Sakuya), [spartan4200](https://2b2t.miraheze.org/wiki/spartan4200), [Steampunkjax](https://2b2t.miraheze.org/wiki/Steampunkjax), [TakeoutMenu](https://2b2t.miraheze.org/wiki/TakeoutMenu), [Todarac](https://2b2t.miraheze.org/wiki/Todarac), [triibu](https://2b2t.miraheze.org/wiki/triibu), [VillagerFilms](https://2b2t.miraheze.org/wiki/VillagerFilms), [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a), [Zetrax](https://2b2t.miraheze.org/wiki/Zetrax), [_Patchess](https://2b2t.miraheze.org/wiki/_Patchess).
+| date_started = {{Date and age|2020|12|31}}
+| date_finished =
+| coords = X: -71809 Z: -39190
+| leaker =
+| date_griefed = {{Date and age|2021|1|18}}
+| griefers = [WomenAreObjects](https://2b2t.miraheze.org/wiki/WomenAreObjects)
+| wdl =
+}}**Adamantium** was a large spawn base inhabited by the [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate), [DonFuer](https://2b2t.miraheze.org/wiki/DonFuer), and the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) in early 2021.
+
+## Construction
+Adamantium was founded by [Orsond](https://2b2t.miraheze.org/wiki/Orsond) and [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut) on December 31, 2020. Named for the large 'adamantine' chains 'holding down' the sky islands, the base grew slowly the first few days. As more builders were invited, the base's size increased exponentially. The base was opened up to the entirety of the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) almost immediately, while many [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate), and later [Donfuer](https://2b2t.miraheze.org/wiki/Donfuer) and [Fight Club](https://2b2t.miraheze.org/wiki/Fight_Club) members were invited as the base progressed. Issues quickly arose surrounding the rampant theft of materials from the base, Ender Crystals being placed inside builds, and several non-basemembers wandered to or near to the location. Despite these setbacks, building continued.
+
+## Builds
+Many structures were built at Adamantium, such as Joey_Coconut's Adamantine forge, [Sakuya's](https://2b2t.miraheze.org/wiki/Sakuya) statue of [Todarac](https://2b2t.miraheze.org/wiki/Todarac), [Zetrax's](https://2b2t.miraheze.org/wiki/Zetrax) Establishment HQ, [Franknificant's](https://2b2t.miraheze.org/wiki/Franknificant) Fredericks church, [0Channy's](https://2b2t.miraheze.org/wiki/0Channy) Turtle, [Lunch_Katsu's](https://2b2t.miraheze.org/wiki/Lunch_Katsu) tower, [Steampunkjax's](https://2b2t.miraheze.org/wiki/Steampunkjax) SBC Hill, Joey_Coconut's gate, [Rathause's](https://2b2t.miraheze.org/wiki/Rathause) steam-shovel, Joey_Coconut's and [JSR4's](https://2b2t.miraheze.org/wiki/JSR4) bees, Joey_Coconut's Guardsmen bridge, [PoyrazD12's](https://2b2t.miraheze.org/wiki/PoyrazD12) Pagoda, and many others.
+
+## Grief
+Adamantium was leaked to [WomenAreObjects](https://2b2t.miraheze.org/wiki/WomenAreObjects), who then griefed the base on 18 January, 2021.
+
+## References

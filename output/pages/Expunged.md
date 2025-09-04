@@ -1,0 +1,32 @@
+# expunged
+
+**expunged** is a member of the [Enclave](https://2b2t.miraheze.org/wiki/Enclave), associate of the [Brownmen](https://2b2t.miraheze.org/wiki/Brownmen) and former staff member of [Shulkerroad](https://2b2t.miraheze.org/wiki/Shulkerroad). He is known for exploiting, base hunting, griefing, and building farms.
+
+## History
+### Shulkerroad
+expunged joined 2b2t for the first time on September 21st, 2019, although his first time playing was short-lived. He returned two years later on April 29th, 2021 after seeing a video from [Fit](https://2b2t.miraheze.org/wiki/Fit) about a new shop called [Shulkerroad](https://2b2t.miraheze.org/wiki/Shulkerroad) that was operated by [ExoRam](https://2b2t.miraheze.org/wiki/ExoRam), [Redstoner2b2t](https://2b2t.miraheze.org/wiki/Redstoner2b2t), [SoiledCold](https://2b2t.miraheze.org/wiki/SoiledCold), [lord_mahan](https://2b2t.miraheze.org/wiki/lord_mahan), and [Steve3](https://2b2t.miraheze.org/wiki/Steve3). He was intrigued by the technical aspects of using [Baritone](https://2b2t.miraheze.org/wiki/Baritone) bots to automate the delivery process of kits purchased using real-world money. This caused him to join the Shulkerroad Discord server and befriend members of the [Brownmen](https://2b2t.miraheze.org/wiki/Brownmen), the group who ran Shulkerroad, as well as staff members of the Shulkerroad itself, such as [HighAtWork](https://2b2t.miraheze.org/wiki/HighAtWork). At first, he started as a deliverer who transported duped items from stashes to various dungeon chests near spawn. After months of being the top deliverer for Shulkerroad, expunged eventually earned the trust of the Brownmen and was made a manager of some of the groups's stashes, tasked with making important decisions regarding the shop. Towards the end of August 2021, he went on a three-year hiatus away from 2b2t to focus on school and his personal life.
+
+### The Enclave and Brownmen
+On August 5th, 2024, after nearly three years of inactivity, he contacted [HighAtWork](https://2b2t.miraheze.org/wiki/HighAtWork) about rejoining 2b2t. [HighAtWork](https://2b2t.miraheze.org/wiki/HighAtWork) invited him to the [Enclave](https://2b2t.miraheze.org/wiki/Enclave). After joining the [Enclave](https://2b2t.miraheze.org/wiki/Enclave), he was quickly promoted and reconnected with the [Brownmen](https://2b2t.miraheze.org/wiki/Brownmen) members from years prior, as well as met newer players, such as [catgirlmatty](https://2b2t.miraheze.org/wiki/catgirlmatty), [Dima788](https://2b2t.miraheze.org/wiki/Dima788), [H202](https://2b2t.miraheze.org/wiki/H202), [crxyne](https://2b2t.miraheze.org/wiki/crxyne), and [WhiteAtlas](https://2b2t.miraheze.org/wiki/WhiteAtlas). Currently, expunged is active in the [Enclave](https://2b2t.miraheze.org/wiki/Enclave) as a voting member, working on projects, hunting for stashes/bases to grief, building at various [Enclave](https://2b2t.miraheze.org/wiki/Enclave) bases, and managing the group. Additionally, expunged is associated with the [Brownmen](https://2b2t.miraheze.org/wiki/Brownmen) and helps with projects and decision-making that involve both groups.
+
+## Events
+### Bakery 3
+Throughout a six hour period on February 17th, 2025, expunged along with many people from the [Brownmen](https://2b2t.miraheze.org/wiki/Brownmen), Mikus Fun Committee, and the Brownwomen used a chunkban to ban at least 20 confirmed players. This chunkban was built in the overworld by Steve3, and was connected via a portal on the +X highway in the Nether at (0, 320). Similarly to Bakery 1 and 2 that the [Brownmen](https://2b2t.miraheze.org/wiki/Brownmen) did in previous years, if you loaded the chunk that the chunkban was in, you were immediately kicked and would be unable to escape until it was manually removed by the servers admin, [Hausemaster](https://2b2t.miraheze.org/wiki/Hausemaster). Despite ambitious goals to ban an even greater number of players than previous years, only ~6 hours after the first ban, Hausemaster did a server restart which removed the chunkban and patched the method being used.
+
+Some of the first bans of the event were actually Bakery members themselves, including D0FNEAR, which is an alt account of expunged. When flying on the highway to the location, expunged and mikuexpo accidentally flew into the hole that had the portals leading to the chunkban and were unable to escape in time.
+
+## Projects
+### Stealing Ze Moon
+As one of the first projects that expunged worked on with The Enclave, he helped mine and rebuild a massive moon built in the end by smcz19, a member of the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons). The project was started after catgirlmatty found the moon on September 13th, 2024, and thought it would be funny to mine it and rebuild it block by block at The Enclaves main base, The Square. Despite the moon being expected to be mined over multiple weeks, it was rushed due to the risk of the project being leaked. With the help of fellow Enclave member [WhiteAtlas](https://2b2t.miraheze.org/wiki/WhiteAtlas), the two of them mined the entire build manually within 2-3 days, staying up late and working for hours with little breaks. All of the blocks were collected semi-manually with hoppers and stored in a double chest filled with shulkers. The shulkers were then transported back to the overworld, which would later be used to rebuild the moon using a schematic at The Square. The moon was rebuilt by expunged a few weeks later, who spent a day reconstructing it block for block.
+
+## Gallery
+<gallery widths="120" heights="120">
+File:Clearing chat.png|expunged and HighAtWork clearing chat using renamed books in 2021. Their accounts would get kicked multiple times from doing this.
+File:Johnicide.png|The gathering of the John accounts on the last day of their priority queue. Right before the Johnicide.
+File:Johnicide2.png|All of the John accounts stuck in godmode floating midair next to their bed.
+File:Moon rebuilt.png|The Moon after it was stolen and rebuilt by expunged at The Square.
+File:Screenshot 2024-09-13 231125.png|expunged building the platform that would be used to mine The Moon
+File:Screenshot 2024-09-15 010643.png|The entirety of The Moon in shulker boxes
+</gallery>
+
+## References

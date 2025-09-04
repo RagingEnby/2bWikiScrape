@@ -1,0 +1,23 @@
+{{BaseTemplate
+| image = Olympus1.png
+| status = Griefed
+| date_started = 2015
+| builders = [C4RTM4N](https://2b2t.miraheze.org/wiki/C4RTM4N), [xarviar](https://2b2t.miraheze.org/wiki/xarviar), [barbar_ian](https://2b2t.miraheze.org/wiki/barbar_ian), [Tronald_Dump](https://2b2t.miraheze.org/wiki/Tronald_Dump), [Person12123](https://2b2t.miraheze.org/wiki/Person12123), [Babbaj](https://2b2t.miraheze.org/wiki/Babbaj), [UBERSLUGCAKE](https://2b2t.miraheze.org/wiki/UBERSLUGCAKE), [BenitoTortellini](https://2b2t.miraheze.org/wiki/BenitoTortellini), [Carl_Plemens](https://2b2t.miraheze.org/wiki/Carl_Plemens), [Spartan512](https://2b2t.miraheze.org/wiki/Spartan512), [mrx](https://2b2t.miraheze.org/wiki/mrx), [abanator](https://2b2t.miraheze.org/wiki/abanator), [Sato86](https://2b2t.miraheze.org/wiki/Sato86), [James_Rustles](https://2b2t.miraheze.org/wiki/James_Rustles), [_Sharpie_](https://2b2t.miraheze.org/wiki/_Sharpie_), [b4uit](https://2b2t.miraheze.org/wiki/b4uit), [berkbrein](https://2b2t.miraheze.org/wiki/berkbrein), [HairyNugget](https://2b2t.miraheze.org/wiki/HairyNugget), [Caleesii](https://2b2t.miraheze.org/wiki/Caleesii), [coconut4](https://2b2t.miraheze.org/wiki/coconut4), [TheRustleLeague](https://2b2t.miraheze.org/wiki/TheRustleLeague), [zxcwbz](https://2b2t.miraheze.org/wiki/zxcwbz), [pickle_san](https://2b2t.miraheze.org/wiki/pickle_san), [kinorana](https://2b2t.miraheze.org/wiki/kinorana), [Gecko501](https://2b2t.miraheze.org/wiki/Gecko501)
+| coords = X: -214000 Z: 13000
+| leaker = [Drewbookman](https://2b2t.miraheze.org/wiki/Drewbookman)
+| date_griefed = March 14, 2016
+| griefers = [Drewbookman](https://2b2t.miraheze.org/wiki/Drewbookman) and [OreMonger](https://2b2t.miraheze.org/wiki/OreMonger)
+}}
+**Olympus** was a group base founded by [C4RTM4N](https://2b2t.miraheze.org/wiki/C4RTM4N). It was inhabited by many well-known players and was one of the largest bases on the server at the time, with around 25 members at its peak.
+
+## History
+Olympus originally began as a small base founded by C4RTM4N in a savannah biome. At this point, it didn’t have a name and was inhabited by his irl friends. After a while, he slowly began inviting other players, starting with [BenitoTortellini](https://2b2t.miraheze.org/wiki/BenitoTortellini) and [Babbaj](https://2b2t.miraheze.org/wiki/Babbaj). He often enticed players to join by posting screenshots of the base and its member list in chat. In order to build trust, he walked players from spawn directly to the base instead of simply giving them coordinates. The base eventually grew to include some of the most well known players on 2b2t at the time, including [kinorana](https://2b2t.miraheze.org/wiki/kinorana), [Sato86](https://2b2t.miraheze.org/wiki/Sato86), and [Spartan512](https://2b2t.miraheze.org/wiki/Spartan512). The base was named Olympus, after both a round table that _Sharpie_ had built and the mountains that surrounded the base. [Imperator’s Base](https://2b2t.miraheze.org/wiki/Imperator%27s_Base) was a major inspiration for C4RTM4N, and he hoped that someday, Olympus would become even greater than Imp’s.
+
+## Destruction
+After [taylo112](https://2b2t.miraheze.org/wiki/taylo112) discovered the BedTP exploit, a bed chain was created that led to Olympus. At some point in March 2016, [Drewbookman](https://2b2t.miraheze.org/wiki/Drewbookman) found Babbaj in the Nether using the exploit to travel away from spawn. He followed Babbaj and arrived at Olympus, then invited [OreMonger](https://2b2t.miraheze.org/wiki/OreMonger) to grief the base with him. OreMonger gladly accepted due to the amount of “bigotry” at Olympus (namely, the offensive [map art](https://2b2t.miraheze.org/wiki/Mapart)), and traveled to the base to grief it. After Olympus was destroyed, many of the base members got together and griefed OreMonger’s clock base in retaliation.
+
+## Builds
+James_Rustles built a smaller version of the famous Redeemer statue from Imperator’s Base at Olympus, one of the first times that this iconic statue was featured at another base. A massive (non-functional) clock was built into the side of Mount Olympus, the floating mountain at the center of the base. A collection of hot air balloons were built around this mountain, along with an incomplete airship, and a replica of the iconic gates from Jurassic Park was built nearby. [UBERSLUGCAKE](https://2b2t.miraheze.org/wiki/UBERSLUGCAKE) built an extensive minecart system for transportation around the base, inspired by the underground rail network at Imperator’s Base. C4RTM4N, Babbaj, and _Sharpie_ built a 3x2 mapart of the ISIS flag a few thousand blocks away from the base.
+
+## Sources
+[OreMonger’s album from the grief](https://imgur.com/a/tqrcO)

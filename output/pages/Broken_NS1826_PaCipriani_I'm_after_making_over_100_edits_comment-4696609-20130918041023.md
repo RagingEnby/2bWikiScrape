@@ -1,0 +1,1 @@
+Gotta agree, it is kinda enjoyable to edit a wiki in it's own "strange" way.

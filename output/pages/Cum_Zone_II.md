@@ -1,0 +1,23 @@
+{{BaseTemplate
+| image = CZ2.PNG
+| quote =
+| caption =
+| status = Griefed
+| builders = [Hurtmercury](https://2b2t.miraheze.org/wiki/Hurtmercury), [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a), [I_tri](https://2b2t.miraheze.org/wiki/I_tri), [b0dait](https://2b2t.miraheze.org/wiki/b0dait), [GeneralBrown](https://2b2t.miraheze.org/wiki/GeneralBrown), [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs), [Och0](https://2b2t.miraheze.org/wiki/Och0), [iAmZeiss](https://2b2t.miraheze.org/wiki/iAmZeiss), [oofcloof](https://2b2t.miraheze.org/wiki/oofcloof), [Hinterhof](https://2b2t.miraheze.org/wiki/Hinterhof), [Bjorken](https://2b2t.miraheze.org/wiki/Bjorken), [Ghost_Mafia](https://2b2t.miraheze.org/wiki/Ghost_Mafia), [jumboman32](https://2b2t.miraheze.org/wiki/jumboman32), [bthory343](https://2b2t.miraheze.org/wiki/bthory343), [Skyron](https://2b2t.miraheze.org/wiki/Skyron), [Coxinator2](https://2b2t.miraheze.org/wiki/Coxinator2), [TheDem1urge](https://2b2t.miraheze.org/wiki/TheDem1urge), [creio](https://2b2t.miraheze.org/wiki/creio), [WeepierEagle028](https://2b2t.miraheze.org/wiki/WeepierEagle028), [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut), [Darth08](https://2b2t.miraheze.org/wiki/Darth08), [Oofoofjimbo](https://2b2t.miraheze.org/wiki/Oofoofjimbo), [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock), [NotedPainter814](https://2b2t.miraheze.org/wiki/NotedPainter814), [Drathader](https://2b2t.miraheze.org/wiki/Drathader), [rpb7191](https://2b2t.miraheze.org/wiki/rpb7191), [digandbuilder](https://2b2t.miraheze.org/wiki/digandbuilder), [ii_mags](https://2b2t.miraheze.org/wiki/ii_mags), [XGamer_BePlayinX](https://2b2t.miraheze.org/wiki/XGamer_BePlayinX), [7___k](https://2b2t.miraheze.org/wiki/7___k), [nagatacs](https://2b2t.miraheze.org/wiki/nagatacs), [dislexicfox](https://2b2t.miraheze.org/wiki/dislexicfox), [FourByte](https://2b2t.miraheze.org/wiki/FourByte)
+| date_started = October 4, 2020
+| date_finished =
+| coords = X:24754 Z: 37844
+| leaker =
+| date_griefed = October 15, 2020
+| griefers = [NBR](https://2b2t.miraheze.org/wiki/NBR), [I_tri](https://2b2t.miraheze.org/wiki/I_tri), [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a), and [Bathory343](https://2b2t.miraheze.org/wiki/Bathory343)
+| wdl =
+}}**Cum Zone II** was a base built by the [Crimson Star](https://2b2t.miraheze.org/wiki/Crimson_Star) in early October 2020.
+
+## History
+Following the grief of [Cum Zone](https://2b2t.miraheze.org/wiki/Crimson_Star#Cum_Zone), the members of Crimson founded Cum Zone II. At first the base only had around 15 members, although more groups and individual players were invited throughout its lifespan so that there were 35 members of the base by the time of its grief. The invited groups were [KOS Assassins](https://2b2t.miraheze.org/wiki/KOS_Assassins), [ZERO](https://2b2t.miraheze.org/wiki/ZERO), [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate), and [DonFuer](https://2b2t.miraheze.org/wiki/DonFuer). The main builder was [iAmZeiss](https://2b2t.miraheze.org/wiki/iAmZeiss). Due to the [Pyro dupe](https://2b2t.miraheze.org/wiki/Duplication_Glitches) being enabled at this time, [I_tri](https://2b2t.miraheze.org/wiki/I_tri) and [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs) were able to dupe a large amount of materials for the builds.
+
+The first builds at the base were iAmZeiss's Crimson Gate, and [Hurtmercury's](https://2b2t.miraheze.org/wiki/Hurtmercury) nether portal behind it. [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a) shortly came and built their Trans AntiChurch.  One of the more spacious sections of the base was [Joey_Coconut's](https://2b2t.miraheze.org/wiki/Joey_Coconut) Acacia Quarter. Later builds included Zeiss' underground area and library, [X_GamerBePlayin_X's](https://2b2t.miraheze.org/wiki/X_GamerBePlayin_X) floating planet, as well as a Nomad Hut cave which each base member contributed to.
+
+This base was repurposed to be an incursion spawn base/resupply station to aid in the efforts of the [Tenth Incursion](https://2b2t.miraheze.org/wiki/Tenth_Incursion). Base members duped enchanting tables and pvp kits there from the day that [mrbeastgaming1](https://2b2t.miraheze.org/wiki/YouTube_Tourists) joined.
+
+X_GamerBePlayin_X made a map of the base that was terrain exploited and partially griefed by the Russian group [NBR](https://2b2t.miraheze.org/wiki/NBR) on October 15, 2020. Later that same day, I_tri, y_a_t_a, and [Bathory343](https://2b2t.miraheze.org/wiki/Bathory343) blew up the rest of the base.

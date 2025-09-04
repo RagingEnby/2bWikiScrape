@@ -1,0 +1,23 @@
+{{Outdated}}
+
+**WomenAreObjects** (previously known as **NotAnEnderMan** or **livelion3**) is a newfag who joined in 2016. She is most notable for her leadership of the group TeamWAO, PvPing and leaking the [Donkey End Portal Dupe](https://2b2t.miraheze.org/wiki/Duplication_glitch).
+
+## History
+WomenAreObjects joined at an unknown date in early June 2016. Upon her initial join, the server was still on the Rusher temporary map. After the switch back to the original map she traveled out to one million overworld on the -Z axis, eating nothing but mushroom soup crafted by finding mushrooms under the highway. Upon her arrival at the one million monument she was quickly killed by a geared player. WomenAreObjects first base was in an ice spikes biome and it was griefed after she mistakenly typed "r/ x y z" instead of "/r x y z". In response to this she would quit.
+
+She would return to 2b2t in 2017. Changing her name at the time NotAnEnderMan to livelion3 as part of a meme to irritate some oldfag. Because she had quit before both public dupes in 2016, WomenAreObjects spent most of her time in this part of 2017 trading and collecting items to accumulate wealth. While trading, she met a player named [Llane](https://2b2t.miraheze.org/wiki/Llane) who she got along with. WomenAreObjects, Llane and another player CanSoupX (now known as Gapplinqq) would come together to build a base. Llane left the base and said that it got backdoored (but it didn't) as an excuse to leave to go use the currently private donkey dupe. After this, she would again quit the server.
+
+Upon hearing about the extremely overpowered 1.12 stacking dupe, she would return to 2b2t again in 2018. However she wasn't able to dupe because after waiting through the 6-hour long queue, she accidentally turned on Nuker and got kicked.The dupe was patched before she could get back on again. It was somewhere in this time she changed her name to WomenAreObjects. In early 2018 she acquired some wealth by selling an alt to some oldfag who proceeded to log off the alt at a small dupe stash. She reclaimed the alt and stole about 2 dubs of items from the dupe stash.
+
+WomenAreObjects would meet her friend IHackedWalmart during this time, who would share many items with her and catapult her to a level of wealth she had never expected. In this time, she also made a base called Monaco with 3 newfags she found in chat. Their names were ExInvaderRay, Captainsnake, and MrLewie. By a stroke of luck, these 3 players were great builders and friends and helped create a beautiful base.
+
+In late January 2018, she was collecting books at spawn when she met a player named [Retronautx](https://2b2t.miraheze.org/wiki/Retronautx), who invited her to join his new group Infrared. She accepted and was very active for a long time. In WomenAreObject's words, "The early days of [Infrared](https://2b2t.miraheze.org/wiki/Infrared) were some of her favorite times on 2b2t. She spawnfagged with his friends, built at bases, and had a nice time. Sometime in early 2018, the Alpha Alliance was created and Infrared, along with some other groups, dominated spawn for a few weeks. Those were her favorite times on 2b."
+
+In early July 2018, unknown drama happened in Infrared and she was unfairly demoted. As a result, WomenAreObjects would recruit dabigbulletz638 to help her grief all of the Team Infrared bases. However, dabigbullet638 leaked the plan to [Retronautx](https://2b2t.miraheze.org/wiki/Retronautx) and Infrared was able to self grief their bases. Following these events WomenAreObjects would move to an undisclosed large group base. In November of 2018, [Gambino](https://2b2t.miraheze.org/wiki/Gambino) lied for attention that he had WomenAreObject's dox. During the time when this was believed, he accused WAO of doxxing him before as a justification.
+
+On December 29th, 2018, WAO accidentally book banned herself when she tried to book ban JadynPlayzMC. She got her inventory reset and was able to play with his account again.
+
+## Team WAO
+{{Main|Team WAO}}
+
+Team WAO began in 2019 and was run by WomenAreObjects along with [Big__Grin](https://2b2t.miraheze.org/wiki/Big__Grin). The group is notable for PvPing and griefing, aswell as the leak of the [Donkey End Portal Dupe](https://2b2t.miraheze.org/wiki/Donkey_End_Portal_Dupe). The group fades in and out of relevancy as it struggles to maintain activity amongst members. Currently, Team WAO is inactive.

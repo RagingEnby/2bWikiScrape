@@ -1,0 +1,1 @@
+#REDIRECT [Old Town](https://2b2t.miraheze.org/wiki/Old_Town)

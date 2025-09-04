@@ -1,0 +1,1 @@
+#REDIRECT [Wide is my Armorstate](https://2b2t.miraheze.org/wiki/Wide_is_my_Armorstate)

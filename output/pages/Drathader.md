@@ -1,0 +1,11 @@
+**Drathader** is a [newfag](https://2b2t.miraheze.org/wiki/newfag) who joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) in the summer of 2016, following [Rusher](https://2b2t.miraheze.org/wiki/Rusher)'s video. He quickly rose up the ranks of multiple groups, and became an avid collector.
+
+## History
+### Invictus
+Following TheCampingRusher's video, he became a member of the [Invictus Group](https://2b2t.miraheze.org/wiki/Invictus_Group), participating in most of their bases. As a result of this membership, he became good friends with [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut), and the two often based together. Following the doxing of [Slappnbadkids](https://2b2t.miraheze.org/wiki/Slappnbadkids) and the fall of Obliviscaris, Drathader went inactive for some time
+
+### Block Gamers
+He came back to [spawnfag](https://2b2t.miraheze.org/wiki/Social_Classes) and become a member of [Ironfarm Base](https://2b2t.miraheze.org/wiki/Ironfarm_Base) in early 2017. He later joined the [Spawn Masons](https://2b2t.miraheze.org/wiki/Spawn_Masons) and participated in [Block Game Mecca](https://2b2t.miraheze.org/wiki/Block_Game_Mecca). [Beardler](https://2b2t.miraheze.org/wiki/Beardler)'s grief of Mecca was heavily motivated by the theft of items from Drathader's museum in the base. Consequently, Drathader went inactive once again. He returned in late 2020 to build at [Block Game Jerusalem](https://2b2t.miraheze.org/wiki/Block_Game_Jerusalem)
+
+### Beyond BGM
+Drathader participated in the [Tenth Incursion](https://2b2t.miraheze.org/wiki/Tenth_Incursion), based at [Cum Zone II](https://2b2t.miraheze.org/wiki/Cum_Zone_II) and [Adamantium](https://2b2t.miraheze.org/wiki/Adamantium). He helped to lead [Pact](https://2b2t.miraheze.org/wiki/Pact) for most of its existence, and was a member of [Astral Brotherhood.](https://2b2t.miraheze.org/wiki/Astral_Brotherhood) Drathader was made a member of the [Fifth Column](https://2b2t.miraheze.org/wiki/Fifth_Column) after participating in the grief of Bernheim with the group, and has been a member ever since.

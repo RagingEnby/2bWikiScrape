@@ -1,0 +1,1 @@
+#REDIRECT [Anti-Taco Societies](https://2b2t.miraheze.org/wiki/Anti-Taco_Societies)

@@ -1,0 +1,11 @@
+**ChromeCrusher** is a player on 2b2t who discovered two coordinate exploits with terrain and bedrock generation.
+
+## History
+**ChromeCrusher** began to gain fame in late 2016, after being able to find [Fitlantis](https://2b2t.miraheze.org/wiki/Fitlantis) due to a new coordinate exploit he discovered that involved bedrock. He did not grief the base, however this led to other groups being able to find Fitlantis and wage a huge battle there involving [Team Aurora](https://2b2t.miraheze.org/wiki/Team_Aurora).
+
+A few months later, in February 2017, Chrome returned and interrupted Fit's construction of a new base, but was unsuccessful in killing Fit. He also left a Chrome's Crusher sword on a gold cross in [Torogadude's Theater](https://2b2t.miraheze.org/wiki/Toro%27s_Theater) and like Fitlantis, he did not grief it. He based with Fit and AlphaComputer at [Rocket Town](https://2b2t.miraheze.org/wiki/Rocket_Town), and when it was griefed, he went on to destroy [Summermelon](https://2b2t.miraheze.org/wiki/Summermelon).
+
+In 2019 **ChromeCrusher** used a terrain exploit to locate [Hitlerville](https://2b2t.miraheze.org/wiki/Hitlerville) ([Hausemaster's](https://2b2t.miraheze.org/wiki/Hausemaster) base) that had been moved with WorldEdit in 2016 and missing since then. He allowed [SalC1](https://2b2t.miraheze.org/wiki/SalC1) to tour the base then he recorded [AlphaComputer](https://2b2t.miraheze.org/wiki/AlphaComputer) and himself blowing up the base.
+
+### Exploits
+**ChromeCrusher**<nowiki/>'s [coordinate exploit](https://2b2t.miraheze.org/wiki/coordinate_exploit) proved that the bedrock pattern is the same for every world in Minecraft. This led to him being able to find underground bases easily, such as Fitlantis. Soon after discovering Fitlantis, he realized the exploit could also be used to exploit naturally generated terrain which was previously freely shared in screenshots. Various other players would use these exploits such as [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia).

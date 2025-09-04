@@ -1,0 +1,7 @@
+{{stub}}
+
+**MrMitch361** (aka **MrMitch** & simply as **Mitch**), was the co-founder of [Team Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher) and a close friend of [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher). He joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) with Rusher, and collaborated with him in the creation of his 2b2t series.
+## History
+MrMitch361 played on The Archon with [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher) prior to joining 2b2t, and participated in his various factions video series. He joined 2b2t with Rusher, and featured prominently throughout his video series on the server. He uploaded videos intermittently, tending to opt to just participate in Rusher's content. MrMitch co-founded [Team Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher) along with TheCampingRusher. He participated throughout the [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War) before becoming increasingly disillusioned with the server because of significant lag issues prevalent throughout 2016, that were incidentally caused by hype resultant from the various video series being filmed then, which MrMitch helped in the creation of. He became inactive on 2b2t in the same period as TheCampingRusher.
+
+## References

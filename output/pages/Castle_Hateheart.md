@@ -1,0 +1,1 @@
+#REDIRECT [Castle Hatehart](https://2b2t.miraheze.org/wiki/Castle_Hatehart)

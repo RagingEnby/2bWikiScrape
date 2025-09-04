@@ -1,0 +1,17 @@
+# digandbuilder
+
+**Digandbuilder**, or **DigMC** on YouTube, is a new player and [YouTuber](https://2b2t.miraheze.org/wiki/Category:YouTubers). He is most known for his former membership in [Astral Order](https://2b2t.miraheze.org/wiki/Astral_Order) and his part in the creation and leadership of the [The Backstreet Boys](https://2b2t.miraheze.org/wiki/The_Backstreet_Boys). He sat at approximately 22,600 subscribers on November 20, 2020, when his channel was terminated by YouTube.
+
+## History and YouTube career
+Digandbuilder joined sometime around the [6th Incursion](https://2b2t.miraheze.org/wiki/6th_Incursion) with hopes of becoming a successful player on the server. After escaping [Spawn](https://2b2t.miraheze.org/wiki/Spawn), he built a house not too far from the X+ highway and made his debut on Youtube roughly a month after the Incursion came to an end [https://m.youtube.com/watch?v=1mfSZbrf33s](https://m.youtube.com/watch?v=1mfSZbrf33s). His original plan was to build an ocean base with a friend, however, the base was never mentioned by him again. From there, he started to showcase many of his builds through his series "*2B2T From Rags to Riches*"  which lasted from May to December 2018.
+
+Around the [Seventh Incursion](https://2b2t.miraheze.org/wiki/Seventh_Incursion), digandbuilder and one of his closest friends, iMems, started multiple "[newfag](https://2b2t.miraheze.org/wiki/newfag) slave" camps around spawn, which was a popular trend during that period. Soon after Digandbuilder along with iMems would found the griefing group [Backstreet Boys (BSB).](https://2b2t.miraheze.org/wiki/Backstreet_Boys)
+
+In May 2019, he made a nine-minute video explaining why the 2b2t community dislikes [Fit](https://2b2t.miraheze.org/wiki/Fit), which went viral and sent him over 9k subs. That video then got over 700,000 views before it was mass reported for hate speech in February 2020.
+
+In July 2020, one of his videos titled ["The Entire History of 2b2t"](https://www.youtube.com/watch?v=XOaulIX5iuQ&t=439s) went viral after being promoted by the YouTube algorithm and currently sits at over 500,000 views. This video, along with his frequent 2b2t streams, revived his channel as, before this, it had been largely inactive for over a year, and brought his subscriber account above ten thousand. This boost in views and subscribers has largely slowed down, however, as the video was reported and demonetized due to Dig's use of slurs which, while commonplace on 2b2t, are taken to less kindly by YouTube. In November 2022 Digandbuilder's main youtube channel got terminated by Youtube after a few players including [WomenAreObjects](https://2b2t.miraheze.org/wiki/WomenAreObjects) filed copyright complains after personal drama.
+
+In July of 2022, Digandbuilder started hosting a podcast called "The Dig Cast", this featured many notable players. Some notable guests include: [Jacktherippa](https://2b2t.miraheze.org/wiki/Jacktherippa), [Bezopasan](https://2b2t.miraheze.org/wiki/Bezopasan), [Courier6](https://2b2t.miraheze.org/wiki/Courier6), [Forceken](https://2b2t.miraheze.org/wiki/Forceken), and [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock). He continued uploading these podcasts semi-frequently until April of 2023. Digandbuilder has since gone inactive.
+
+## External links
+*[DigMC's Complete Interview | The Anarchy Podcast (TAP)](https://youtube.com/watch?v=iSM7oQ39yOA) – 2019 interview by [The Anarchy Podcast](https://2b2t.miraheze.org/wiki/The_Anarchy_Podcast)

@@ -1,0 +1,1 @@
+#REDIRECT [C1yd3i](https://2b2t.miraheze.org/wiki/C1yd3i)

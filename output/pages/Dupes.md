@@ -1,0 +1,1 @@
+#REDIRECT [Duplication glitch](https://2b2t.miraheze.org/wiki/Duplication_glitch)

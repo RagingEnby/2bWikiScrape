@@ -1,0 +1,1 @@
+#REDIRECT [Gape Group](https://2b2t.miraheze.org/wiki/Gape_Group)

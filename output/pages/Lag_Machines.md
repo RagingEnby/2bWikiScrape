@@ -1,0 +1,1 @@
+#REDIRECT [lag machine](https://2b2t.miraheze.org/wiki/lag_machine)

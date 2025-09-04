@@ -1,0 +1,22 @@
+# Negative_Entropy
+
+Negative_Entropy is a player who is well-known for his spawn projects (including his [Coordinate Quests](https://2b2t.miraheze.org/wiki/Coordinate_Quest) and the [Spawn Train](https://2b2t.miraheze.org/wiki/Spawn_Train)), his prominent role in the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons), and the numerous bases at which he built.
+## History
+### Early History
+**Negative_Entropy** joined the server in June 2016, after learning about 2b2t from [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher)'s first video. He escaped spawn using the [Southern Canal](https://2b2t.miraheze.org/wiki/Southern_Canal) and built a first base at coordinates 100000*(pi,e). He built there alone for a good while before returning to spawn, where he built structures and farms, and met many players. He first duped using the newly added shulker boxes, with the [11/11 Dupe](https://2b2t.miraheze.org/wiki/11%2F11_Dupe), and the following donkey dupe. Kits that got spread were the diamond *Entropy kits*, the *Chemistry Sets* for brewing and iron armor *Make Spawn Green Again* kits, which he would give out to new players at spawn. He preferred to hang around at spawn because he liked to show his builds to random visitors. One day at spawn he found another player named Flip, who was making the first water cube at spawn, and decided to help him out. They continued basing together, eventually arriving at a Tavux base called [Callisto](https://2b2t.miraheze.org/wiki/Callisto), and later Arcadia. Following the Tavux bases, basemate [NickHasCancer](https://2b2t.miraheze.org/wiki/NickHasCancer) invited him to the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons).
+
+### SpawnMasons Member
+Negative_Entropy was initiated as a member in April 2017. He mainly made lodges, built at some of the group's bases, and got to know other members. He was voted to worshipful in November 2017 and has ever since helped to run the group. Since joining the community, he has been a part of many notable bases like [Boedecken](https://2b2t.miraheze.org/wiki/Boedecken), [Valinor](https://2b2t.miraheze.org/wiki/Valinor), and [Mu](https://2b2t.miraheze.org/wiki/Mu). With the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons), he built around 25 of the weekly lodges, while being a main builder at [Smibville](https://2b2t.miraheze.org/wiki/Smibville), [Chunk Haven](https://2b2t.miraheze.org/wiki/Chunk_Haven), and [Sky](https://2b2t.miraheze.org/wiki/Sky_Masons). He also placed obsidian for the first masonic logo and the [Masonic Eclipse](https://2b2t.miraheze.org/wiki/The_Masonic_Eclipse). When the [Nocom](https://2b2t.miraheze.org/wiki/Nocom) exploit was live, he helped steal stashes and render base cinematics. For [Randar](https://2b2t.miraheze.org/wiki/Randar), he took a more active role and managed the stealing operations, in hopes of controlling collateral damage.
+
+### Spawn Presence
+Negative_Entropy is otherwise known for his involvement in spawn projects. Even if the projects are SpawnMason-centered, the wider community is often welcome to participate. The oldest ones would be the Coordinate Quests (4 editions), in which people need to solve clues to progress through stages. Ever since 2016, approaching Christmas eve, he constructed a decorated, submerged Christmas tree at the center of spawn to leave behind gifts to random people. Negative_Entropy built the Western and the Northern air temples from *Avatar:TLA* as SpawnMason lodges, after which he tried to get as many people on the sign boards before they got demolished. The Nationwide Transmutation Circle was a group project he led, inspired by the anime *Fullmetal Alchemist: Brotherhood*, in which a 10-km wide tunnel and 10 cities were built. He also organised the [Great Spawn Train](https://2b2t.miraheze.org/wiki/Spawn_Train), which was a long train track, that would let people attach their own cars. His builds and community spawn projects have made him both a well-known and respected player on the server.
+## References
+https://www.reddit.com/r/2b2t/comments/g3x7jr/10km_nationwide_transmutation_circle_full_metal/
+
+https://www.reddit.com/r/2b2t/comments/iukilu/wide_train_render_11520x1800/
+
+https://www.reddit.com/r/2b2t/comments/92qdcb/the_complete_script_of_the_third_coordinate_quest/
+
+https://youtu.be/Wjw5xW1pSWg?t=103
+
+https://www.spawnmason.com/leaderboard

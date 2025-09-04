@@ -1,0 +1,12 @@
+**CasparovJR** is the co-founder of [Highland](https://2b2t.miraheze.org/wiki/Highland) and is a [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons) member.
+## History
+CasparovJR joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) in September 2016 after reading a newsweek article about the server. He established himself in the [outer spawn](https://2b2t.miraheze.org/wiki/Spawn#Outer_Spawn) and played for about a month before taking a break. He returned in April 2017 and met [TheGrandLotus](https://2b2t.miraheze.org/wiki/TheGrandLotus), who geared him. Together they founded [Highland](https://2b2t.miraheze.org/wiki/Highland), which CasparovJR named after a [battle tactic endemic to the Scottish Highlands](https://en.wikipedia.org/wiki/Highland_charge). After having a falling out with TheGrandLotus, the recent Highland recruit [P529](https://2b2t.miraheze.org/wiki/P529) invited CasparovJR to the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons). After becoming a full member of the group in May 2017 alongside [Ain](https://2b2t.miraheze.org/wiki/Ain), [Krobar01](https://2b2t.miraheze.org/wiki/Krobar01), [Anar_NL](https://2b2t.miraheze.org/wiki/Anar_NL) and [ufocrossing](https://2b2t.miraheze.org/wiki/ufocrossing), the Spawnmasons became his primary group. He attended a number of lodges (such as Ain's Airship) before going inactive for the better part of 2 years. He returned to build at [Smibville](https://2b2t.miraheze.org/wiki/Smibville) and help on [The Masonic Eclipse](https://2b2t.miraheze.org/wiki/The_Masonic_Eclipse). He also aided in the creation of [Sato86's](https://2b2t.miraheze.org/wiki/Sato86) ['2B2T PLAYER PATROL - Part II - The Pedolarpers'](https://www.youtube.com/watch?v=C9ZXwpfbo_M) video and accidentally helped [leijurv](https://2b2t.miraheze.org/wiki/leijurv) improve the [Nocom](https://2b2t.miraheze.org/wiki/Nocom) tracking system. He later built at the [Christmas 2020 Party Base](https://2b2t.miraheze.org/wiki/2b2t_Party_Committee). Since then, he has played intermittently.
+
+## External Links
+[Newsweek Article - This minecraft anarchy server will kill you 1000 times](https://www.newsweek.com/2016/09/23/minecraft-anarchy-server-2b2t-will-kill-you-498946.html)<br>
+
+[Highland Charge](https://en.wikipedia.org/wiki/Highland_charge)<br>
+
+[2B2T PLAYER PATROL - Part II - The Pedolarpers](https://www.youtube.com/watch?v=C9ZXwpfbo_M)
+
+## References

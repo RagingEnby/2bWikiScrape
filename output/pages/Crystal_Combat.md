@@ -1,0 +1,1 @@
+#REDIRECT [Crystal PvP](https://2b2t.miraheze.org/wiki/Crystal_PvP)

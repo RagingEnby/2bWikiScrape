@@ -1,0 +1,1 @@
+#REDIRECT [4channers](https://2b2t.miraheze.org/wiki/4channers)

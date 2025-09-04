@@ -1,0 +1,1 @@
+ll there are shit tons of categories now upon the wiki and very little images coming from him

@@ -1,0 +1,1 @@
+#REDIRECT [D_loaded](https://2b2t.miraheze.org/wiki/D_loaded)

@@ -1,0 +1,1 @@
+#REDIRECT [Spawn Incursions#Sixth Incursion](https://2b2t.miraheze.org/wiki/Spawn_Incursions#Sixth_Incursion)

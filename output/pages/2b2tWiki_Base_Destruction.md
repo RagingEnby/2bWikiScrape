@@ -1,0 +1,1 @@
+#REDIRECT [2b2t Wiki:Base Destruction](https://2b2t.miraheze.org/wiki/2b2t_Wiki:Base_Destruction)

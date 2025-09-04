@@ -1,0 +1,23 @@
+**Coltsnid** was a [midfag](https://2b2t.miraheze.org/wiki/midfag) who was the Co-Founder and "Supreme Leader" of [the Vortex Coalition](https://2b2t.miraheze.org/wiki/The_Vortex_Coalition) for the entirety of VoCo's existence. He was also the owner of the Spawn Infrastructure Group, which oversaw the building of 2b2t spawn highways. Coltsnid was also moderator for [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock)'s 2b2t.online project, as well as a former admin on the [2b2t Wiki](https://2b2t.miraheze.org/wiki/2b2t_Wiki).
+
+## History
+Coltsnid joined 2b2t on August 17, 2014 from a Reddit thread. During his first few months, he would simply explore and die in and near spawn, until December of 2014 when [AmericanOreo](https://2b2t.miraheze.org/wiki/AmericanOreo), a friend of Colt's for 7 years, first joined. The two decided to walk through the nether to 100,000 blocks out from spawn (overworld) and founded a small base which they would work on once in awhile. Eventually, the two founded the Vortex Coalition in late May of 2015 and transitioned their aforementioned base into the first [VoCo](https://2b2t.miraheze.org/wiki/VoCo) HQ, and invited some friends to the base.
+
+Eventually Coltsnid created the spambot [DeadlyMause](https://2b2t.miraheze.org/wiki/VoCo_bot). Colt and Oreo then designed several dozen messages for it, in order to establish VoCo's presence on the server, and gain new members. This is when several oldfags and other midfags at the time began to get annoyed by the slowly rising group, and claimed the group as a small and retarded newfag group, that would never be able to achieve [Valkyria's](https://2b2t.miraheze.org/wiki/Valkyria) great wonder and die in a month. However, as the group's presence increased, and they gained attention (from constant spam) and power, these haters began to decrease, and several of them began not to care about VoCo one way or another, some eventually accepting them as an actual group.
+
+When Colt was on 2b2t, he built bases and recruited people to join the VoCo ranks. During the early parts of 2016, Colt and Oreo were not too active and VoCo was not as present on the server. The two returned, however, right before the [Rusher](https://2b2t.miraheze.org/wiki/TheCampingRusher) influx began. Colt and Oreo established the VoCo discord in mid-2016, in which all members could join. They faced their first "competition" with [the 4th Reich](https://2b2t.miraheze.org/wiki/The_4th_Reich), a group that formed on discord and were supposed to be VoCo's opposite. The two had a "war", however this whole thing was actually a meme created by the groups to bring attention to themselves, which worked very well.
+
+During the Rusher Period, VoCo remained relatively neutral, and sustained the highest peak of their power as the group gained several members due to the flood of Rushers. The Vortex Coalition remained very active until January of 2017, when [Phase II](https://2b2t.miraheze.org/wiki/The_Vortex_Coalition#Phase_II) came to a close.
+
+There was a lot of controversy near the end of Phase II due to a very high level of complex memes being produced by several parties. Coltsnid "disbanded" the group and deleted their original discord server which brought a lot of attention to those involved. He then started a new discord server with the name "VoCo II" and then "sold" it to HermeticLock as a meme. After the deletion of the first VoCo discord server, the new "VoCo II" discord gained far more members than the original one had, over 200.
+
+In June of 2017, VoCo awoke from dormancy and began [Phase III](https://2b2t.miraheze.org/wiki/The_Vortex_Coalition#Phase_III), this was the latest The Vortex Coalition had ever began a phase, with the first two beginning in May of both 2015 and 2016. With 2b2t falling into decline, activity in The Vortex Coalition would never reach the levels it had during the Rusher Era, but the newer Vortex Coalition discord (the aforementioned "VoCo II" discord) had 145 members, after purging inactive accounts.
+
+Coltsnid continued to guide The Vortex Coalition into the direction of success, building infrastructure to recruit and base an influx of new members.
+
+Coltsnid and VoCo were directly involved in the [6th Incursion](https://2b2t.miraheze.org/wiki/6th_Incursion). The Vortex Coalition was one of the major groups taking part. Coltsnid was one of the Incursion Leaders, and was present at the historic 6th Incursion Temp Map Base.
+
+On March 10, 2021, Coltsnid announced on r/TheVortexCoalition that VoCo had disbanded, and that he would be leaving 2b2t due to harassment.
+
+## References
+{{Reflist}}

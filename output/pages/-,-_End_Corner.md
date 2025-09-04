@@ -1,0 +1,1 @@
+#REDIRECT [World Border#-,- End Corner](https://2b2t.miraheze.org/wiki/World_Border#-%2C-_End_Corner)

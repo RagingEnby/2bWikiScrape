@@ -1,0 +1,1 @@
+I suggest that people will be categorized as "Past Competitors" if you they did not compete in the most recent IAS tournament(IAS8), and the 32 competitors who did participate in IAS8 will be categorized as "Competitors", and then when Round 1 of IAS9 is done, then it can be changed, since most likely some might frop out as always in Round 1.

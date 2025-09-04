@@ -1,0 +1,1 @@
+#REDIRECT [2b2t Wiki](https://2b2t.miraheze.org/wiki/2b2t_Wiki)2t_Wiki#History)

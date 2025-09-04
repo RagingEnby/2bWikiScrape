@@ -1,0 +1,1 @@
+#REDIRECT [SmackAttack86](https://2b2t.miraheze.org/wiki/SmackAttack86)

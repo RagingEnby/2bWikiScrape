@@ -1,0 +1,1 @@
+#REDIRECT [YouTube tourists#Tubbo](https://2b2t.miraheze.org/wiki/YouTube_tourists#Tubbo)

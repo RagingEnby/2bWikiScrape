@@ -1,0 +1,31 @@
+**Gordon Hurd**, known online as **Big Man Tyrone**, is a famous Cameroonian-born British YouTube personality. He is known as the President of the meme country "Kekistan", and is responsible for many viral meme videos, such as "Every 60 Seconds In Africa, A Minute Passes". Tyrone started his YouTube career as a Fiverr spokesperson, and rose to prominence thanks to the endorsement of many celebrities, such as PewDiePie. His channel has over 500,000 Subscribers and his most popular video reached over 16,000,000 views.
+
+Big Man Tyrone has worked with the 2b2t community ever since 2014. Today, he is known as one of the largest active 2b2t YouTubers, with an [entire playlist](https://www.youtube.com/playlist?list=PLgjcEmnPy9OVyfBBggs4o7HBjqiIYX3xC) on his channel dedicated to the world-famous anarchy server. His Minecraft content is heavily associated with [Armorsmith's Followers](https://2b2t.miraheze.org/wiki/Armorsmith%E2%80%99s_Followers).
+
+## Pre-June History
+Big Man Tyrone started his YouTube channel on February 28, 2014. Before that, people were able to commission videos by him where he reads their scripts. The first commission by a 2b2t player came from CatWhisperer420, who was a moderator of r/2b2t.
+
+The video he ordered was uploaded on his YouTube channel on February 4th, 2014. It has the title "[Tyrone is popbob 2b2t.org](https://www.youtube.com/watch?v=VlSok_3Ym3w&ab_channel=CatWhisperer420)". The script was:<blockquote>"*2b2t.org is the best minecraft server. When you hear my name, you will know who I am. Everyone knows who I am. My name is on this server. It is Popbob, and I am always online because I have nothing better to do. Dear, I have autisms. Hausemaster, want to build a base together? Hausemaster? Hause. Hause. Hause. Hause. Hause. Hause.*"</blockquote>The video was praised as being one of the most popular memes in the server's history. Up until June 2016, this video was known as the face of 2b2t on YouTube and as the first thing people would see when they searched the server on that website thanks to its popularity. Several re-makes of the video were made by various players, such as an [Obama version](https://www.youtube.com/watch?v=hGYAI01cm-o&ab_channel=iTr1stan) by [iTristan](https://2b2t.miraheze.org/wiki/iTristan) and a [FitMC version](https://www.youtube.com/watch?v=sYA0B-tx8sk&ab_channel=x0XP) by [x0XP](https://2b2t.miraheze.org/wiki/x0XP).
+
+The famous PvPer [Kingoros](https://2b2t.miraheze.org/wiki/Kingoros) also ordered a [video](https://www.youtube.com/watch?v=FXDoQtNdb0g&ab_channel=kingoros) by Big Man Tyrone.
+
+[Fit](https://2b2t.miraheze.org/wiki/Fit) frequently uses footage from old Big Man Tyrone videos on his channel, in particularly parts that are meant to be jokes / aren't taken seriously, or in intros, such as his [Fitlantis intro](https://www.youtube.com/watch?v=MgamLkNHSVs&ab_channel=FitMC).
+
+## Recent History
+Over the years, several players from 2b2t commissioned videos from Big Man Tyrone, but they never achieved the same popularity as the one made by CatWhisperer420.
+
+In 2018, the player HaxxorElite, who worked for [Armorsmith](https://2b2t.miraheze.org/wiki/Armorsmith) at the time, attempted to connect between him and Big Man Tyrone. He was responsible for the first 2b2t [video](https://www.youtube.com/watch?v=-emGghYPSUw&ab_channel=BigManTyrone) ever uploaded on the Big Man Tyrone channel that is personally owned by him. At the time, much less YouTube content was made on 2b2t. Big Man Tyrone had more subscribers than FitMC, making a lot of players from the older community react to the video and criticize it.
+
+After a few more commissions, Armorsmith and Big Man Tyrone became good friends and future 2b2t videos were no longer paid-for or commissioned. Big Man Tyrone uploaded many videos for Armorsmith's Followers and joined their Discord server, officially becoming a member and a part of the group's leadership team. Big Man Tyrone stated that he is supporting Armorsmith's Followers and even announced their projects on the community section of his YouTube channel. Big Man Tyrone was very interested in 2b2t itself, telling Armorsmith that « it was one of the most interesting subjects he worked on » Big Man Tyrone also mentioned 2b2t in off-topic videos, such as "[Every 60 Minutes In Africa, An Hour Passes](https://www.youtube.com/watch?v=QISNzFSa2r0&ab_channel=BigManTyrone)".
+
+Eventually, Big Man Tyrone decided to create [his first ever gaming video](https://www.youtube.com/watch?v=thTSaOvdN0k&list=PLgjcEmnPy9OVZ0LJhQW8rdU0C0WwOrwx0&ab_channel=BigManTyrone) on 2b2t using the account Forefront which was owned by Armorsmith. The video included famous 2b2t griefer [jared2013](https://www.youtube.com/watch?v=thTSaOvdN0k&list=PLgjcEmnPy9OVZ0LJhQW8rdU0C0WwOrwx0&ab_channel=BigManTyrone) and [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy) rescuing Forefront from Spawn and showing him around.
+
+After the release of the video, Armorsmith and Big Man Tyrone opened a merchandise store for the server advertising it on the channel. Big Man Tyrone teamed with Armorsmith to convince jared2013 to create the 8th Incursion, which failed. He also worked with Armorsmith to share the server with other YouTubers. Big Man Tyrone continues to upload 2b2t videos, ranging from memes to reactions on server events while making the server the most visible playlist on his channel.
+
+## Gallery
+<gallery>
+File:Basedtyrone.jpg|alt=Big Man Tyrone and Armorsmith|Big Man Tyrone and [Armorsmith](https://2b2t.miraheze.org/wiki/Armorsmith)
+File:Tyronenews.png|alt=Big Man Tyrone reports news about the Bedrock Comet.|Big Man Tyrone reports news about the Bedrock Comet.
+File:Bigmantyrone.png|alt=Big Man Tyrone and jared2013 and Negative_Entropy.|Big Man Tyrone and [jared2013](https://2b2t.miraheze.org/wiki/jared2013) and [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy).
+File:Tyronetimeline.png|alt=Big Man Tyrone Advertises Armorsmith's New 2b2t History Timeline.|Big Man Tyrone Advertises Armorsmith's New 2b2t History Timeline.
+</gallery><br />

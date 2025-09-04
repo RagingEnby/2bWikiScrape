@@ -1,0 +1,1 @@
+#REDIRECT [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association)

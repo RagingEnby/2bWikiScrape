@@ -1,0 +1,1 @@
+#REDIRECT [Talk:ITristan/@comment-34875079-20180512113658](https://2b2t.miraheze.org/wiki/Talk:ITristan%2F%40comment-34875079-20180512113658)

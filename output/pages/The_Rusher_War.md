@@ -1,0 +1,1 @@
+#REDIRECT [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War)

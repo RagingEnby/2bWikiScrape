@@ -1,0 +1,1 @@
+#REDIRECT [Valkyria (base)#Revival and second abandonement](https://2b2t.miraheze.org/wiki/Valkyria_(base)#Revival_and_second_abandonement)

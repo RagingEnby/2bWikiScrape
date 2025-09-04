@@ -1,0 +1,27 @@
+# minecraft_simon
+
+**minecraft_simon** was a 2021 player who contributed to many events such as [Squid Games](https://2b2t.miraheze.org/wiki/Squid_Games), [Our/Place](https://2b2t.miraheze.org/wiki/Our%2FPlace), and [SpawnQuarium](https://2b2t.miraheze.org/wiki/SpawnQuarium). He built with several groups such as [The Ancients](https://2b2t.miraheze.org/wiki/The_Ancients), [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association), [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons), and [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood). He is one of the founders of [The Ancients](https://2b2t.miraheze.org/wiki/The_Ancients).
+
+## History
+minecraft_simon joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) 11th December 2021, and quickly got into action escaping spawn. While escaping he met [Hovecs](https://2b2t.miraheze.org/wiki/Hovecs), who had played 2b2t for a while. They got along well quickly, and Hovecs helped Simon escape spawn. Simon was then invited to the [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association), where he met many other players. He played the first couple of days without any Hacked Client, but understood quickly that it was needed on this server. He spent his first months together with Spawn Builders Association moving around from base to base, meeting new friends.
+
+Simon and Hovecs would grow closer after a few months, and went on to meet [YoMoBoYo](https://2b2t.miraheze.org/wiki/YoMoBoYo), [Xrayessay](https://2b2t.miraheze.org/wiki/Xrayessay) and [Harrissssonn](https://2b2t.miraheze.org/wiki/Harrissssonn), who together formed [The Ancients](https://2b2t.miraheze.org/wiki/The_Ancients). The goal of this group was to host games for the players on 2b2t. The first event they did together was Squid Games 3, which was an event started by [Bobbers22](https://2b2t.miraheze.org/wiki/Bobbers22), and took inspiration from the Netflix series Squid Games. Simon was very talented with redstone, and designed the music machine inside the sleeping bay of the lobby.
+
+### The Ancients
+The Ancients were formed during Squid Games 3. After the event was held, they got started on their next project. Around this time, an event was held by reddit called [r/place](https://2b2t.miraheze.org/wiki/r%2Fplace) where reddit users could place a colored pixel every 5 minutes on an interactive blank canvas hosted by the website.  The Ancients decided to make a similar event, but on 2b2t. Simon went on to meet many more players around this time, such as [chiekn](https://2b2t.miraheze.org/wiki/chiekn), [RulesOff](https://2b2t.miraheze.org/wiki/RulesOff), and [P529](https://2b2t.miraheze.org/wiki/P529). Together with RulesOff, they worked on a program that would let everyone with a Minecraft account place pixels on a map utilizing an external site that was made by Simon. RulesOff worked on making the bots on 2b2t, which would place the pixels in-game on a map. Around this time, [Harrissssonn](https://2b2t.miraheze.org/wiki/Harrissssonn) would discover a end teleportation exploit, and was quickly utilized by the group. They teleported far out in the end, and this is where they would build the map. The Our/Place was a big success, with over 267,732 pixels placed, and over 847 players registered.
+
+Together with The Ancients, he would assist in the [SpawnQuarium](https://2b2t.miraheze.org/wiki/SpawnQuarium) event and build together with the group. During 2022, he would also help construct one of the longest lasting end bases, [The Isle](https://2b2t.miraheze.org/wiki/The_Isle), located 24,000 blocks away from end spawn. This base was originally meant to host a event that was never completed. Instead, [The Ancients](https://2b2t.miraheze.org/wiki/The_Ancients) invited many other groups to build at this island.
+
+### SBA, Astral, Journeymen, and Spawnmasons
+Simon became very close to many people in SBA, and would continue to build at many of the Spawn Bases. Throughout the time playing with the group, he got invited to other groups such as [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood). Together with Astral, he would join a few of their bases, and build together with them. One of his favorite things was to build music machines, which he did at multiple SBA bases. Later in 2022 he was invited as a guest in the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons), where he would meet many new friends.
+
+Simon spent much of his time in late 2022 and 2023 developing his own client, which he gave to his closest friends, many of which were members of the hunting group Journeymen. This client included many custom modules not available in other popular clients; in particular, Simon coded a module that would trick [Baritone](https://2b2t.miraheze.org/wiki/Baritone) into thinking cauldrons were iron blocks, aiding massively in the construction of Cauldron Jesus at [Valley Of Jesus](https://2b2t.miraheze.org/wiki/Valley_Of_Jesus).  Another module Simon made for Simonhack was End New Chunks, helping end hunters find trails easily.
+
+## Gallery
+<gallery>
+File:Simon our place 2.png|Simon with The Ancients at our/place
+File:Simon cats.png|Simon and friends finding cats
+File:Simon our place stats.png|Simon's stats for our/place
+</gallery>
+
+## References

@@ -1,0 +1,1 @@
+#REDIRECT [Babbaj](https://2b2t.miraheze.org/wiki/Babbaj)

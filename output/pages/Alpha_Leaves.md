@@ -1,0 +1,6 @@
+Alpha Leaves were ‘glitched’ versions of leaves that existed on the server and were considered an oddity unique to 2b2t.
+
+## History
+The exact origins of the alpha leaves are a mystery. There were four variants: Oak, Spruce, Birch, and Jungle. In the inventory they looked like huge textureless blocks, just like a few other items on the server, but once placed down they turn into normal leaf blocks. They were incorrectly associated with the ‘alpha’ phase of the Minecraft development cycle, which took place in 2010, before the server even went online. They likely were created between Java Edition 1.0.0 (November 2011) and 1.4.5 (November 2012). Apparently a bug in the silk touch enchantment allowed these blocks to be created. Later in update 1.7 (October 2013)—when the item ID system was changed—they received their odd ‘missing’ texture. 2b2t was one of the few servers in which alpha leaves were in circulation. However, when 2b2t updated to Java Edition 1.19.4 on August 14th 2023 all Alpha Leaves were turned into their normal variants. The texture of the blocks was identical to those of [Alpha slabs](https://2b2t.miraheze.org/wiki/Alpha_slabs) and [Textureless Iron Horse Armor](https://2b2t.miraheze.org/wiki/Textureless_Iron_Horse_Armor).
+
+## References

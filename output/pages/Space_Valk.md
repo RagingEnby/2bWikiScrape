@@ -1,0 +1,1 @@
+#REDIRECT [Space Valkyria](https://2b2t.miraheze.org/wiki/Space_Valkyria)

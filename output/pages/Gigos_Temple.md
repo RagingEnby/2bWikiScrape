@@ -1,0 +1,1 @@
+#REDIRECT [Gigo's Temple](https://2b2t.miraheze.org/wiki/Gigo%27s_Temple)

@@ -1,0 +1,1 @@
+#REDIRECT [The Last Templar](https://2b2t.miraheze.org/wiki/The_Last_Templar)

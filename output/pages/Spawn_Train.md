@@ -1,0 +1,20 @@
+{{BaseTemplate
+|image=Trainloco1.png
+|quote=
+|caption=
+|status= Griefed
+|builders= [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy) (Leader of the Base)
+[Guntherrr](https://2b2t.miraheze.org/wiki/Guntherrr), [Nekramite](https://2b2t.miraheze.org/wiki/Nekramite), [SlavPlaysGames](https://2b2t.miraheze.org/wiki/SlavPlaysGames), [k3ys3r_S0z3](https://2b2t.miraheze.org/wiki/k3ys3r_S0z3), [WarLordNik](https://2b2t.miraheze.org/wiki/WarLordNik), [Nemac](https://2b2t.miraheze.org/wiki/Nemac), [Amin0Acid](https://2b2t.miraheze.org/wiki/Amin0Acid), [LuzyBel](https://2b2t.miraheze.org/wiki/LuzyBel), [digandbuilder](https://2b2t.miraheze.org/wiki/digandbuilder), [jumboman32](https://2b2t.miraheze.org/wiki/jumboman32), [Wailn](https://2b2t.miraheze.org/wiki/Wailn), [Todarac](https://2b2t.miraheze.org/wiki/Todarac), [BottleCapBrony](https://2b2t.miraheze.org/wiki/BottleCapBrony), [SpeedDemon0](https://2b2t.miraheze.org/wiki/SpeedDemon0), [Mr_Pint](https://2b2t.miraheze.org/wiki/Mr_Pint), [Hypoxed](https://2b2t.miraheze.org/wiki/Hypoxed), [Overfloyd](https://2b2t.miraheze.org/wiki/Overfloyd), [Raaanch](https://2b2t.miraheze.org/wiki/Raaanch), [Appendix](https://2b2t.miraheze.org/wiki/Appendix), [ufocrossing](https://2b2t.miraheze.org/wiki/ufocrossing), [Cloverfrost](https://2b2t.miraheze.org/wiki/Cloverfrost), [Terbin](https://2b2t.miraheze.org/wiki/Terbin), [Entropy_AnnDroid](https://2b2t.miraheze.org/wiki/Entropy_AnnDroid), [OhmsLaw2015](https://2b2t.miraheze.org/wiki/OhmsLaw2015), [IronException](https://2b2t.miraheze.org/wiki/IronException), [LordNo](https://2b2t.miraheze.org/wiki/LordNo), [dekrom](https://2b2t.miraheze.org/wiki/dekrom), [FutureClient](https://2b2t.miraheze.org/wiki/FutureClient), [Forceken](https://2b2t.miraheze.org/wiki/Forceken), [costello22](https://2b2t.miraheze.org/wiki/costello22), [_Henry_](https://2b2t.miraheze.org/wiki/_Henry_), [Elaphant](https://2b2t.miraheze.org/wiki/Elaphant), [Rathause](https://2b2t.miraheze.org/wiki/Rathause), [GuD](https://2b2t.miraheze.org/wiki/GuD), [iPixisu](https://2b2t.miraheze.org/wiki/iPixisu), [I_tri](https://2b2t.miraheze.org/wiki/I_tri), [raze97](https://2b2t.miraheze.org/wiki/raze97), [BachiBachBach](https://2b2t.miraheze.org/wiki/BachiBachBach), [jared2013](https://2b2t.miraheze.org/wiki/jared2013), [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a), [Dekto](https://2b2t.miraheze.org/wiki/Dekto), [FamilyPumpkin6](https://2b2t.miraheze.org/wiki/FamilyPumpkin6)
+|date_started= {{Date and age|2020|6|26}}
+|date_finished=
+|coords= X:-17800, Z:-9400
+|leaker=
+|date_griefed=
+|griefers= [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy), [Dekrom](https://2b2t.miraheze.org/wiki/Dekrom), [OhmsLaw2015](https://2b2t.miraheze.org/wiki/OhmsLaw2015), [jared2013](https://2b2t.miraheze.org/wiki/jared2013)
+|wdl=
+}}The **Spawn Train** was a spawn base created by [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy) on the 26th of June of 2020. The exact location was not given out directly. Instead, players were given coordinates to a puzzle that had to be solved with the use of binary redstone mechanics.
+## History
+This build was the endgoal of the [Coordinate Quest](https://2b2t.miraheze.org/wiki/Coordinate_Quest) [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy) and co. had made. Upon completing the [Coordinate Quest](https://2b2t.miraheze.org/wiki/Coordinate_Quest) and associated challenges, the final step yielded the base coordinates. After arriving at the base, players  were encouraged to build their own personalized train cars behind the train. The main building was based on the former Taichung Railway Station. Over fifty players showed up to the base to build. Most of these players were invited, but a many stumbled upon the track (as it reached over 1000 blocks long), or were otherwise leaked the coordinates by players already at the Spawn Train.
+
+## Images
+## References

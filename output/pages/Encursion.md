@@ -1,0 +1,1 @@
+#REDIRECT [Krobar01#Endcursion](https://2b2t.miraheze.org/wiki/Krobar01#Endcursion)

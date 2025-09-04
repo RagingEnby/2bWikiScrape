@@ -1,0 +1,1 @@
+#REDIRECT [2nd Incursion](https://2b2t.miraheze.org/wiki/2nd_Incursion)

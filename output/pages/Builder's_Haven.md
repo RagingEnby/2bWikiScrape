@@ -1,0 +1,1 @@
+#REDIRECT [Builders Haven](https://2b2t.miraheze.org/wiki/Builders_Haven)

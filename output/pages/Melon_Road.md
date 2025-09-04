@@ -1,0 +1,1 @@
+#REDIRECT [Overworld highways#Melon Road](https://2b2t.miraheze.org/wiki/Overworld_highways#Melon_Road)

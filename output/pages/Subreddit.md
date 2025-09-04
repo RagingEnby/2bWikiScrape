@@ -1,0 +1,1 @@
+#REDIRECT [R/2b2t](https://2b2t.miraheze.org/wiki/R%2F2b2t)

@@ -1,0 +1,1 @@
+#REDIRECT [Queue#Priority queue](https://2b2t.miraheze.org/wiki/Queue#Priority_queue)

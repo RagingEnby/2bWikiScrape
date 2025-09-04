@@ -1,0 +1,16 @@
+**ThebesAndSound** is a 2b2t player notable for creating the [Southern Canal](https://2b2t.miraheze.org/wiki/Southern_Canal), building infrastructure at spawn, and leading Public Works during the [7th Incursion](https://2b2t.miraheze.org/wiki/7th_Incursion). He was also part of the [Nether Highway Group](https://2b2t.miraheze.org/wiki/Nether_Highway_Group) and based at [Point Dory](https://2b2t.miraheze.org/wiki/Point_Dory) and [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu).
+
+## History
+Thebes joined 2b2t in 2014 and founded the [Southern Canal](https://2b2t.miraheze.org/wiki/Southern_Canal) in December of that same year. Early work on the canal was done by Thebes, [ChadDX](https://2b2t.miraheze.org/wiki/ChadDX), [Dic](https://2b2t.miraheze.org/wiki/Dic), [joshYarnspinner](https://2b2t.miraheze.org/wiki/joshYarnspinner), [rainyafternoon](https://2b2t.miraheze.org/wiki/rainyafternoon) and others as part of [South Canal Corp](https://2b2t.miraheze.org/wiki/Southern_Canal_Corp). Several months after [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher) joined in 2016, Thebes became part of the X+ Diggers (also known as the [Nether Highway Group](https://2b2t.miraheze.org/wiki/Nether_Highway_Group)), and subsequently based at [Point Dory](https://2b2t.miraheze.org/wiki/Point_Dory) and joined [Mu](https://2b2t.miraheze.org/wiki/Mu) afterward.
+
+At Mu, Thebes would use the [chunk dupe](https://2b2t.miraheze.org/wiki/Duplication_glitches) to create stashes with thousands of dubs (double chests) of materials, which were eventually world-edited out by [Hausemaster](https://2b2t.miraheze.org/wiki/Hausemaster), among other things.
+
+Thebes was the first player to reach the [Nether World Border](https://2b2t.miraheze.org/wiki/World_Border), arriving at the +,+ corner by a boat phase exploit in April 2018.
+ arriving at the +,+ Nether World Corner on the 29th April 2018]]
+
+During the [Seventh Incursion](https://2b2t.miraheze.org/wiki/7th_Incursion), Thebes was the leader of Public Works, and a General and Sectional Leader of [Henry](https://2b2t.miraheze.org/wiki/Henry)'s Incursion, where Public Works contributed to infrastructure projects around Spawn, notably the Spawn Trench at 2k . After the end of the Incursion (not Reloaded), Thebes continued to work on his project independently of [jared2013](https://2b2t.miraheze.org/wiki/jared2013)'s incursion.
+
+In January 2023, Thebes founded the [WaterWay Union](https://2b2t.miraheze.org/wiki/WaterWay_Union) alongside [Godroster](https://2b2t.miraheze.org/wiki/Godroster). WWU expanded the entire Southern Canal to 32 blocks wide, and upgraded the anti-griefing measures on the canal. After this upgrade they have continued to extend the canal past 1 million blocks. Thebes continues to lead the WaterWay Union and supplies tools and materials to members of the group for work on the Canal.
+
+## Present
+Thebes works with [IronException](https://2b2t.miraheze.org/wiki/IronException) and [PoTheMagicDragon](https://2b2t.miraheze.org/wiki/PoTheMagicDragon) to create modules for hack clients that are used on the canal to make work easier.

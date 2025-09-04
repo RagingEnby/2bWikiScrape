@@ -1,0 +1,1 @@
+#REDIRECT [Fr1kin](https://2b2t.miraheze.org/wiki/Fr1kin)

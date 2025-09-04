@@ -1,0 +1,1 @@
+#REDIRECT [Vapepens Elite Alliance](https://2b2t.miraheze.org/wiki/Vapepens_Elite_Alliance)

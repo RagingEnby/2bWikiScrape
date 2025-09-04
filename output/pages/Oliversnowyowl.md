@@ -1,0 +1,42 @@
+**Oliversnowyowl** is a builder and collector on 2b2t. He has participated in a number of groups, including The [Infinity Incursion](https://2b2t.miraheze.org/wiki/Infinity_Incursion), [The Lost Nomads](https://2b2t.miraheze.org/wiki/The_Lost_Nomads), and The Outcasts.
+
+After joining in 2018, Oliversnowyowl left the server after escaping spawn and making diamond armor. He then played on an alternate anarchy server that was eventually griefed by some members of [DonFuer](https://2b2t.miraheze.org/wiki/DonFuer). This prompted him to rejoin in late 2020 after a long hiatus.
+
+## First Group base
+In October, Oliversnowyowl met Waltss, and they decided to go over 250,000 blocks out and build a small base. They began to build a castle with a small room with some negative durability items and some other untextured blocks found whilst exploring. The base lasted only a week due to it being only 2,000 blocks from the highway. Soon after, two of the four group members left 2b2t and have not returned since.
+
+After this, [Waltss](https://2b2t.miraheze.org/wiki/Waltss) and Oliver decided to make a second base, further off the highway. It was designed to be an underwater glass dome, although it was unfinished and Waltss left for the world border, causing Oliver to return to spawn in search of a group to be a part of. He acquired kits from [Jeffrey_214](https://2b2t.miraheze.org/wiki/Jeffrey_214), and went on to join a small group called ZENS, which he saw in the chat at the time.
+
+## ZENS Base
+He walked to their first base at 770k on the [+X Highway](https://2b2t.miraheze.org/wiki/Overworld_highways#%2BX), meeting with the other base members. The base was active until someone, presumably a base member, stole the supplies that were to be duped with the [Pyro dupe](https://2b2t.miraheze.org/wiki/Pyro_dupe) active at the time. After this the base members became less and less active until only 1 or 2 people logged on a day. Oliver left after 2 weeks, blowing up the defunct base and traveling back to spawn.
+
+## Lost Nomads/ Camp Lighthouse
+After returning to spawn, Oliver CodeTitan, who invited him to a rebuilt spawnbase of [t gang](https://2b2t.miraheze.org/wiki/t_gang) and [The Lost Nomads](https://2b2t.miraheze.org/wiki/The_Lost_Nomads), [Camp Lighthouse](https://2b2t.miraheze.org/wiki/T_gang). The two visited there for a few days, trading items that they had acquired on their travels. About a week after coming to the spawnbase, 3 griefers, Kouncil, 30000000 and Xeqoi griefed the spawnbase whilst all its members were logged off.
+
+## HWU and 2b2t Party Committee events
+After these events, with nothing else to do on the server, Oliver joined the [HWU](https://2b2t.miraheze.org/wiki/Highway_Workers_Union) and attended their Christmas party, which occurred only a few days before the 10 Year Anniversary Party.
+ on his alt at the HWU Christmas party.]]
+After this, Oliver joined the discord of the [2b2t Party Committee](https://2b2t.miraheze.org/wiki/2b2t_Party_Committee) and attended the anniversary party, being one of 141 players to do so.
+ on the -X Highway]]
+## Book Collection, Outcasts and the foundation of the wave shop
+Oliver joined the [2b2t Signed Books and Collectibles Archive](https://2b2t.miraheze.org/wiki/2b2t_Signed_Books_and_Collectibles_Archive) in early December 2020, starting to acquire a relatively extensive book collection numbering over 100 by the end of February. He met a player by the name of [Ziloc](https://2b2t.miraheze.org/wiki/Ziloc), and they went to a small stash over 1 million blocks from spawn. For the first few weeks, the shop was largely unsuccessful. This changed when they joined a group run by Ziloc's friend, [Zero_q](https://2b2t.miraheze.org/wiki/Zero_q). Both players joined the group and participated in the building of no less than 4 spawnbases. This helped the shop's server increase in members and popularity. Soon SealedArc97 and [Vinteer](https://2b2t.miraheze.org/wiki/Vinteer) join the shop and helped with orders. They later acquired a new stash of around 100 double chests from [NeoPaladin](https://2b2t.miraheze.org/wiki/NeoPaladin), co-founder of [The Watchmen](https://2b2t.miraheze.org/wiki/Watchmen). This enabled them to expand their variety and continued to increase the shop's popularity. He also attended all of the Nomad games, run by [The Lost Nomads](https://2b2t.miraheze.org/wiki/The_Lost_Nomads).
+
+## Rise of the wave shop
+The shop rapidly reached 200 members, in the short span of only a month. Oliver decided to host an event to celebrate the milestone and increase the shop's popularity. He took a double chest of items from the stash to spawn to begin the builds. Other players such as Vinteer, [preb2](https://2b2t.miraheze.org/wiki/preb2), and [codetitan](https://2b2t.miraheze.org/wiki/codetitan) helped with the builds, and after a week everything had been constructed, with most builds completed by Oliver. Others also helped with supplies, including [Jeffrey_214](https://2b2t.miraheze.org/wiki/Jeffrey_214), who had known Oliver for some time now. This enabled the builders to diversify what was being constructed.
+
+Two days before the event, [xAlyssa](https://2b2t.miraheze.org/wiki/xAlyssa) (Silvereyes) contacted Oliver regarding a partnership about the event, He agreed, which brought a new influx of players to the discord who intended to come to the event. The Lost Nomads intended to create one last large build at the location of the event, although this had to be called off due to xAlyssa experiencing illness.
+
+The event's coordinates were released to several friends one hour before the coordinates were supposed to be public. There were multiple minigames at the location, including 2 spleef arenas and a Fight Club arena. The player count peaked at around 50, including prominent players such as [digandbuilder](https://2b2t.miraheze.org/wiki/digandbuilder) just after the coordinates went public. As expected, the builds were griefed by multiple people, mostly by ADB.
+
+### Demise of the shop
+Oliversnowyowl began to delve into collecting rare books more, and the other owner, Ziloc began to become far less active for multiple reasons. The shop's membership levels stagnated at around 300 people. By this time, it was Only Oliver, SealedArc97 and Vinteer running the shop.
+
+On the morning of the 2nd of March 2021, all three woke up to find the stash griefed and everything inside stolen, Including some 3 shulkers of signed books, and many more rare items that couldn't be stored in e-chests. The decision to move the stash to a new location had been initiated 2 days before, although only a fraction of the items could be moved in time. This caused the shop to close for almost a month, as the grief had crippled the ability to provide items. It was later found that the grief was orchestrated by [Preb2](https://2b2t.miraheze.org/wiki/Preb2), assisted by Quelcom1. [BachiBachBach](https://2b2t.miraheze.org/wiki/BachiBachBach) attempted to resolve the issue as he wanted no infighting in the ranks of the II, and the four began to negotiate items.
+
+As this occurred, SealedArc97 contacted [NeoPaladin](https://2b2t.miraheze.org/wiki/NeoPaladin) to procure another stash. The two traveled to the new stash, and finally reopened the shop. This lasted for over a month, with Oliver further increasing his collection of rare books via trades with [Amin0Acid](https://2b2t.miraheze.org/wiki/Amin0Acid) and 2b2t's largest signed book collector, [**Crystallising,**](https://2b2t.miraheze.org/wiki/Crystallising) amongst others.
+
+#### Coordinate Exploit of April 2021
+When an exploit was used by the [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons), Oliver and SealedArc decided to leave the stash as they deemed it unsafe to stay there, Little did they know that the damage had done, and the exploit was presumed to use bed respawns and ender pearl loading to reveal the coordinates of the stash. This had already happened to many other shops, with far larger stashes. Oliver returned to the stash in late April after taking part in the first stage of an [Infinity Incursion](https://2b2t.miraheze.org/wiki/Infinity_Incursion) Project, He returned to find all of the items griefed, apart from a few double chests of items that he had moved before leaving the stash.
+
+## Team Owl
+In April, Oliversnowyowl created Team Owl, a tightknit group that based exclusively on 2b2t and Oldfag.org.

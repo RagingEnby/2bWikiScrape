@@ -1,0 +1,18 @@
+#REDIRECT [DocSmurf](https://2b2t.miraheze.org/wiki/DocSmurf)he [2b2t *IGN* video](https://youtu.be/qun-6zB1zws?si=7BTU7QWiJ7x--xPd&t=110), which released on June 20, 2013, and brought thousands of players according to estimates. DocSmurf was one of the few of those new players who stayed, as many were killed and quit due to the resultant [Second Incursion](https://2b2t.miraheze.org/wiki/Second_Incursion). He escaped Spawn before the bulk of the Incursion began, traveling the then underdeveloped highways and setting up a temp base after exiting around 68k -X Nether. He was invited to the [Kool Kids Klub](https://2b2t.miraheze.org/wiki/Kool_Kids_Klub) in late 2014. He was one of two builders of the megabase [Niflheim](https://2b2t.miraheze.org/wiki/Niflheim), and one of the main builders of [Yggdrasil](https://2b2t.miraheze.org/wiki/Yggdrasil). He was a member of the [4th Incursion](https://2b2t.miraheze.org/wiki/4th_Incursion) and [Team Veteran](https://2b2t.miraheze.org/wiki/Team_Veteran) during the [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War) in June 2016, and later went on to become a member of the [X+ Diggers](https://2b2t.miraheze.org/wiki/Nether_Highway_Group).
+
+## Builds
+### Yggdrasil
+Yggdrasil was founded on January 26, 2015, near the site of a guardian temple (coordinates: {{coords|-1,076,817|31,705}}). The location did not originally have any major plans beyond the initial project of a fully automated farm. The idea for the tree itself was put forward several months later, after Sicknessman and Daladev joined DocSmurf and Sugaha. As a consequence of a lightning event, the glass dome and inside biomes were presented as an addition. The dome contains over 140,000 glass blocks, that, due to the lack of a dupe and lack of wealth in items, were smelted by hand.
+
+During a version update from 1.8 to 1.9, the farm chunks lost their temple flag. This can be seen by viewing the location in 1.8 and 1.9 AMIDST. The location has not spawned a single guardian since. During this same version update, several other guardian farms partially regenerated instead of losing the ability to spawn.
+
+Activity at the base from renovations to the tree in 2021 was detected by the [Nocom](https://2b2t.miraheze.org/wiki/Nocom) exploit, which leaked the coordinates. The base had survived previous exploits as the result of its mostly dormant state starting in 2017, though this new activity is what unfortunately doomed it. Rather than allow the base to fall to external forces, DocSmurf made the unilateral decision to destroy the base, self-griefing it on July 18, 2021.
+{{Nocom}}
+### Niflheim
+Niflheim was founded in late 2018 and was built by Sicknessman and DocSmurf. The build continues their motif of Norse mythology. The base was constructed over the course of approximately 16 months, using mostly duped items obtained through the short-lived [Crafting Dupe](https://2b2t.miraheze.org/wiki/Duplication_glitches) of July 2017. The area has minor terraforming and sits next to a village. Its creation was expedited by several hacked client features like printer and Schematica integration from [Baritone](https://2b2t.miraheze.org/wiki/Baritone). The base itself consists of a large ice dragon centerpiece, multi-story castle with full interactive lighting, several side tunnels, custom-designed ice trees, and two large redstone machines, an automatic dark oak farm and an automatic ice farm.
+
+The base's location was leaked by Dipper Nation in late 2019 also as a result of Nocom.
+
+## References
+{{Reflist}}
+*

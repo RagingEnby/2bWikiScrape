@@ -1,0 +1,1 @@
+#REDIRECT [Infinity Incursion](https://2b2t.miraheze.org/wiki/Infinity_Incursion)

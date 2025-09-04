@@ -1,0 +1,1 @@
+#REDIRECT [Imperator's Base#Imperator's Base 2](https://2b2t.miraheze.org/wiki/Imperator%27s_Base#Imperator%27s_Base_2)

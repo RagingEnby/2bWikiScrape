@@ -1,0 +1,1 @@
+#REDIRECT [The 4th Reich#The 2b2t Police](https://2b2t.miraheze.org/wiki/The_4th_Reich#The_2b2t_Police)

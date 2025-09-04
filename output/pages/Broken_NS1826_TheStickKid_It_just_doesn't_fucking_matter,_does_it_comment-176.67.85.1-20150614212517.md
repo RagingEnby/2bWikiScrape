@@ -1,0 +1,1 @@
+You should step down as host, David told me everything.

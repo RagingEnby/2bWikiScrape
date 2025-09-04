@@ -1,0 +1,16 @@
+**Napkin0fTruth** was a Youtuber from [The Archon](https://thearchon.net/) who joined in early June of 2016. He was a close friend of [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher), although the nature of his content often meant that he put on a public image of being rivals with Rusher, regardless of them actually being friends outside of 2b2t. He was also a member of the [Peacekeepers](https://2b2t.miraheze.org/wiki/Peacekeepers).
+
+## History
+### Pre-2b2t and Team Veteran
+When [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher) relaseed his first video on [2b2t](https://2b2t.miraheze.org/wiki/2b2t), Napkin0fTruth was Rusher's factions rival on [The Archon](https://2b2t.miraheze.org/wiki/The_Archon). Napkin joined 2b2t shortly thereafter, and continued to play his role as Rusher's rival. He became associated with [Team Veteran](https://2b2t.miraheze.org/wiki/Team_Veteran) due to the public image of rivalry to Rusher, believing that they were simply trying to be Rusher's competition and rivals. However, he did not realize that they were initially serious in their desire to kick Rusher and his fans off of the server. Although that attitude gradually changed for content creators such as [Torogadude](https://2b2t.miraheze.org/wiki/Torogadude) and [Fit](https://2b2t.miraheze.org/wiki/Fit), as well as various older players who assisted Rusher is creating content, Napkin instead decided to join the [Peacekeepers](https://2b2t.miraheze.org/wiki/Peacekeepers).
+
+### The Peacekeepers
+After joining the Peacekeepers, Napkin gained access to some of their stashes, which were created using the [Minecart Dupes of the Summer of 2016](https://2b2t.miraheze.org/wiki/Duplication_Glitches). He used this access to gear TheCampingRusher and [MrMitch361](https://2b2t.miraheze.org/wiki/MrMitch361). He also encouraged the group to align more against Team Veteran, as opposed to the group's general focus of pursuing conflict with nearly all other groups. Napkin cooperated with TheCampingRusher often, mainly to hype up each other's content, as well as collaborating to hype up the overall narrative of there being a 'War'.
+
+Later in the [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War), Napkin's personal base was found by Team Veteran and destroyed during the [Fourth Incursion](https://2b2t.miraheze.org/wiki/Fourth_Incursion).
+
+### Departure
+Napkin left the server along with many others in Rusher's entourage from [Team Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher) and The Archon, after TheCampingRusher became inactive in late 2016. Napkin eventually posted a video leaking the coordinates of his personal dupe stash as he stated he wouldn't need it anymore, which was raided the day of the video's release. He later removed nearly all videos from his YouTube channel, including all those concerning 2b2t.
+
+## External Links
+[https://youtube.com/channel/UCXHtKp-xN5kDbHUX2Jd-1FA](https://m.youtube.com/channel/UCXHtKp-xN5kDbHUX2Jd-1FA) - Napkin0fTruth’s YouTube channel

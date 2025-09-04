@@ -1,0 +1,4 @@
+The Masonic Eclipse was a massive Spawn Sky Logo constructed by the SpawnMasons in December 2019. The logo was almost 12 thousand by 12 thousands blocks in size, requiring over 28,154,762 blocks of obsidian, 160 times more than the previous logo. However, the group managed to construct it in just a bit over eight days. This means that on average over 40 blocks were placed per second. The group utilized 61 accounts that automatically mined ender-chests and placed obsidian using a modified version of baritone. This logo was so big that it was basically impossible to remove by hand or using withers. However, in 2022 it was absorbed along with most other Spawn Logos. A leaderboard of the players and the blocks they places was published. A timelapse of the project was also uploaded to Youtube.
+
+## References
+{{Events}}

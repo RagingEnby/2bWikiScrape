@@ -1,0 +1,1 @@
+#REDIRECT [Ultimate Guide to 2b2t.org](https://2b2t.miraheze.org/wiki/Ultimate_Guide_to_2b2t.org)

@@ -1,0 +1,1 @@
+#REDIRECT [Sato's Timeline](https://2b2t.miraheze.org/wiki/Sato%27s_Timeline)

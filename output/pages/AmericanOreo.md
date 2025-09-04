@@ -1,0 +1,11 @@
+**AmericanOreo**, or **Oreo**, is a [midfag](https://2b2t.miraheze.org/wiki/midfaggots) who joined via his real-life friend [Coltsnid](https://2b2t.miraheze.org/wiki/Coltsnid) in December 2014. In May 2015, Oreo co-founded the [Vortex Coalition](https://2b2t.miraheze.org/wiki/Vortex_Coalition) alongside Colt to antagonize [Valkyria](https://2b2t.miraheze.org/wiki/Valkyria). He was considered an influential part of the group in establishing the first means of recruitment and also contributed to the group's social media status. He temporarily went inactive for a long period of time following Phase II, due to real-life issues but returned in June 2020.
+## History
+### Early History
+AmericanOreo joined after his real-life friend, Coltsnid, invited him to join. Oreo went on with Coltsnid to be what was retroactively going to be the Coalition's "Headquarters."
+### Vortex Coalition
+In May 2015, Oreo and Coltsnid were on the [Nether Highway System](https://2b2t.miraheze.org/wiki/Nether_Highway_System) when Oreo prematurely killed a Valkyrian player named "FuzzyFutureFox." Afterward, [Sato86](https://2b2t.miraheze.org/wiki/Sato86) avenged Fox by killing the two ill-prepared players. The Vortex Coalition was soon founded and expanded upon by Colt and Oreo to mock Valkyria. The group even went to great lengths to buy and implement an [MOTD](https://2b2t.miraheze.org/wiki/MOTD) titled "Did you know the Vortex Coalition is the largest and most active group of players on 2b2t" by donating to the server to keep it afloat and starting VoCo's "Did you know" bot on their friend, InvisibleGecko18's, account.
+
+#### Role
+In Phase I, Oreo was the sole recruiter and began the Coalition's Skype Group as an administrator. Later on, he strayed away from recruitment and focused more on assisting Colt with day-to-day social media.
+
+Oreo eventually went inactive for a long period of time in the tail-end days of Phase II to sort out real-life issues. He returned to 2b2t to assist the coalition in June 2020. However, he soon became inactive once again afterwards.

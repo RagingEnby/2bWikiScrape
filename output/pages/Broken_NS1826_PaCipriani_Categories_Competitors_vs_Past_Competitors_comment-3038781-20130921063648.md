@@ -1,0 +1,1 @@
+Good idea. I'll start deleting their "Competitors" category tag soon. It's kinda redundant to have both "Past" and normal "Competitor" tags.

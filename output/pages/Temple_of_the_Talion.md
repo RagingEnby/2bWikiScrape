@@ -1,0 +1,1 @@
+#REDIRECT [Drud14#Temple of the Talion](https://2b2t.miraheze.org/wiki/Drud14#Temple_of_the_Talion)

@@ -1,0 +1,11 @@
+{{Outdated}}**Project Vault** was a secretive preservation society, with the goal of preserving as much of 2b2t's base/build history as possible. It was founded in August 2015 by [Spartan512](https://2b2t.miraheze.org/wiki/Spartan512), who was anonymous under the pseudonym "TheVaultCurator" for much of the project's lifespan. The "Vault" was a separate server from 2b2t in which world downloads of famous 2b2t bases and places were placed at their real coordinates as they were on 2b2t onto the separate server, with a warp system where players could teleport to specific bases to view them.
+
+The project was worked on by 15 different players, all of whom were sworn to secrecy for most of the project. Members of the project would go to old bases of 2b2t or hunt for new ones, and take world downloads of them to be repaired if need be and then uploaded to the Vault. Players outside of the project could also donate their own world downloads to project members for the base/place to be added to the vault as well.
+
+## Delays
+While the Vault was intended to be open to the public, throughout all of 2015 very little information was shared to the public about when it would be opened. After the [Rusher War](https://2b2t.miraheze.org/wiki/Rusher_War), due to the huge influx of players and the subsequent history videos [Fit](https://2b2t.miraheze.org/wiki/Fit) was making about the server, the public demand for the server grew even more. Fit made multiple livestreams on The Vault server, stating that the server would be open in early summer of 2017. After this date passed, the Project members stated the delay was to make the server "hacker proof".
+
+People were obviously disappointed about this, and some people completely gave up on the server ever opening to the public. Some also started to question the members of the project on their sincerity about releasing the Vault to the public.
+
+## Drama
+Due to these delays, several players decided to take matters into their own hands. [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia) and tomah54660 (aka jddinger) downloaded most of Project Vault and created their own server called the [2b2t Museum](https://2b2t.miraheze.org/wiki/The_Museum), which was opened to the public. This angered the members of Project Vault, which would later shut down for good.

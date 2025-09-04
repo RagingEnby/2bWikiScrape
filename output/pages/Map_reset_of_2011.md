@@ -1,0 +1,8 @@
+The Map reset of 2011 was an event that took place in early 2011.
+
+## History
+Different sources point towards the map of 2b2t being reset in early 2011. In an archived post on Facepunch a player described the world as follows: ‘The entire world has been fried, fractured and fucked. It is a desolate and generally stinky place where few things can survive. […] The current world is one month old and is planned to be kept forever, the server is stable and has been up for 3 months now. It is located in eu, so if you connect from us/aus you might get high ping. It currently has about 15-30 people on 24/7, about 100 regulars, and the current world is pretty large and fucked.’ More proof of this reset was found during the [256k World Download Project](https://2b2t.miraheze.org/wiki/256k_World_Download_Project), started in 2021. The oldest chunks were identified as being generated in [Java Edition Beta 1.2](https://2b2t.miraheze.org/wiki/Java_Edition_Beta_1.2), which was released in January 2011. In a conversation with [l_amp](https://2b2t.miraheze.org/wiki/l_amp), the 2b2t admin team stated that ‘depending on what counts there were several worlds started and deleted way before the server became public (or well known). Unfortunately the exact date for when the current world began has been lost, but it is most likely to have begun some time before 2011, and potentially sometime right before the nether was added to the game, as we remember there being problems with nether portals in multiplayer.’
+
+## References
+{{Reflist}}
+{{Events}}

@@ -1,0 +1,1 @@
+#REDIRECT [Independent Interstate Society](https://2b2t.miraheze.org/wiki/Independent_Interstate_Society)

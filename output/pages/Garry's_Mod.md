@@ -1,0 +1,1 @@
+#REDIRECT [2b2t (Garry's Mod server)](https://2b2t.miraheze.org/wiki/2b2t_(Garry%27s_Mod_server))

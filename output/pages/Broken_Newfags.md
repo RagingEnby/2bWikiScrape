@@ -1,0 +1,1 @@
+#REDIRECT [Social Classes](https://2b2t.miraheze.org/wiki/Social_Classes)

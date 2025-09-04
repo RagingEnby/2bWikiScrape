@@ -1,0 +1,1 @@
+I think that instead of filling our actual articles with personal stuff, we should use our User Page to do that. Or, if we are going to do that, then we should put it at the bottom and mark it "Personal Life" or "Outside of Speedrunning".

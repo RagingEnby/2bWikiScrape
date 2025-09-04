@@ -1,0 +1,1 @@
+#REDIRECT [Slappnbadkids](https://2b2t.miraheze.org/wiki/Slappnbadkids)

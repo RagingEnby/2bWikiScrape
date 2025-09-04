@@ -1,0 +1,1 @@
+#REDIRECT [Nerds Inc](https://2b2t.miraheze.org/wiki/Nerds_Inc)

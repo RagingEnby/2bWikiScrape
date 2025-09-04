@@ -1,0 +1,1 @@
+#REDIRECT [Spawn Incursions](https://2b2t.miraheze.org/wiki/Spawn_Incursions)

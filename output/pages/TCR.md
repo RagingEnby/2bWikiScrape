@@ -1,0 +1,1 @@
+#REDIRECT [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher)

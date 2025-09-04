@@ -1,0 +1,31 @@
+**Prismary** was a member of [Equilibrium](https://2b2t.miraheze.org/wiki/Equilibrium_(group)). He also co-operated the Shiro Foundation shop, and is the owner and a co-founder of the [Map Artists of 2b2t](https://2b2t.miraheze.org/wiki/Map_Artists_of_2b2t) discord.
+## History
+### Early History
+Prismary joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) in early February 2017. Initially, he explored [Spawn](https://2b2t.miraheze.org/wiki/Spawn), before stopping at the [Valley of Wheat](https://2b2t.miraheze.org/wiki/Valley_of_Wheat) in an attempt to repair a part of it. After releasing a [video](https://www.youtube.com/watch?v=6K2z_SVzpns) on his activities at the Valley of Wheat, he came into contact with contact firstly with [P529](https://2b2t.miraheze.org/wiki/P529), who geared him and gave him [Illegal items](https://2b2t.miraheze.org/wiki/Illegal_items), and secondly with [c3rv3z4](https://2b2t.miraheze.org/wiki/c3rv3z4), who invited him to join the Equilibrium group and [their base of the same name](https://2b2t.miraheze.org/wiki/Equilibrium). Upon arriving at Equilibrium on March 18, 2017, he began using [Donkey dupes](https://2b2t.miraheze.org/wiki/Duplication_glitch) to amass a large stash with a significant amount of illegal items. He used this stash to begin trading, alongside c3rv3z4, for collectibles and more illegal items, and also helped to initially popularize [Bookbanning](https://2b2t.miraheze.org/wiki/Bookbanning) in early 2017.
+
+### Map Art Community
+On April 23rd, 2017, Prismary began working on the construction of the "Happy Treefriend" [mapart](https://2b2t.miraheze.org/wiki/mapart) at Equilibrium along with [Fabustra](https://2b2t.miraheze.org/wiki/Fabustra). Completing and mapping it brought Prismary into contact with many other map artists, and caused the foundation of the [Map Artists of 2b2t](https://2b2t.miraheze.org/wiki/Map_Artists_of_2b2t) discord by Prismary, along with [Aryezz](https://2b2t.miraheze.org/wiki/Aryezz), [MiningMinecraft](https://2b2t.miraheze.org/wiki/MiningMinecraft), [24_terminator_80](https://2b2t.miraheze.org/wiki/24_terminator_80), and [kyle_rayner_ion](https://2b2t.miraheze.org/wiki/kyle_rayner_ion). The Map Artists of 2b2t discord (often simply called the 'Map discord' or the 'Map artists' discord) grew to become one of the single largest 2b2t discords, and continues to be the hub for map artists on 2b2t.
+
+### Mokuzai Island
+On May 9, 2018, Prismary founded [Mokuzai Island](https://2b2t.miraheze.org/wiki/Mokuzai_Island) near Spawn as a vanilla base. After being made aware of an [Indestructible End Crystal](https://2b2t.miraheze.org/wiki/Indestructible_End_Crystals) in late August, he moved it to the base with the help of Aryezz, which included stealing it back from other players as several other players raced to take it. After [l_amp](https://2b2t.miraheze.org/wiki/l_amp) found Mokuzai Island while performing the [100k Mapping Project](https://2b2t.miraheze.org/wiki/100k_Mapping_Project) in late 2018, he used the then-private [Chunk dupe](https://2b2t.miraheze.org/wiki/Chunk_dupe) to duplicate the Indestructible End Crystal there several times, with crystals from there being used as late as late 2020 with l_amp's 'Pyrobyte Resummoning Experiment' [Spawnmason lodge](https://2b2t.miraheze.org/wiki/Spawnmasons). Mokuzai Island was later griefed in early 2019, and rebuilt shortly thereafter, before being griefed again and then being abandoned.
+
+### Equilibrium II
+In June 2018, [Equilibrium](https://2b2t.miraheze.org/wiki/Equilibrium) was griefed on the final day of the [Month of Destruction](https://2b2t.miraheze.org/wiki/Month_of_Destruction), causing Prismary to move to the newly-founded [Equilibrium II](https://2b2t.miraheze.org/wiki/Equilibrium_II). He based there until early 2020 when [Nerds Inc](https://2b2t.miraheze.org/wiki/Nerds_Inc) logged into his account there using the [Authexploit](https://2b2t.miraheze.org/wiki/Authexploit) in February, which caused the grief of the base a month later by [jared2013](https://2b2t.miraheze.org/wiki/jared2013). The base members was able to save the entirety of the stash owing to this long delay, which aided in the construction of the group's next base, [Equilibrium III](https://2b2t.miraheze.org/wiki/Equilibrium_III).
+
+### Public Involvement
+Prismary continued to participate in the public 2b2t community with such roles as participating in the [6th Incursion](https://2b2t.miraheze.org/wiki/6th_Incursion), helping in the leadership of the [7th Incursion](https://2b2t.miraheze.org/wiki/7th_Incursion), and also helping to set up the [2b2t Party Committee 2018 Christmas Party](https://2b2t.miraheze.org/wiki/2b2t_Party_Committee). What he focused on the most, however, was the Shiro Foundation shop he co-founded with Aryezz and [ufocrossing](https://2b2t.miraheze.org/wiki/ufocrossing) in January 2019, which was one of the largest shops at the time. After establishing the shop's main stash in 2019 using the Chunk Dupe, the shop functioned on and off until 2021, although its initial main stash was deleted by [Hausemaster](https://2b2t.miraheze.org/wiki/Hausemaster) in 2019, among a variety of others (such as one at [Mu](https://2b2t.miraheze.org/wiki/Mu) and another at [Block Game Jerusalem](https://2b2t.miraheze.org/wiki/Block_Game_Jerusalem)) as an abortive measure to reduce lag.
+
+### Inactivity
+After moving to Equilibrium III on March 13, 2020, Prismary gradually began to play less and less, especially from 2022 onward. The Shiro Foundation ceased operations in 2021, furthering this. After the grief of Equilibrium III by [NeoPaladin](https://2b2t.miraheze.org/wiki/NeoPaladin) on March 10, 2022, Prismary stopped playing altogether.
+
+## Gallery
+<gallery>
+Mokuzai_Island.png|Mokuzai Island
+MokuzaiEndCrystal.png|Prismary and Aryezz at Mokuzai Island with the Indestructible End Crystal after moving it there
+Happy Tree Friends mapart.png|Happy Tree Friends mapart by Prismary & Fabustra
+</gallery>
+
+## External links
+[Prismary's video on his activities at the Valley of Wheat](https://www.youtube.com/watch?v=6K2z_SVzpns)
+
+## References

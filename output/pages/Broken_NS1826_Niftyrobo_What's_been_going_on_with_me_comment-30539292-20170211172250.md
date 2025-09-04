@@ -1,0 +1,1 @@
+Well, recent history won't be that much filled unless another Rusher comes in. And I'm basically just gonna find whatever I could find.

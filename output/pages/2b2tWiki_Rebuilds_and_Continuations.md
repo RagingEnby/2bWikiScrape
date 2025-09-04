@@ -1,0 +1,1 @@
+#REDIRECT [2b2t Wiki:Rebuilds and Continuations](https://2b2t.miraheze.org/wiki/2b2t_Wiki:Rebuilds_and_Continuations)

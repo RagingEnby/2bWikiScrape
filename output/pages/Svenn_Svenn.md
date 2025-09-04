@@ -1,0 +1,55 @@
+__TOC__
+
+## History
+### 2020
+Svenn_Svenn joined 2b2t on the 25th of September 2020 after discovering the server through [SalC1](https://2b2t.miraheze.org/wiki/SalC1). Eager to establish his presence, he and his friend [DivineIvy](https://2b2t.miraheze.org/wiki/DivineIvy) embarked on the creation of his first base. The Commune approximately 1 million blocks from spawn. Svenn_Svenn stayed as a lone builder at the base until he became bored and went back to spawn. Svenn_Svenn would regularly come back to this base.
+
+### 2021
+As he delved deeper into the 2b2t community, Svenn_Svenn actively participated in community events. His inaugural event was [NFE  10](https://2b2t.miraheze.org/wiki/NFE) witch was held in December 2020. Subsequently, he became involved in [the Lost Nomads](https://2b2t.miraheze.org/wiki/the_Lost_Nomads). After The [Nomad Games III](https://2b2t.miraheze.org/wiki/The_Lost_Nomads) he became an member and joined the construction of the Old Norse base.
+During the period between [The Nomad Games III and IV](https://2b2t.miraheze.org/wiki/The_Lost_Nomads), the [Lost Nomads](https://2b2t.miraheze.org/wiki/The_Lost_Nomads) decided to take a hiatus from spawn events, redirecting their focus to 'Old Norse.'
+Everything went well until early April when signs of intrusion surfaced. Unknown players stole building materials, leaving behind signs that hinted at their presence. Faced with this breach, [the Lost Nomads](https://2b2t.miraheze.org/wiki/the_Lost_Nomads) made the decision to self grief Old Norse. They terraformed the landscape, leaving an enduring mark—a symbolic obsidian cock—as a testament to the legacy of the base.
+
+In 2021, Svenn_Svenn faced challenges and discovered new opportunities on 2b2t. After a setback at Old Norse, he ended up at spawn
+On May 11, 2021, while hanging around spawn portals, Svenn_Svenn met [Animetiddie](https://2b2t.miraheze.org/wiki/AnimeTiddie). [AnimeTiddie](https://2b2t.miraheze.org/wiki/AnimeTiddie) invited him to [Obsidian Obscension](https://2b2t.miraheze.org/wiki/Obscension), their base. Unfortunately, [Obsidian Obscension](https://2b2t.miraheze.org/wiki/Obscension) was griefed a month later. After the grief [Animetiddie](https://2b2t.miraheze.org/wiki/AnimeTiddie) started a group named [Obscension](https://2b2t.miraheze.org/wiki/Obscension), consisting of the members of the previously mentioned base. Later on, [Obscension](https://2b2t.miraheze.org/wiki/Obscension) collaborating with [Mew Revolution](https://2b2t.miraheze.org/wiki/Mew_Revolution) started a series of community events called [Pitfight](https://2b2t.miraheze.org/wiki/Pitfight). In which Svenn_Svenn took part in a majority of the 14 events due to being involved with both groups.
+
+Svenn_Svenn joined the construction crew for [Nomad Games IV](https://2b2t.miraheze.org/wiki/The_Lost_Nomads). However, [BSB](https://2b2t.miraheze.org/wiki/BSB) griefed the [Nomad Games IV](https://2b2t.miraheze.org/wiki/The_Lost_Nomads) on July 3, 2021, one day before the event was supposed to take place. This was his first interaction with [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys), witch later on would become his main group.
+
+Shortly after, Svenn_Svenn joined [SBA](https://2b2t.miraheze.org/wiki/SBA) on July 13, 2021.
+
+In a surprising turn, he was invited to [SpergClub](https://2b2t.miraheze.org/wiki/SpergClub), a [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys) spawn base created by [iMems](https://2b2t.miraheze.org/wiki/iMems), [digandbuilder](https://2b2t.miraheze.org/wiki/digandbuilder), and [LightningB0lt44](https://2b2t.miraheze.org/wiki/LightningB0lt44) on August 14, 2021.
+At [Spergclub](https://2b2t.miraheze.org/wiki/SpergClub), Svenn_Svenn built a cat girl café and a replica of a statue that he built at The Commune.
+
+Svenn_Svenn actively participated in various projects and events on 2b2t. On September 18, 2021, he collaborated on [Pitfight V](https://2b2t.miraheze.org/wiki/Pitfight), a colossal end arena designed by [Franknificant](https://2b2t.miraheze.org/wiki/Franknificant). This marked Svenn_Svenn's first venture with [Franknificant](https://2b2t.miraheze.org/wiki/Franknificant) and [RLbob](https://2b2t.miraheze.org/wiki/RLbob). The project took approximately two weeks to complete.
+Later in the year, Svenn_Svenn designed the area for [Pitfight VII](https://2b2t.miraheze.org/wiki/Pitfight). Unfortunately, the event faced challenges during [No Server November](https://2b2t.miraheze.org/wiki/No_Server_November) due to disruptive lag machines, leading to its cancellation. [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys) member [CatGirlLizzy](https://2b2t.miraheze.org/wiki/CatGirlLizzy) noticed the build and invited Svenn_Svenn to  the [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys) Christmas base, [1 Manning Street](https://2b2t.miraheze.org/wiki/1_Manning_Street) to build.
+
+In December, he contributed with breaking the world record for the largest TNT explosion during the New Year's celebration. An [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys) project witch was cut short because of an intruder igniting the cube. Still, the world record was broken.
+
+Additionally, Svenn_Svenn with [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys) hunted down figures, [Philza, Tommyinit, and Ninja](https://2b2t.miraheze.org/wiki/YouTube_tourists) when they logged onto 2b2t for a video. This action, however, led to an unexpected encounter with [FitMC](https://2b2t.miraheze.org/wiki/Fit), resulting in a notable moment where [Fit](https://2b2t.miraheze.org/wiki/Fit) killed him in vanilla.
+
+### 2022
+In February 2022, Svenn_Svenn, alongside [RLbob](https://2b2t.miraheze.org/wiki/RLbob), founded the 2b2t group [Spawn Party Association](https://2b2t.miraheze.org/wiki/Spawn_Party_Association), a spinoff group off the [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association). The [Spawn Party Association](https://2b2t.miraheze.org/wiki/Spawn_Party_Association) boasted three primary bases, namely [Alpha Island](https://2b2t.miraheze.org/wiki/Alpha_Island), [Easter Island](https://2b2t.miraheze.org/wiki/List_of_small_bases) and [Fort Popbob](https://2b2t.miraheze.org/wiki/Fort_Popbob). Shortly after this endeavour, Svenn_Svenn received an invitation to [Lazarus](https://2b2t.miraheze.org/wiki/Lazarus) and [RLbob's](https://2b2t.miraheze.org/wiki/RLbob) base, [Based Base 3](https://2b2t.miraheze.org/wiki/Based_Base).
+
+In Febuary of 2022 Svenn_Svenn became an official recruit in [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys).
+
+As the year progressed, Svenn_Svenn engaged in diverse activities on 2b2t. Notably, he played a role in the 2022 [2b2t wedding](https://2b2t.miraheze.org/wiki/Wedding_event_(2022)). A larp event organized for players [Vertz](https://2b2t.miraheze.org/wiki/Vertz) and [HKK](https://2b2t.miraheze.org/wiki/HKK) in May 2022. The wedding featured [FitMC](https://2b2t.miraheze.org/wiki/Fit) as the host and a beautiful church designed by [Franknificant](https://2b2t.miraheze.org/wiki/Franknificant).
+
+In July, Svenn_Svenn contributed to [project Vaccum](https://2b2t.miraheze.org/wiki/project_Vaccum) led by [OofPlux](https://2b2t.miraheze.org/wiki/OofPlux).
+
+Svenn_Svenn was invited by [Franknificant](https://2b2t.miraheze.org/wiki/Franknificant) to be a part of his most recent project. [The 2b2t Museum](https://2b2t.miraheze.org/wiki/The_2b2t_Museum). For this Svenn_Svenn prepared an large build based on the Acropolis. Construction for the Museum and the Acropolis started in September of 2022. After some time the site was griefed. Franknificant would later on remake the museum with the help of [EnigmA_088](https://2b2t.miraheze.org/wiki/EnigmA_088).
+
+In late 2022, Svenn_Svenn came up with an idea for an event where different 2b2t groups would send 2 representatives each to compete in an in-game connect 4 tournament, with the victor receiving valuable building materials. The name of the event was [Bing Bong Connect 4](https://2b2t.miraheze.org/wiki/Bing_Bong_Connect_4).
+
+### 2023
+In January Svenn_Svenn went public with the [Bing Bong Connect 4](https://2b2t.miraheze.org/wiki/Bing_Bong_Connect_4) plans. This concept gained traction and soon groups like [The Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood), [SBA](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association), [Obscension](https://2b2t.miraheze.org/wiki/Obscension), [The Collective](https://2b2t.miraheze.org/wiki/The_Collective), [Bookhood](https://2b2t.miraheze.org/wiki/Bookhood), [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys), The [CakeMasons](https://2b2t.miraheze.org/wiki/Cake%2BMasons), [HWU](https://2b2t.miraheze.org/wiki/Highway_Workers_Union) and [5C](https://2b2t.miraheze.org/wiki/Fifth_Column) joined in on the event. Svenn_Svenn, along with [KitNightingale](https://2b2t.miraheze.org/wiki/KitNightingale) started recruiting builders and Astral-builder [Riceland](https://2b2t.miraheze.org/wiki/Riceland) designed 2 arenas in which the events would take place. In the following weeks the builders would work day and night to finish the arenas.
+
+During this time, Svenn_Svenn faced challenges and was removed from the [Spawn Builders Association](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association) following griefs by [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys).
+
+The night before [Bing Bong Connect 4](https://2b2t.miraheze.org/wiki/Bing_Bong_Connect_4) was supposed to take place [Donfuer](https://2b2t.miraheze.org/wiki/DonFuer) member [Dinofan](https://2b2t.miraheze.org/wiki/Dinofan) griefed the main arena. But the event went on undisturbed. The location was moved to a base given to the connect 4 builders. The event ended in an SBA victory.
+
+The grief triggered a substantial community response, leading to the [Donfall campaign](https://2b2t.miraheze.org/wiki/Connect_4_drama). The community united to grief over 20 Donfuer bases in a concentrated effort.
+
+(See more:  [Connect 4 drama](https://2b2t.miraheze.org/wiki/Connect_4_drama))
+
+Shortly thereafter, Svenn_Svenn reunited with [SBA](https://2b2t.miraheze.org/wiki/Spawn_Builders_Association).
+
+In February Svenn_Svenn became a member of the [Backstreet Boys](https://2b2t.miraheze.org/wiki/Backstreet_Boys)' 'mandem' in within a year of joining the group. Subsequently, his activity on 2b2t waned, with extended periods of inactivity lasting for months. Taking part in a few bases and a few [BSB](https://2b2t.miraheze.org/wiki/Backstreet_Boys) griefs. Shortly after the [Connect 4 drama](https://2b2t.miraheze.org/wiki/Connect_4_drama) calmed down Svenn_Svenn left 2b2t temporarely. Coming back for a month after the 1.19 update, building a small solo-base called Sanctuary Solitude and resided in Franknificant's [2b2t museum](https://2b2t.miraheze.org/wiki/The_2b2t_Museum) for a brief period.

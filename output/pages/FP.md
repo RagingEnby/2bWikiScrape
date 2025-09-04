@@ -1,0 +1,1 @@
+#REDIRECT [Facepunch Republic](https://2b2t.miraheze.org/wiki/Facepunch_Republic)

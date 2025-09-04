@@ -1,0 +1,1 @@
+#REDIRECT [househousehouse1](https://2b2t.miraheze.org/wiki/househousehouse1)

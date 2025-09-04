@@ -1,0 +1,13 @@
+**NickHasCancer** (now known as **NickHasBird**) is a [midfag](https://2b2t.miraheze.org/wiki/midfag) who joined 2b2t in February 2016. He is well known for his association with the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons) and [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen), as well as the foundation of [COVID-2147](https://2b2t.miraheze.org/wiki/COVID-2147).
+
+## History
+NickHasCancer first discovered 2b2t from a Motherboard article that was linked to him while he was on an old chaoscraft forum. His first base was named Dick Tower, which he stayed at for a short period in early 2016. Nick then based with [BenitoTortellini](https://2b2t.miraheze.org/wiki/BenitoTortellini) (aka alien803) at his base. Eventually, the two moved and built Tortellini City 2 in late 2016 and early 2017.
+
+### Life in the Masons/Guardsmen
+NickHasCancer became involved with the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons) after seeing [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock)'s video about [DonFuer 10](https://2b2t.miraheze.org/wiki/DonFuer_10). Mostly playing alone with Benito at the time, he came to Spawn to build with HermeticLock, who invited him to the [World Famous Spawn Base](https://2b2t.miraheze.org/wiki/World_Famous_Spawn_Base). Herm would later initiate Nick into the SpawnMasons. Since then, Nick has stayed involved with the group, building at such bases as [Vulcatavio](https://2b2t.miraheze.org/wiki/Vulcatavio), [Smibville](https://2b2t.miraheze.org/wiki/Smibville), [Photosynthesis](https://2b2t.miraheze.org/wiki/Photosynthesis), [Chunk Haven](https://2b2t.miraheze.org/wiki/Chunk_Haven) and eventually founding [COVID-2147](https://2b2t.miraheze.org/wiki/COVID-2147).
+
+### COVID-2147
+{{Main|COVID-2147}}
+NickHasCancer founded COVID-2147 on March 9, 2020, as a place for members of the SpawnMasons to build during the COVID-19 pandemic. After building there for several months, the base was renamed by D_loaded to DonFuer 18 without the consent of the other base members. It was then then griefed by [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock), [D_loaded](https://2b2t.miraheze.org/wiki/D_loaded), [Fit](https://2b2t.miraheze.org/wiki/Fit), and [AlphaComputer](https://2b2t.miraheze.org/wiki/AlphaComputer), causing significant controversy.
+
+ totem pole at COVID-2147, with a representation of NickHasCancer on the top]]

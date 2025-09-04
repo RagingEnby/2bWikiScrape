@@ -1,0 +1,1 @@
+#REDIRECT [2b2t Wiki:Titles and article organization](https://2b2t.miraheze.org/wiki/2b2t_Wiki:Titles_and_article_organization)

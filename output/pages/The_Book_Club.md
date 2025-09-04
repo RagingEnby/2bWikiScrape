@@ -1,0 +1,1 @@
+#REDIRECT [Brownmen#The Book Club (October 25–30, 2019)](https://2b2t.miraheze.org/wiki/Brownmen#The_Book_Club_(October_25%E2%80%9330%2C_2019))

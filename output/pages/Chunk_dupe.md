@@ -1,0 +1,1 @@
+#REDIRECT [Duplication glitch#Chunk dupe](https://2b2t.miraheze.org/wiki/Duplication_glitch#Chunk_dupe)

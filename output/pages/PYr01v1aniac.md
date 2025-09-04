@@ -1,0 +1,1 @@
+#REDIRECT [pYrO1v1aniac](https://2b2t.miraheze.org/wiki/pYrO1v1aniac)

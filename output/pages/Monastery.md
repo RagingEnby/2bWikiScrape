@@ -1,0 +1,1 @@
+#REDIRECT [The Monastery](https://2b2t.miraheze.org/wiki/The_Monastery)

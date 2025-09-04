@@ -1,0 +1,1 @@
+#REDIRECT [Redstoner2b2t](https://2b2t.miraheze.org/wiki/Redstoner2b2t)

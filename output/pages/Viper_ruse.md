@@ -1,0 +1,1 @@
+#REDIRECT [Viper Base#Viper Ruse](https://2b2t.miraheze.org/wiki/Viper_Base#Viper_Ruse)

@@ -1,0 +1,1 @@
+#REDIRECT[0Channy](https://2b2t.miraheze.org/wiki/0Channy)

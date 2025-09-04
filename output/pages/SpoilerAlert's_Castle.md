@@ -1,0 +1,1 @@
+#REDIRECT [Dark Souls Castle](https://2b2t.miraheze.org/wiki/Dark_Souls_Castle)

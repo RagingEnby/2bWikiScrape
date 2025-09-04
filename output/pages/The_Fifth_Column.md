@@ -1,0 +1,1 @@
+#REDIRECT [Fifth Column](https://2b2t.miraheze.org/wiki/Fifth_Column)

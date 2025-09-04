@@ -1,0 +1,1 @@
+#REDIRECT [Coordinate exploit](https://2b2t.miraheze.org/wiki/Coordinate_exploit)

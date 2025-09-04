@@ -1,0 +1,1 @@
+#REDIRECT [Talk:Chezhead/@comment-34875079-20180526134250](https://2b2t.miraheze.org/wiki/Talk:Chezhead%2F%40comment-34875079-20180526134250)

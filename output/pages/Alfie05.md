@@ -1,0 +1,13 @@
+**Alfie05,** also known as simply **Alfie** and previously as **_Alfie05_**, is a builder, griefer, and former [DonFuer](https://2b2t.miraheze.org/wiki/DonFuer) member.
+
+## History
+### Early History
+Alfie05 joined [2b2t](https://2b2t.miraheze.org/wiki/2b2t) in late 2020 as a result of the COVID-19 quarantine. He joined [DonFuer](https://2b2t.miraheze.org/wiki/DonFuer) in early 2021 after being recommended a video about them in his YouTube feed. After getting accepted into the [Donfuer Spawn Rangers](https://2b2t.miraheze.org/wiki/DonFuer#Rangers) in February 2021, he built at several Donfuer bases such as Spawnfuer 6, Spawnfuer 7, [Fondor](https://2b2t.miraheze.org/wiki/Fondor), and Spawnfuer 8. He was subsequently promoted and became a full member of the group.
+
+### Donfuer
+Alfie travelled to [DonFuer 21](https://2b2t.miraheze.org/wiki/DonFuer_21), which was the first base DonFuer had made in beyond the millions. After the fall of DonFuer 21, Alfie built at a number of short-lived bases that were slated to become [DonFuer 22](https://2b2t.miraheze.org/wiki/DonFuer_22), but which never survived long enough to receive the label. On September 12th, 2021, Alfie travelled to the coordinates given by [D_loaded](https://2b2t.miraheze.org/wiki/D_loaded) and helped build what finally became [DonFuer 22](https://2b2t.miraheze.org/wiki/DonFuer_22) and was repeatedly approached to leak the base but refused. Alfie was banned from DonFuer for griefing an [Imperials](https://2b2t.miraheze.org/wiki/Imperials) base, and subsequently convincing a DonFuer recruit to self-grief a Spawnbase in order to frame the Imperials to cause drama between the groups. This also resulted in Alfie being booted from his Guest role in the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen). Alfie left 2b2t shortly after.
+
+### Association with other groups
+Alfie participated on a short-term basis with a variety of other groups although never achieved membership in any of them and tended to participate minimally. This includes Guardsmen, with the bases [Canopy](https://2b2t.miraheze.org/wiki/Guardsmen#Canopy) and [Home Away From Homeland](https://2b2t.miraheze.org/wiki/Guardsmen#Home_Away_From_Homeland), and [Astral Brotherhood](https://2b2t.miraheze.org/wiki/Astral_Brotherhood), with the base [Vega](https://2b2t.miraheze.org/wiki/Astral_Brotherhood#The_first_base). He also contributed to the [Watchmen's](https://2b2t.miraheze.org/wiki/Watchmen) Rick Astley project, and later was briefly a [Subcontractor](https://2b2t.miraheze.org/wiki/Fifth_Column#Ranks) in the [Fifth Column](https://2b2t.miraheze.org/wiki/Fifth_Column) after returning to 2b after a 6-month break in August 2022.
+
+## References

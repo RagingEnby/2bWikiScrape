@@ -1,0 +1,1 @@
+#REDIRECT [Republic of Portals](https://2b2t.miraheze.org/wiki/Republic_of_Portals)

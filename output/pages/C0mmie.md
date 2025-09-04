@@ -1,0 +1,1 @@
+#REDIRECT [C0mmie](https://2b2t.miraheze.org/wiki/C0mmie)

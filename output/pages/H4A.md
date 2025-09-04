@@ -1,0 +1,1 @@
+#REDIRECT [Headpats4All](https://2b2t.miraheze.org/wiki/Headpats4All)

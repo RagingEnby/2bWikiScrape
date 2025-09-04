@@ -1,0 +1,1 @@
+#REDIRECT [jared2013](https://2b2t.miraheze.org/wiki/jared2013)

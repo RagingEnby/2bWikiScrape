@@ -1,0 +1,19 @@
+**IHackedWalmart** was a well-known [Crystal PvP](https://2b2t.miraheze.org/wiki/Crystal_PvP)<nowiki/>er from the late 2016 - early 2018 era, and a prominent community leader. He was a Co-Leader or Leader of several groups such as [Armorsmith's Followers](https://2b2t.miraheze.org/wiki/Armorsmith%27s_Followers), the [Peacekeepers](https://2b2t.miraheze.org/wiki/Peacekeepers), [Infrared](https://2b2t.miraheze.org/wiki/Infrared), [Highland](https://2b2t.miraheze.org/wiki/Highland), [Alpha Alliance](https://2b2t.miraheze.org/wiki/Alpha_Alliance) and others. IHackedWalmart was also known as one of the founders and leaders of the modern [Anti Incursion](https://2b2t.miraheze.org/wiki/Anti-Incursion) movements.
+
+## History
+IHackedWalmart joined 2b2t in 2016. He later joined the Peacekeepers, which was founded by [PandaSauceYT](https://2b2t.miraheze.org/wiki/PandaSauceYT), and quickly became one of its highest ranking members. As a member of the Peacekeepers, IHackedWalmart would help popularize Crystal PvP, while also participating in large battles, gaining a reputation as a dangerous PvPer and earning enemies from groups like the [SpawnMasons](https://2b2t.miraheze.org/wiki/SpawnMasons) and the [Emperium](https://2b2t.miraheze.org/wiki/The_Emperium). IHackedWalmart later became the last leader of the Peacekeepers before its disbandment in 2018.
+
+Thanks to his membership in several groups, IHackedWalmart played a key role in the formation of the [Alpha Alliance](https://2b2t.miraheze.org/wiki/Alpha_Alliance) which competed against the [UGE](https://2b2t.miraheze.org/wiki/United_Group_Embassy).
+
+As a member of [Armorsmith's Followers](https://2b2t.miraheze.org/wiki/Armorsmith%27s_Followers), IHackedWalmart was trusted by [Armorsmith](https://2b2t.miraheze.org/wiki/Armorsmith) to be a member of several projects by the group. He was instructed by Armorsmith to lead the main Anti-Incursion movement against the [6th Incursion](https://2b2t.miraheze.org/wiki/6th_Incursion). Walmart was the most notable activist against the 6th Incursion, and was present at 0,0 whenever he could, to help new players who joined from [AntVenom](https://2b2t.miraheze.org/wiki/AntVenom) while also fighting and killing Incursioneers. IHackedWalmart participated in the [Battle of Spawn](https://www.youtube.com/watch?v=UEaMxSPSjTY) in which he had to fight the entire Incursion almost by himself (and he obviously lost). IHackedWalmart attacked the [Great Spawn Wall](https://2b2t.miraheze.org/wiki/List_of_small_bases#Great_Spawn_Wall) with members from Armorsmith's Followers and triggered the [Battle of the Northen Wall](https://www.youtube.com/watch?v=RLm_ozcAzKQ&ab_channel=FitMCFitMC), which was concluded in the spawning of Withers around the wall that destroyed its original purpose of keeping new players within the inner Spawn.
+
+IHackedWalmart continued to be a prominent leader in the Anti Incursion movement against the [7th Incursion](https://2b2t.miraheze.org/wiki/7th_Incursion). He is mostly inactive as of 2021.
+
+As of 2023, IHackedWalmart has returned to the server as a result of the 1.19 Update. He spends his time PvPing at spawn, and is considered one of the best on the server post-update.
+
+On March 29th, 2024, after months of planning, IHackedWalmart found the only Eye-Trim on the server after the update to 1.20. He founded [The Gatekeepers](https://2b2t.miraheze.org/wiki/The_Gatekeepers) alongside [Mako10301](https://2b2t.miraheze.org/wiki/Mako10301) and [YoshiKiller](https://2b2t.miraheze.org/wiki/YoshiKiller) to keep this item from being distributed all over the server.
+
+## Links
+* [IHackedWalmart Attacks the 6th Incursion Spawn Wall](https://www.youtube.com/watch?v=eJgU_mppvgk&ab)
+
+* [FitMC Video on how IHackedWalmart found the only Eye-Trim on the server](https://www.youtube.com/watch?v=ffMTFW9wMi0)

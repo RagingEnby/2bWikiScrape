@@ -1,0 +1,22 @@
+{{BaseTemplate
+| image = fortjoe2.jpg
+| quote =
+| caption = Fort Joe
+| builders = [odpay](https://2b2t.miraheze.org/wiki/odpay), [Kokainer](https://2b2t.miraheze.org/wiki/Kokainer), [Be4no](https://2b2t.miraheze.org/wiki/Be4no), [LightningB0lt44](https://2b2t.miraheze.org/wiki/LightningB0lt44), [Madmeg](https://2b2t.miraheze.org/wiki/Madmeg), [Coxinator2](https://2b2t.miraheze.org/wiki/Coxinator2), [digandbuilder](https://2b2t.miraheze.org/wiki/digandbuilder), [Cap_with_a_K](https://2b2t.miraheze.org/wiki/Cap_with_a_K), [Hinterhof](https://2b2t.miraheze.org/wiki/Hinterhof), [_HANDYMAN](https://2b2t.miraheze.org/wiki/_HANDYMAN), [KazumaB](https://2b2t.miraheze.org/wiki/KazumaB), [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs), [OpWolfy](https://2b2t.miraheze.org/wiki/OpWolfy), [I_tri](https://2b2t.miraheze.org/wiki/I_tri), [b11](https://2b2t.miraheze.org/wiki/b11), [KBgaming](https://2b2t.miraheze.org/wiki/KBgaming), [Lunch_Katsu](https://2b2t.miraheze.org/wiki/Lunch_Katsu), [tuxiscool](https://2b2t.miraheze.org/wiki/tuxiscool), [IronException](https://2b2t.miraheze.org/wiki/IronException), [y_a_t_a](https://2b2t.miraheze.org/wiki/y_a_t_a), [Steampunkjax](https://2b2t.miraheze.org/wiki/Steampunkjax), [Bathory343](https://2b2t.miraheze.org/wiki/Bathory343), [fiddlesticks98](https://2b2t.miraheze.org/wiki/fiddlesticks98), [seatb3lt](https://2b2t.miraheze.org/wiki/seatb3lt), [0eme](https://2b2t.miraheze.org/wiki/0eme), [Matrion_27](https://2b2t.miraheze.org/wiki/Matrion_27), [oofcloof](https://2b2t.miraheze.org/wiki/oofcloof), [neon](https://2b2t.miraheze.org/wiki/neon), [slol](https://2b2t.miraheze.org/wiki/slol), [Franknificant](https://2b2t.miraheze.org/wiki/Franknificant), [Pyruuuu](https://2b2t.miraheze.org/wiki/Pyruuuu), [Nemo2013](https://2b2t.miraheze.org/wiki/Nemo2013), [forceken](https://2b2t.miraheze.org/wiki/forceken), [Univercius](https://2b2t.miraheze.org/wiki/Univercius), [zeenyo](https://2b2t.miraheze.org/wiki/zeenyo), [FencingF](https://2b2t.miraheze.org/wiki/FencingF), [epearl](https://2b2t.miraheze.org/wiki/epearl), [2b2tegirl](https://2b2t.miraheze.org/wiki/2b2tegirl), [quackk](https://2b2t.miraheze.org/wiki/quackk), [LilN1gger](https://2b2t.miraheze.org/wiki/LilN1gger), [youfoundsand](https://2b2t.miraheze.org/wiki/youfoundsand), [Chris0929](https://2b2t.miraheze.org/wiki/Chris0929), [0Neb](https://2b2t.miraheze.org/wiki/0Neb), [LordGalvatronMC](https://2b2t.miraheze.org/wiki/LordGalvatronMC), [Joey_Coconut](https://2b2t.miraheze.org/wiki/Joey_Coconut), [Todarac](https://2b2t.miraheze.org/wiki/Todarac), and [Negative_Entropy](https://2b2t.miraheze.org/wiki/Negative_Entropy)
+| date_started = Februaruy 6, 2021
+| date_finished =
+| coords = (8000 , 8000)
+| leaker = [Memoryzzz](https://2b2t.miraheze.org/wiki/Memoryzzz)
+| date_griefed = March 1, 2021
+| griefers = [winter116](https://2b2t.miraheze.org/wiki/winter116)
+| wdl = [/warp Fort_Joe_2021-03-01]
+}}**Fort Joe** was a spawn base located inside [househousehouse1](https://2b2t.miraheze.org/wiki/househousehouse1)’s 8k8k lava cast built in early 2021 by a group of players headed by [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs), [i_tri](https://2b2t.miraheze.org/wiki/i_tri), [KBgaming](https://2b2t.miraheze.org/wiki/KBgaming), and [Hinterhof](https://2b2t.miraheze.org/wiki/Hinterhof).
+
+## History
+Fort Joe was a spawnbase founded on February 6th 2021, by [bread_loafs](https://2b2t.miraheze.org/wiki/bread_loafs), [i_tri](https://2b2t.miraheze.org/wiki/i_tri), [KBgaming](https://2b2t.miraheze.org/wiki/KBgaming), and [Hinterhof](https://2b2t.miraheze.org/wiki/Hinterhof). The base had a variety of members from many different groups including [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate), [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons), [Infinity Incursion](https://2b2t.miraheze.org/wiki/Infinity_Incursion), and [Backstreet Boys](https://2b2t.miraheze.org/wiki/Backstreet_Boys). Fort Joe Had over 50 members when it was greifed, and the bases ruins are still recognizable to this day.
+
+The base survived for a month before it was found and greifed by [winter116](https://2b2t.miraheze.org/wiki/winter116) on March 1st 2021.
+
+## Sinkhole City
+After the fall of Fort Joe, the members of the discord moved on to a new base, Sinkhole City. However this base didn’t last long or have nearly as many members as Fort Joe.
+## References

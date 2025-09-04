@@ -1,0 +1,1 @@
+#REDIRECT [Chatbots](https://2b2t.miraheze.org/wiki/Chatbots)

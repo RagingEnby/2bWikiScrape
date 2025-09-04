@@ -1,0 +1,1 @@
+#REDIRECT [Georgebush420](https://2b2t.miraheze.org/wiki/Georgebush420)

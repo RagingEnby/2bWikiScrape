@@ -1,0 +1,1 @@
+Yes exactly, same with Arving for example who is Russian but lives in the US. Good stuff.

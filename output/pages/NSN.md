@@ -1,0 +1,1 @@
+#REDIRECT [No Server November](https://2b2t.miraheze.org/wiki/No_Server_November)

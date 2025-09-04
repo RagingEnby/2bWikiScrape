@@ -1,0 +1,1 @@
+#REDIRECT [List of builds based on real locations](https://2b2t.miraheze.org/wiki/List_of_builds_based_on_real_locations)

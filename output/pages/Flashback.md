@@ -1,0 +1,7 @@
+{{BuildTemplate|dimension=Overworld|builders=[dr_frankfurt](https://2b2t.miraheze.org/wiki/dr_frankfurt), [Fuffer](https://2b2t.miraheze.org/wiki/Fuffer)|coords=(-26570,18750)|image=FlashbackTeardrop.png|date_started=September 4, 2017|date_finished=September 6, 2017|griefers=Unknown|date_abandoned=September 9, 2017|date_griefed=Unknown
+}}**Flashback** was a spawn build built by [dr_frankfurt](https://2b2t.miraheze.org/wiki/dr_frankfurt) and [Fuffer](https://2b2t.miraheze.org/wiki/Fuffer) in September 2017 for a [Spawnmasons](https://2b2t.miraheze.org/wiki/Spawnmasons) meeting.
+## History
+Flashback was designed by [dr_frankfurt](https://2b2t.miraheze.org/wiki/dr_frankfurt) and built by him and [Fuffer](https://2b2t.miraheze.org/wiki/Fuffer) in September 2017. It featured a house on an island, encased in an iconic light blue glass structure in roughly the shape of a [Hershey's Kiss](https://en.wikipedia.org/wiki/Hershey%27s_Kisses). It housed the second Spawnmasons meeting of the [Second degree](https://2b2t.miraheze.org/wiki/Spawnmasons#Second_degree) of the group, and hosted an in-game meetup of a dozen of its members. It was abandoned after the group's meeting there, and survived untouched into August 2020, when [Armorsmith](https://2b2t.miraheze.org/wiki/Armorsmith) visited and replaced the central building with his so-called 'Church of Armorsmith'. The structure was later griefed sometime in 2021/2022 by an unknown party.
+
+## External Links
+[Hershey's Kisses Wikipedia Article](https://en.wikipedia.org/wiki/Hershey%27s_Kisses)

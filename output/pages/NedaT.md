@@ -1,0 +1,18 @@
+{{Outdated}}
+
+**NedaT** is a 2b2t YouTuber and the founder / leader of [Team Aurora](https://2b2t.miraheze.org/wiki/Team_Aurora).
+
+## History
+NedaT first joined 2b2t on July 19th, 2016. She made a video about herself traveling through the server on the highways and random areas. Now, her support for [Team Veteran](https://2b2t.miraheze.org/wiki/Team_Veteran) is kind of confusing due to the fact that early, on she did wear the Veteran shield but then joined [the Resistance](https://2b2t.miraheze.org/wiki/the_Resistance) despite PvP_Comboz killing her in a video. Eventually, she decided to join the Resistance and killed a Veteran, so she probably went [Pro-Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher) until the [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia) fiasco.
+
+Neda went on to be a very high ranking Resistance member being in almost every Resistance fight and gained respect by [CorruptedUnicorn](https://2b2t.miraheze.org/wiki/CorruptedUnicorn) and his fellow co-leader SoulFood. During her times in the Resistance, she met [TheJadhya](https://2b2t.miraheze.org/wiki/TheJadhya) who was part of [Team Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher). The two became good friends and allies as Rusher and Resistance alliance was pretty good for the most part of the Rusher War. Her hate for [the 4th Reich](https://2b2t.miraheze.org/wiki/the_4th_Reich) also began during her Resistance days as the Reich was talking shit about her and other things on the discord, which offended her. She conducted a raid against them with her fellow allies but her being on a Pro-Veteran group's discord seemed very fishy.
+
+Eventually, NedaT got involved with Offtopia, a well respected Veteran member. She became a spy for Team Veteran and insided several [Resistance](https://2b2t.miraheze.org/wiki/The_Resistance) bases which were destroyed by the [4th Incursion](https://2b2t.miraheze.org/wiki/4th_Incursion) crew. Completely confused by what happened, many Resistance members went on the hunt for the traitor. Corrupted and SoulFood discovered that it was Neda, so they kicked her out of the group.
+
+NedaT then went on to found [Team Aurora](https://2b2t.miraheze.org/wiki/Team_Aurora), a group meant to undo the damage caused by The Resistance and to become an ally of Team Veteran. NedaT invited a few of her former Resistance members, ie PvP_Comboz, as well as some other players. Her group began conducting attacks on several Pro-Rusher groups, including [the Peacekeepers](https://2b2t.miraheze.org/wiki/the_Peacekeepers), [the Resistance](https://2b2t.miraheze.org/wiki/the_Resistance), and [the 4th Reich](https://2b2t.miraheze.org/wiki/the_4th_Reich).
+
+## Post-War
+After the Rusher War, Neda lead her group to war with the Peacekeepers and the 4th Reich, as the Resistance began giving up on their initiative and several members left. She has streamed many of her adventures on 2b2t, and played a role in [The Rusher War](https://2b2t.miraheze.org/wiki/The_Rusher_War). She eventually teamed up with [Offtopia](https://2b2t.miraheze.org/wiki/Offtopia), coming along on his adventures and helping him with [The Drain](https://2b2t.miraheze.org/wiki/The_Drain). She has become incredibly hated by many players due to her personality and alliance with Offtopia. Many people believe she is manipulating Offtopia, but there is little to no evidence of this.
+
+## External links
+https://www.youtube.com/channel/UCJ4R1VjTR96f3WRgA03I1fQ/ - NedaT's YouTube Channel, now seemingly inactive (last video was in early 2019).

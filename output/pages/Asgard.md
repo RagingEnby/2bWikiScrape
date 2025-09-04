@@ -1,0 +1,1 @@
+#REDIRECT [Asgard I](https://2b2t.miraheze.org/wiki/Asgard_I)

@@ -1,0 +1,1 @@
+#REDIRECT [COVID-2147](https://2b2t.miraheze.org/wiki/COVID-2147)

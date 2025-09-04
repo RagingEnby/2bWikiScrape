@@ -1,0 +1,1 @@
+#REDIRECT [Judge's Group](https://2b2t.miraheze.org/wiki/Judge%27s_Group)

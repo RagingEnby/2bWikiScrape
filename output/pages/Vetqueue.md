@@ -1,0 +1,1 @@
+#REDIRECT [Queue#Veteran Queue (removed)](https://2b2t.miraheze.org/wiki/Queue#Veteran_Queue_(removed))

@@ -1,0 +1,25 @@
+**Shenandoah** was a base founded by [jesse_number6](https://2b2t.miraheze.org/wiki/jesse_number6). The base was used by [oldfags](https://2b2t.miraheze.org/wiki/oldfags), [midfags](https://2b2t.miraheze.org/wiki/midfags), and [newfags](https://2b2t.miraheze.org/wiki/newfags) alike.
+{{BaseTemplate
+|image=1 - 96rFhq0.jpg
+|quote=
+|caption=
+|status= Griefed
+|builders= [jesse_number6](https://2b2t.miraheze.org/wiki/jesse_number6), [Legion of Shenandoah](https://2b2t.miraheze.org/wiki/Legion_of_Shenandoah)
+|date_started= July 2013
+|date_finished=
+|coords={{coords|-14727|-24893}}
+|leaker=
+|date_griefed= Late December 2016
+|griefers= [0xymoron](https://2b2t.miraheze.org/wiki/0xymoron)
+|wdl=
+}}
+## Early Days
+When the base was initially created it resembled an underground hotel. Many players had rooms at Shenandoah, and players often stopped by to resupply. [E_to_the_G](https://2b2t.miraheze.org/wiki/E_to_the_G) and [Atrika](https://2b2t.miraheze.org/wiki/Atrika) were two notable players that had a home away from home here. E_to_the_G, or Eto, as he was commonly called, often took newfags out of spawn and "tested" them to determine if they would be allowed at Shenandoah. Notable players tested included [hjc711](https://2b2t.miraheze.org/wiki/Henry) (now known as _Henry_) and [Germinaneu](https://2b2t.miraheze.org/wiki/EX0DlSS). hjc711 arrived at Shenandoah shortly after Germinaneu, and they became friends during the few times they got online at the same time. At this time that jesse_number6 would begin work on the Castle of Shenandoah.
+
+## Inviting Other Players
+Jesse was not online frequently, and left the castle unfinished. Eventually, Germinaneu left the server for a long time, leaving hjc711 to tend to the base by himself. During this period, hjc711 went to spawn with Eto to the base [NFE](https://2b2t.miraheze.org/wiki/NFE). There, he met [Pyrobyte](https://2b2t.miraheze.org/wiki/Pyrobyte), [Jared2013](https://2b2t.miraheze.org/wiki/Jared2013), [Saril2000](https://2b2t.miraheze.org/wiki/Saril2000), and a few other players. This would be the last day that NFE would remain intact, as the next day, it was withered and griefed by [popbob](https://2b2t.miraheze.org/wiki/popbob). hjc711 brought saril2000 back to Shenandoah, and they began to expand the base and complete the castle started by jesse_number6. Soon afterwards, Germinaneu returned on the new account bigbang105. This time, he was accompanied by his friend [AppleLight](https://2b2t.miraheze.org/wiki/AppleLight). During this period, hjc and Germinaneu brought animals to the base, including horses and donkeys. The base began to rapidly expand as new members were invited to the base. Germinaneu disappeared again, along with AppleLight. However, E_to_the_G invited hjc711 and saril2000 to [Etobase](https://2b2t.miraheze.org/wiki/Etobase), leaving Shenandoah uninhabited. Germinaneu and AppleLight returned on the account EX0DlSS and GERMKILLA, and got in contact with hjc711, (who at this point had changed his account name to _Henry_) inviting him back to their old base.
+## Grief and Group Formation
+The base was massive at this point, harboring many new players and buildings. The Castle was finally completed, marking the formation of the Legion of Shenandoah. The main members of the Legion were Germinaneu, [_Henry_](https://2b2t.miraheze.org/wiki/_Henry_), [Sure_Iock](https://2b2t.miraheze.org/wiki/Sure_Iock), AppleLight, and Saril2000/JoshGreep. Two of the new players living at Shenandoah, [Bezopasan](https://2b2t.miraheze.org/wiki/jacobigrat), and adh2000 got into a disagreement, that culminated in adh2000's room in the castle being griefed. _Henry_ and EX0DlSS stepped in to try and end the conflict, but jacobigrat and _Henry_ got into a heated fight in chat, which prompted observers to try and egg the two on into a PvP match. The two staged a fake duel which ended up with Jacob leaking false coords to Shenandoah. At this point, Anonam00se (a Team Sun member), posted the real coords in chat. Although Shenandoah's coordinates were well known among established players, a newfag griefing group saw the coords and arrived shortly after. Following the griefing of the base, the Legion went to a string of new bases, and were eventually invited to [Asgard II](https://2b2t.miraheze.org/wiki/Asgard_II) by [Sato86](https://2b2t.miraheze.org/wiki/Sato86). This event marked the union between the [Valkyrians](https://2b2t.miraheze.org/wiki/Valkyrians), who had been living at a base called [Fenrir](https://2b2t.miraheze.org/wiki/Fenrir), and the Legion of Shenandoah.
+
+## Rebuilding
+During the Age of Hype, jesse got together with [Team Malaria](https://2b2t.miraheze.org/wiki/Team_Malaria) and rebuilt Shenandoah. A Youtuber named [Mines](https://2b2t.miraheze.org/wiki/Mines) would settle at the castle, leading the group to worry that newfags would find and destroy Shenandoah. At the end of December 2016, the group invited [0xymoron](https://2b2t.miraheze.org/wiki/0xymoron) to grief the base. It was later revealed that [Team Malaria](https://2b2t.miraheze.org/wiki/Malaria) was threatening jesse with leaking base coords.

@@ -1,0 +1,39 @@
+**Virl** is a builder who joined 2b2t in mid-2016 and has managed several projects such as the [2b2t Media Archive](https://2b2t.miraheze.org/wiki/2b2t_Media_Archive) and the 2b2t Union.
+
+## History
+### Early History
+In mid-2016, Virl discovered 2b2t after hearing admins talking about it on the factions server he owned. When he joined, he decided to travel to the world border. Virl, who hadn't played survival multiplayer for a long time, found it difficult to travel to the border. Journeying three million blocks from spawn, he died and temporarily quit the server. Virl rejoined the server the following month and met InquisitorToth (currently named [AlexiPlaysMC](https://2b2t.miraheze.org/wiki/AlexiPlaysMC)). The two became good friends and Virl was and was able to quickly regain essential supplies. Using this gear, Virl would spend the next year traveling around the spawn area in search of bases.
+
+### The Soviets
+In 2017, on his way to the world border, he met a member of the [Soviets](https://2b2t.miraheze.org/wiki/Soviets). They invited him to their group and their base named Augustana, to which he made many contributions. Because Augustana was so close to spawn the decision was made to move to a new base, The Citadel, and leave Augustana for low-ranking members of the Soviets. Meanwhile, Virl made it to the world border after over a month of traveling, suffering through tremendous lag and terrible Australian internet, as well as dying at 9 million and 11 million blocks from spawn along the way. Soon afterwards, the Soviets suffered an insiding attempt by [The Emperium](https://2b2t.miraheze.org/wiki/The_Emperium) after one of the leaders of the Soviets traded info about the Emperium with a stash given by 2 players who wanted to inside it: [JakeFromStateFarm](https://2b2t.miraheze.org/wiki/Jakefromstatefarm) and [The_GenderBender](https://2b2t.miraheze.org/wiki/The_GenderBender). Virl e-pearled from the world border to see [Slimestoner](https://2b2t.miraheze.org/wiki/Slimestoner), an Emperium inner council member was griefing the base. After crystal pvping, Slimestoner eventually won. It was later uncovered that one of the members of the Soviets had leaked the base coordinates in the hopes of joining Emperium. This would cause the Soviets to travel further than ever before to create The Red Palace, a base that still stands today.
+
+### Asylum
+Later, Virl met [Cityboss1](https://2b2t.miraheze.org/wiki/Cityboss1) and joined [Asylum](https://2b2t.miraheze.org/wiki/Asylum), with whom they raided many stashes. In January 2018, the [United Group Embassy](https://2b2t.miraheze.org/wiki/United_Group_Embassy) was founded to bring together some of the largest groups and have them bring about peace on the server. Asylum was one of the first groups to join it, and Virl was at many of the UGE bases, including the [UGE End base](https://2b2t.miraheze.org/wiki/UGE_End_base). Virl's involvement with the UGE would lead to Virl and [TheDark Emperor](https://2b2t.miraheze.org/wiki/TheDark_Emperor) becoming more acquainted.
+
+### Emperium
+Virl would eventually become friends with TheDark_Emperor, as Virl had been providing him with increasingly powerful lag machine designs. The most powerful of which brought the [TPS](https://2b2t.miraheze.org/wiki/TPS) down to 0.06 TPS. During the [6th Incursion](https://2b2t.miraheze.org/wiki/6th_Incursion) these machines were used to cause lag and prevent new players from joining. He built many bases with Emperium, such as [Sigma Pride](https://2b2t.miraheze.org/wiki/Sigma_Pride), [Desert Sigma](https://2b2t.miraheze.org/wiki/Desert_Sigma), [Tartarus](https://2b2t.miraheze.org/wiki/Tartarus), [Empire's Africa](https://2b2t.miraheze.org/wiki/Empire%27s_Africa), and [Emperial City](https://2b2t.miraheze.org/wiki/Emperial_City). He became less involved in Emperium over time as the group became toxic and lost it's identity as a building group.
+
+### Asylum Store
+In mid-2018, Virl and Cityboss1 used the [Donkey Dupe](https://2b2t.miraheze.org/wiki/Dupe) to create a shop called Asylum Store to sell kits and supply building materials for Asylum and Emperium bases. [Fr1kin](https://2b2t.miraheze.org/wiki/Fr1kin) griefed the stash, which was found using [Nocom](https://2b2t.miraheze.org/wiki/Nocom). Virl and Cityboss1 restarted the shop again with the chunk dupe, but the stash was once again griefed by Fr1kin a year later. Afterwards, they split and took whatever items they could and moved them out as far as they could. Slowly, the stashes were griefed over the years. In 2019, Virl made a mapart base that would be griefed by jared in February 2020 using the [Authentication exploit](https://2b2t.miraheze.org/wiki/Nerds_Inc#Authentication_exploit). Following this, Virl quit for a year.
+
+### Return to 2b2t
+Virl returned to 2b2t in 2021. He built more maparts, and started a base called Mushroom Kingdom II. As Virl grew tired of building at Mushroom Kingdom II, he started a base called MLPxAMONGUS which formed as an inside joke between him and his friends in his discord. He advertised the base as a location where "My Little Pony: Friendship is Magic and Among Us art could be built together in a single place". Virl and Cityboss1 discovered an exploit where locational markers on maps could be stacked on top of each other, causing significant lag. Virl was also invited to the [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) by [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock). Virl would build at several Guardsmen bases until the group fell into disarray over leadership troubles. Following the grief of MLPxAMONGUS, Virl started MLPxAMONGUS 2 which became inactive. Virl's largest base, Mushroom Kingdom II, would eventually be griefed in late 2021.
+
+### Midnight Council
+In 2022, Virl would spend little time playing 2b2t as he became more focused on other projects. With the time he spent on 2b2t he would continue dividing his stashes himself and City duped back in 2018 as stash hunting became more prevalent. Virl would return once more in late 2022 to attend the [Midnight Council](https://2b2t.miraheze.org/wiki/Midnight_Council) after receiving an invite from [Orsond](https://2b2t.miraheze.org/wiki/Orsond). In survival with no cheats, Virl constructed his mansion that was mysteriously burned down several times, after the base was griefed [HermeticLock](https://2b2t.miraheze.org/wiki/HermeticLock) would reveal himself as the griefer, explaining that it had all been a test of character.
+
+### 2b2t Union
+As a result of the recent controversies regarding the 1.19 Update, Virl joined the [2b2t Union](https://2b2t.miraheze.org/wiki/2b2t_Union) and quickly rose through the ranks due to his past experience on the server. Virl's approach to the server strike contrasted with other high-ranking members, spending more time discussing with players in public chats about the causes and effects of a potential rollback while sending memes ridiculing the administration's decision to remove rare items. Virl is still active on 2b2t as of September 2023.
+
+## Trivia
+*During the 6th Incursion, Virl met [AntVenom](https://2b2t.miraheze.org/wiki/AntVenom) and killed him. He also killed [PopularMMOs](https://2b2t.miraheze.org/wiki/PopularMMOs) during the incursion when he joined briefly.
+*He did a tour of 2b2t Australia (a server run by his friend RemainingToast) for a [FitMC](https://2b2t.miraheze.org/wiki/Fit) [video](https://www.youtube.com/watch?v=lB9-GHEQDD0).
+
+## Gallery
+<gallery>
+Mlpxamongus.png|thumb|Sign wall and art of MLPxAMONGUS
+Mushroom Kingdom II.png|thumb|Render of Mushroom Kingdom 2
+Virl's Mansion.png|thumb|Render of Virl's Mansion at the Midnight Council
+</gallery>
+
+## References

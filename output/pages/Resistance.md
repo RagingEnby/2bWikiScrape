@@ -1,0 +1,1 @@
+#REDIRECT [The_Resistance](https://2b2t.miraheze.org/wiki/The_Resistance)

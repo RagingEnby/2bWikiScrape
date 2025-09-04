@@ -1,0 +1,1 @@
+#REDIRECT [TeamNoTrees#TeamTrees%20and%20other%20opposing%20groups](https://2b2t.miraheze.org/wiki/TeamNoTrees#TeamTrees%2520and%2520other%2520opposing%2520groups)

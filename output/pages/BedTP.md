@@ -1,0 +1,1 @@
+#REDIRECT [Travel#Bed Travel](https://2b2t.miraheze.org/wiki/Travel#Bed_Travel)

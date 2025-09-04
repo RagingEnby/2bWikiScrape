@@ -1,0 +1,1 @@
+#REDIRECT [Team Malaria](https://2b2t.miraheze.org/wiki/Team_Malaria)

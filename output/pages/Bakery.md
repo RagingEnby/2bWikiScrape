@@ -1,0 +1,1 @@
+#REDIRECT [Brownmen#The Bakery (April 7–20, 2020)](https://2b2t.miraheze.org/wiki/Brownmen#The_Bakery_(April_7%E2%80%9320%2C_2020))

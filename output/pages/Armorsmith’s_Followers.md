@@ -1,0 +1,1 @@
+#REDIRECT [Armorsmith's Followers](https://2b2t.miraheze.org/wiki/Armorsmith%27s_Followers)

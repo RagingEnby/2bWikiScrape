@@ -1,0 +1,1 @@
+#REDIRECT [Democratic Group Alliance](https://2b2t.miraheze.org/wiki/Democratic_Group_Alliance)

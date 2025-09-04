@@ -1,0 +1,1 @@
+#REDIRECT [The order](https://2b2t.miraheze.org/wiki/The_order)

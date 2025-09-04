@@ -1,0 +1,1 @@
+#REDIRECT [SalC1](https://2b2t.miraheze.org/wiki/SalC1)

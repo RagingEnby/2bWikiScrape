@@ -1,0 +1,1 @@
+#REDIRECT [Purgatory 2](https://2b2t.miraheze.org/wiki/Purgatory_2)

@@ -1,0 +1,1 @@
+Sure does. It should however ensure that we do not start making really arbitrary categories (e.g. "Competitor from Israel") just to get an achievement.

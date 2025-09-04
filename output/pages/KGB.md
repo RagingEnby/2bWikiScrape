@@ -1,0 +1,1 @@
+#REDIRECT [KinoGrad Base](https://2b2t.miraheze.org/wiki/KinoGrad_Base)

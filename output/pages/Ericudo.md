@@ -1,0 +1,6 @@
+**Ericudo** is a 2b2t player who joined in 2015, notable for his "Faction Balls" comic series on the [2b2t subreddit](https://2b2t.miraheze.org/wiki/R%2F2b2t).
+
+## History
+After joining on December 15, 2015 directly because of his brother [Torogadude](https://2b2t.miraheze.org/wiki/Torogadude), he remained on his own for a considerable amount of time, including during the [Rusher War](https://2b2t.miraheze.org/wiki/The_Rusher_War). He wasn't the most active player when he first joined, but started to become more well known when he joined [The Emperium](https://2b2t.miraheze.org/wiki/The_Emperium) sometime around late February 2017.
+
+He wasn't known to be Toro's brother until Toro released a 10k YouTube special{{Source?}}and mentioned his name. He later became known for creating "Faction Balls" comics that he occasionally posted on the 2b2t subreddit. They were based on countryball comics and depicted the politics of different groups at the time (though most of them seem to be anti-[Peacekeeper](https://2b2t.miraheze.org/wiki/The_Peacekeepers)) or major events that happened on the server.

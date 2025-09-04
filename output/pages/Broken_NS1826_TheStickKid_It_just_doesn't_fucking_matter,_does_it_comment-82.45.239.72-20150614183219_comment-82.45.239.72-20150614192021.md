@@ -1,0 +1,1 @@
+He also vandalised the wiki by removing himself from the ban list.

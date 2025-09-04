@@ -1,0 +1,1 @@
+Well then, I think that he deserves to be permanently banned.

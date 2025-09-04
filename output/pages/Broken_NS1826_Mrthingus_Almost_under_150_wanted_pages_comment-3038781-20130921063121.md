@@ -1,0 +1,1 @@
+I've been making some redirects for articles such as IAS3 and I'm a Speedrunner 3, as they are different ways of spelling ultimately the same thing. Redirects definitely have a great use.

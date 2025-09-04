@@ -1,0 +1,1 @@
+#REDIRECT [ZiggyBase#Bedrock Comet](https://2b2t.miraheze.org/wiki/ZiggyBase#Bedrock_Comet)

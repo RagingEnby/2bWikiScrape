@@ -1,0 +1,1 @@
+#REDIRECT [Mapart#Kinorana Map Crisis](https://2b2t.miraheze.org/wiki/Mapart#Kinorana_Map_Crisis)

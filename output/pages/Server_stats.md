@@ -1,0 +1,1 @@
+#REDIRECT [Server statistics](https://2b2t.miraheze.org/wiki/Server_statistics)

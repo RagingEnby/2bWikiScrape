@@ -1,0 +1,1 @@
+#REDIRECT [Knights of Spawn](https://2b2t.miraheze.org/wiki/Knights_of_Spawn)

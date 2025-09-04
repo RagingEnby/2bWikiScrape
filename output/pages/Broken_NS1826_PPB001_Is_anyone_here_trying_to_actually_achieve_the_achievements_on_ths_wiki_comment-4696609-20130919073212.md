@@ -1,0 +1,1 @@
+If I'm close to get another one, then I go for it when I have the chance, or else I just wait until I am close enough to the goal of the achievement, depending on which it might be. I'm also currently the top ranked as well ;)

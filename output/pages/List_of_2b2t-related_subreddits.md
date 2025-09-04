@@ -1,0 +1,1 @@
+#REDIRECT [List of 2b2t-related subreddits](https://2b2t.miraheze.org/wiki/List_of_2b2t-related_subreddits)

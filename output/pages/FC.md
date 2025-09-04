@@ -1,0 +1,1 @@
+#REDIRECT [Fight Club](https://2b2t.miraheze.org/wiki/Fight_Club)

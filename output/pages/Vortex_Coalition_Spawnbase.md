@@ -1,0 +1,2 @@
+{{stub}}
+The [Vortex Coalition](https://2b2t.miraheze.org/wiki/Vortex_Coalition) Spawnbase, also known as 420 911, was a famous landmark at [Spawn](https://2b2t.miraheze.org/wiki/Spawn) on 2b2t that was constructed primarily obsidian towers and farms. It is now completely destroyed and once had the largest cactus ever built on 2b2t.

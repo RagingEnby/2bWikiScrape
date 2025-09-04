@@ -1,0 +1,1 @@
+So, HeyDavid17 thinks that he doesn't deserve to be banned. If that's true, then CityRuler1 should never have been banned, because he did something bad to the tournament host as well. (Ratchet5 in IAS 7.)

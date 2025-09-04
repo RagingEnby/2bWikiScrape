@@ -1,0 +1,1 @@
+#REDIRECT [X0XP](https://2b2t.miraheze.org/wiki/X0XP)

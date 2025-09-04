@@ -1,0 +1,1 @@
+#REDIRECT [Algul Siento](https://2b2t.miraheze.org/wiki/Algul_Siento)

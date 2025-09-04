@@ -1,0 +1,1 @@
+#REDIRECT [Church of Eden](https://2b2t.miraheze.org/wiki/Church_of_Eden)

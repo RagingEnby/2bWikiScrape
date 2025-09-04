@@ -1,0 +1,1 @@
+#REDIRECT [Spawn#Water cubing](https://2b2t.miraheze.org/wiki/Spawn#Water_cubing)

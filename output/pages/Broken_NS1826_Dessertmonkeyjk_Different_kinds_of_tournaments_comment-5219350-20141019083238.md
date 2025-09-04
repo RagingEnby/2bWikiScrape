@@ -1,0 +1,3 @@
+I've had similar ideas for speedrunning, but never thought about doing it for a tournament. It sounds like it could work though, so long as people are determined enough. I think you should try it; it wouldn't cause any harm if you tried. I'm not entirely sure which one is best though, maybe you should make a video and get people to vote.
+
+Also, there are plans for a second IANR, to happen either between IAS9 and IAS10 or after IAS10.

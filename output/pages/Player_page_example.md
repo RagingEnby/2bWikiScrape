@@ -1,0 +1,1 @@
+#REDIRECT [2b2t Wiki:Draft creation guide/Player page example](https://2b2t.miraheze.org/wiki/2b2t_Wiki:Draft_creation_guide%2FPlayer_page_example)

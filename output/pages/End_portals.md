@@ -1,0 +1,1 @@
+#REDIRECT [End portal](https://2b2t.miraheze.org/wiki/End_portal)

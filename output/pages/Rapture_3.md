@@ -1,0 +1,1 @@
+#REDIRECT [List of small bases#Rapture 3](https://2b2t.miraheze.org/wiki/List_of_small_bases#Rapture_3)

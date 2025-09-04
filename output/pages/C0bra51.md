@@ -1,0 +1,8 @@
+# c0bra51
+
+**c0bra51** more commonly referred to as **cobra,** is an [oldfag](https://2b2t.miraheze.org/wiki/Terminology) who joined 2b2t in 2011.
+
+## History
+**c0bra51** is an [oldfag](https://2b2t.miraheze.org/wiki/Oldfags) on [2builders2tools](https://2b2t.miraheze.org/wiki/2b2t), who joined and was active between late 2011 and 2015. c0bra51 joined 2b2t and was acquainted with players such as [fr1kin](https://2b2t.miraheze.org/wiki/fr1kin) through her connection to the [Garry's Mod/Counter-Strike](https://2b2t.miraheze.org/wiki/2b2t_(Garry%27s_Mod_server)) cheating communities. After joining 2b2t in 2011, along with many other Facepunch users, she made her way to her long time friends [fr1kin](https://2b2t.miraheze.org/wiki/fr1kin) and [victormeriqui](https://2b2t.miraheze.org/wiki/victormeriqui) at [fr1kin's 2012 base](https://2b2t.miraheze.org/wiki/fr1kin%27s_2012_base). After discovering the Netheroof exploit, they all set out to travel further away from spawn, settling at the [500k base](https://2b2t.miraheze.org/wiki/500k_base), where she resided until her eventual departure from 2builders2tools in 2015. By the time [500k base](https://2b2t.miraheze.org/wiki/500k_base) had been abandoned, the bases members assumed c0bra51 would no longer play 2b2t. However, before leaving 2b2t she, along with fr1kin- signed a set of books and left them at the entrance to [500k base](https://2b2t.miraheze.org/wiki/500k_base).
+
+**c0bra51** no longer owns the account under this name and no longer plays.

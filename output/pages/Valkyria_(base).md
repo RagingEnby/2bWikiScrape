@@ -1,0 +1,1 @@
+#REDIRECT [Valkyria (base)](https://2b2t.miraheze.org/wiki/Valkyria_(base))

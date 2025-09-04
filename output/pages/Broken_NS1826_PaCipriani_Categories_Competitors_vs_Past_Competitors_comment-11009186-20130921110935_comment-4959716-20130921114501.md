@@ -1,0 +1,1 @@
+Haha no worries. Nah, if it's abundantly clear that they're not going to return then they shouldn't be listed as a competitor. If they do return somehow then we'll switch their categories.

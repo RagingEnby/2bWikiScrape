@@ -1,0 +1,1 @@
+#REDIRECT [Nether#Nether Hub](https://2b2t.miraheze.org/wiki/Nether#Nether_Hub)

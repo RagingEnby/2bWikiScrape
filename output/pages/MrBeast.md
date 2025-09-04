@@ -1,0 +1,1 @@
+#REDIRECT [YouTube tourists#MrBeast](https://2b2t.miraheze.org/wiki/YouTube_tourists#MrBeast)

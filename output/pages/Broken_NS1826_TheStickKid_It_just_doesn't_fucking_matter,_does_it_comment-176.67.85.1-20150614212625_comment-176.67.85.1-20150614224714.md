@@ -1,0 +1,1 @@
+Wait........ HE actually stepped down?! IAS10 is saved! I won't be joining the tournament, but I know you guys got this. Everything will be so much better with out him. also, why couldn't you guys just use the talkshow with out him you just mentioned. Would make it seem like you guys are more even.

@@ -1,0 +1,1 @@
+#REDIRECT [The Autumn Drain#Drain Gang](https://2b2t.miraheze.org/wiki/The_Autumn_Drain#Drain_Gang)

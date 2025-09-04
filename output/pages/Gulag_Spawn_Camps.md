@@ -1,0 +1,1 @@
+#REDIRECT [VI Incursion](https://2b2t.miraheze.org/wiki/VI_Incursion)

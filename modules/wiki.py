@@ -1,3 +1,4 @@
+import json
 import re
 import asyncio
 from typing import Self
@@ -17,6 +18,11 @@ class Page:
         self.page_id = page_id
         self.ns = ns or 0
         self._content = None
+    
+    @property
+    def safe_title(self) -> str:
+        sanitized_base_name = re.sub(r'[<>:"/\\|?*@\s]+', '_', self.title)
+        return sanitized_base_name
         
     @property
     def markdown(self) -> str:
@@ -45,7 +51,11 @@ class Page:
 class PageData(Page):
     def __init__(self, title: str, page_id: int, content: str, ns: int | None = None):
         super().__init__(title, page_id, ns or 0)
-        self.content = content
+        self._content = content
+    
+    @property
+    def content(self) -> str:
+        return self._content
         
     def to_dict(self) -> dict:
         return {
@@ -116,7 +126,7 @@ class Pages:
 
 async def get_all_pages() -> Pages:
     apcontinue = None
-    pages = Pages([])
+    raw_pages: list[dict] = []
     while True:
         params = {
             "action": "query",
@@ -130,13 +140,13 @@ async def get_all_pages() -> Pages:
 
         response = await asyncreqs.proxy_get(constants.WIKI_API_URL, params=params)
         data = response.json()
-        pages.extend(Pages.from_dict(data['query']['allpages']))
+        raw_pages.extend(data['query']['allpages'])
 
         if 'continue' in data and 'apcontinue' in data['continue']:
             apcontinue = data['continue']['apcontinue']
         else:
             break
-    return pages
+    return Pages.from_dict(raw_pages)
     
 
 async def get_page_data(page_name: str) -> PageData:
@@ -160,22 +170,39 @@ async def get_page_data(page_name: str) -> PageData:
         )
         
         
-async def test(page_name: str) -> str:
+async def bulk_get_page_data(page_names: set[str]) -> list[PageData]:
+    if not page_names:
+        return []
+    #if len(page_names) > 50:
+    #    raise ValueError("Too many pages, maximum is 50")
+    page_datas: list[PageData] = []
+    
     async with request_semaphore:
         params = {
             "action": "query",
-            "prop": "extracts",
-            "titles": page_name,
-            "explaintext": True,
-            "exsectionformat": "plain",
+            "prop": "revisions",
+            "titles":  "|".join(page_names),
+            "rvprop": "content",
             "format": "json",
             "formatversion": 2
         }
         response = await asyncreqs.proxy_get(constants.WIKI_API_URL, params=params)
         data = response.json()
-        raw_extract = data['query']['pages'][0]['extract']
-        cleaned_extract = re.sub(r'\[edit \| edit source\]', '', raw_extract).strip()
-        return cleaned_extract
+
+        if 'query' in data and 'pages' in data['query']:
+            for page_info in data['query']['pages']:
+                if 'revisions' in page_info and page_info['revisions']:
+                    revision_content = page_info['revisions'][0]['content']
+                    page_datas.append(PageData(
+                        title=page_info['title'],
+                        page_id=page_info['pageid'],
+                        content=revision_content
+                    ))
+                else:
+                    print(f"Warning: No revisions found for page '{page_info.get('title', 'Unknown')}' (ID: {page_info.get('pageid', 'Unknown')})")
+        else:
+            print(f"Warning: No query or pages data in response for page_names: {page_names}")
+    return page_datas
     
     
 def mediawiki_to_markdown(wikitext: str) -> str:

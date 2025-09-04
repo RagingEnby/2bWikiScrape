@@ -1,0 +1,31 @@
+**TheCampingRusher**, (aka **Rusher** or **TCR**), is a large Canadian [YouTuber](https://2b2t.miraheze.org/wiki/Youtubers) that controversially brought 2b2t into mainstream awareness through his video series entitled 'The Oldest Anarchy Server in Minecraft', a descriptor which is still often used today, albeit incorrectly. He was also the leader of [Team Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher).
+
+## History
+TheCampingRusher joined 2b2t on June 1, 2016 and posted a video about it on YouTube, which caused an influx to the server by his fans and viewers. This pissed-off many older players, and he began to recognize this.
+
+Eventually, things began to get out of control and TCR declared war on the oldfags, in which he called OG's (Original Gangstas). This caused the oldfags to assemble into what we know today as [Team Veteran](https://2b2t.miraheze.org/wiki/Team_Veteran).
+
+Rusher went on to be Team Veteran's number one target as the group conducted several massacres on his fans and have attempted to hunt him down. Team Veteran failed to actually hunt and kill his main account and send it back to spawn, but they got close twice. The first time was when [Fit](https://2b2t.miraheze.org/wiki/Fit) and his gang missed Rusher by at least ten minutes at the Valley of Wheat. The second was when Bitter Cynic found him at his paradise and a chase for him and Mr.Mitch occurred. The two eventually got away as Bitter tried to spawn trap Mr.Mitch as he logged off before death but failed. The two decided to be more cautious about coordinates and revealing their travel throughout the server in order to prevent Veteran recognition of the areas shown or figuring it out with a Minecraft Map Analyzer.
+
+Due to Team Veteran constantly hunting for him, he never settled to create a base, attempting only twice to create a makeshift base. He remained a nomad as his two attempts were griefed by Team Veteran.
+
+Fit actually admitted that Rusher didn't seem so bad as a person several times. As Rusher gained better gear, his mood of videos began to shift from the unintended war he caused and focused more on base tours and explaining the history of the server to his fans. He eventually left 2b2t on October 22, 2016, as he began to lose ideas for the series, his fans were getting bored, and the start of school. He also planned to return to the server in mid-June of 2017.
+
+## Future
+It was often questioned whether Rusher would be returning to 2b2t in June of 2017. Torogadude believed that there is a 40% chance of Rusher returning to the server. Fit stated that Rusher would not return over the summer as he states that he is "closest" to Rusher and has had contact with him.<sup>[*[citation needed](https://2b2t.miraheze.org/wiki/Wikipedia:Citation_needed)*]</sup> To the relief of many, he did not return to the server. His channel has completely stopped being based around *Minecraft*.
+
+TheCampingRusher made a new *Minecraft* YouTube channel. He uploaded his first 2b2t video in years and was given a dupe stash that was later griefed by [GSmack](https://2b2t.miraheze.org/wiki/GSmack). He also convinced his friend [BenMasscot](https://2b2t.miraheze.org/wiki/BenMasscot) to rejoin the server. He hasn't uploaded any other 2b2t videos after that, and his main account and known alts haven't joined 2b2t.
+
+## Relationships
+*[FitMC](https://2b2t.miraheze.org/wiki/FitMC) — Fit is Rusher's archnemesis in 2b2t. Although it may look like they are enemies, behind the scenes it was revealed that Fit and Rusher allegedly had a partnership where Fit would give Rusher coordinates to some monuments and bases, leading to Fit gaining a lot of hate and the feeling of betrayal from some of his closest friends.
+*[Napkin0fTruth](https://2b2t.miraheze.org/wiki/Napkin0fTruth) (also HiddenBlock87) — Napkin and Rusher have been friends for a long time. Currently, Napkin acts as Rusher's rival in his factions show. Napkin originally wanted to be Rusher's rival on 2b so he joined the Veterans for a short amount of time. However, Napkin realized that the Veterans did not share the same values as he did and that the Veterans were not Rusher's enemies for rivalship and competition but rather a force to drive him and the rest of his faction buddies out. So he joined the [Peacekeepers](https://2b2t.miraheze.org/wiki/Peacekeepers) to make it seem that he was not on Rusher's side but still shared Team Rusher values (eventually the Peacekeepers would just become a [Team Rusher](https://2b2t.miraheze.org/wiki/Team_Rusher) subgroup in a sense).
+*[MrMitch361](https://2b2t.miraheze.org/wiki/MrMitch361) — MrMitch361 is one of Rusher's best friends and faction buddy. MrMitch361 had followed Rusher through his entire journey on the server, being his right-hand man the entire time and experienced every danger that the two faced.
+*[xX_ItzFreEzY_Xx](https://2b2t.miraheze.org/wiki/xX_ItzFreEzY_Xx) — Freezy was Rusher's friend on the tempmap while the server was updating to cope with the mass amount of new players.
+
+## Controversy
+Rusher made a video where he admitted to being responsible behind the making of the Priority Queue system and that he can add or remove anyone he wishes, but he claims not to do so. He also claims that he did not implement the queue for the money, defending this claim by stating that people offered to pay HauseMaster money to get premium queue and Rusher had only aided Hause to create that queue. He stated that for his first two years as a YouTuber, he did not get paid for his content, defending that he was not being greedy. He even offered to donate the money he earns to charity, and donates $250 per month to the server since the eighth episode in his series.{{Citation needed}}
+
+He has also admitted to actually wanting to buy 2b2t from Hause (this offer was before the tempmap). He stated that he wanted to buy the server in order to make it lag-free and give it DDOS protection.<sup>[*[citation needed](https://2b2t.miraheze.org/wiki/Wikipedia:Citation_needed)*]</sup> However, Hause already did this during the tempmap.
+
+## External links
+*[YouTube channel](https://youtube.com/channel/UCwMFwvFgLaFad8ZnKsWBneg)

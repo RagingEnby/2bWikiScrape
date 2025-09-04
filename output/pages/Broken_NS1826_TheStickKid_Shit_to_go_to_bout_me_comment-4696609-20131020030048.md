@@ -1,0 +1,1 @@
+What's the point of this anyway? You can add this to your own page instead(userpage), not on your wiki page

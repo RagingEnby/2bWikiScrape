@@ -1,0 +1,1 @@
+Wait, are you saying that the draw video isn't even made yet? The wiki page states 32 people joined. Should already been made! WHAT A FAIL! IAS10 is going to fail! Besides, you and supster are hosts too. You guys need to control Xindictive a bit. He isn't letting you do anything!!!!

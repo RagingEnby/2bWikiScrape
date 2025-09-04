@@ -1,0 +1,16 @@
+# iAmZeiss
+
+**iAmZeiss** or **Zeiss** is a builder and a former Elder of [DonFuer](https://2b2t.miraheze.org/wiki/Donfuer).
+
+## History
+### Early History
+Zeiss joined 2b2t in mid 2020 after he found [SalC1](https://2b2t.miraheze.org/wiki/SalC1) on YouTube and started to watch his videos. After he joined, he played 2b2t by himself for a month before joining [Crimson Star](https://2b2t.miraheze.org/wiki/Crimson_Star) in late September of 2020.
+
+### Crimson Star and SBC
+After joining Crimson, Zeiss participated in several of the group's bases, including [Cum Zone I](https://2b2t.miraheze.org/wiki/Crimson_Star#_Cum_Zone_I), [Cum Zone II](https://2b2t.miraheze.org/wiki/Cum_Zone_II), and [Base Nostalgia 2020](https://2b2t.miraheze.org/wiki/Base_Nostalgia_2020), as well as [The Autumn Drain](https://2b2t.miraheze.org/wiki/The_Autumn_Drain). When Crimson Ended, many of the active members of the group moved on to the [Shortbus Caliphate](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate) and participated in bases including [The Calculator 2](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate#_The_Calculator_2) and [Gaza](https://2b2t.miraheze.org/wiki/Shortbus_Caliphate#_Gaza). Zeiss also joined these bases, but founded his own short-lived group, [Fate](https://2b2t.miraheze.org/wiki/Fate), as well. Zeiss also participated in the [NFE 2020](https://2b2t.miraheze.org/wiki/NFE#NFE_2020) rebuild party, [Adamantium](https://2b2t.miraheze.org/wiki/Adamantium), and [Halicarnassus](https://2b2t.miraheze.org/wiki/Halicarnassus). After Halicarnassus went inactive, he moved the majority of its stash to [Deep Water Horizon](https://2b2t.miraheze.org/wiki/DonFuer_21) without consulting most of the other base members.
+
+### Donfuer and Guardsmen
+Zeiss joined [DonFuer](https://2b2t.miraheze.org/wiki/DonFuer) in early 2020, and built at [DonFuer 20](https://2b2t.miraheze.org/wiki/DonFuer_20). He also merged Fate into the [DonFuer Spawn Rangers](https://2b2t.miraheze.org/wiki/DonFuer#Spawn_Rangers_2) after joining DonFuer in order to focus more on building.  After the fall of DonFuer 20, Zeiss offered Deepwater Horizon as the new site for [DonFuer 21](https://2b2t.miraheze.org/wiki/DonFuer_21). Zeiss built at DonFuer 21 until it was griefed in June of 2021. In April 2021 he was leaked the coordinates of [Block Game Jerusalem](https://2b2t.miraheze.org/wiki/Block_Game_Jerusalem) through DonFuer, and went to the base on an alt uninvited and built there briefly. He He was eventually elected to lead the [DonFuer Spawn Rangers](https://2b2t.miraheze.org/wiki/DonFuer#DonFuer_Spawn_Rangers) as well as to become an Elder in DonFuer. He became a full member in [Guardsmen](https://2b2t.miraheze.org/wiki/Guardsmen) in late 2021 after participating with the group almost a year, and building at such bases as [Adamantium](https://2b2t.miraheze.org/wiki/Adamantium) and [Mediano](https://2b2t.miraheze.org/wiki/Mediano).
+
+### Current
+Zeiss has stepped away from being active on 2b2t. He still builds occasionally at bases he is invited to, but is not as active as he once was.

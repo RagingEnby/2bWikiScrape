@@ -1,0 +1,1 @@
+#REDIRECT [ZiggyBase#Battle of Ziggy Town](https://2b2t.miraheze.org/wiki/ZiggyBase#Battle_of_Ziggy_Town)

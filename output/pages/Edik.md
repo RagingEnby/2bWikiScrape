@@ -1,0 +1,1 @@
+#REDIRECT [ed1ska](https://2b2t.miraheze.org/wiki/ed1ska)

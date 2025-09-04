@@ -1,0 +1,20 @@
+**marcus4761** is a 2012 player best known for being the founder of [The Monastery](https://2b2t.miraheze.org/wiki/The_Monastery), a base which lasted nearly 8 years from 2012 to 2020. Due to the automatic iron generator at the Monastery, he grew fond of building with iron blocks, resulting in the many iron towers and pyramids at the Monastery, as well as his signature iron and lapis pyramids from water level to the build limit he constructed at [Avalonia](https://2b2t.miraheze.org/wiki/Avalonia) and [Avalysium](https://2b2t.miraheze.org/wiki/Avalysium).
+
+## History
+### Early History
+He first joined in 2012, but did nothing more than explore spawn and forget about the server for several months. Once taking it more seriously, he and [asobl97](https://2b2t.miraheze.org/wiki/asobl97) ventured out just over 100k from spawn and settled their first base, [The Bunker](https://2b2t.miraheze.org/wiki/The_Bunker). Very shortly thereafter, a nametag was seen in the distance, but then vanished into the nether. Marcus4761, asobl97, and the most recent member, ttfractal44, decided to migrate to a new location 20k away. The location was subsequently named The Monastery (later known as Gape Haven).
+
+After moving items and getting the basics of a base up and running, asobl quit the server forever. Marcus and Fractal continued the base, inviting more players, and slowly but surely developing the base.
+
+### VoCo and Kinograd
+Marcus took a brief interlude from the monastery in 2015 to join the first phase of the Vortex Coalition, briefly achieving the rank of 3rd in command of the organization after [Coltsnid](https://2b2t.miraheze.org/wiki/Coltsnid) and [AmericanOreo](https://2b2t.miraheze.org/wiki/AmericanOreo) before leaking the coordinates to both the main base and executive bases, resulting in the swift end of VoCo Phase One.
+
+Marcus’ second interlude from the Monastery came in the form of an an invite from [SilverKrownKing](https://2b2t.miraheze.org/wiki/SilverKrownKing) to join a new and growing large base called [KinoGrad Base](https://2b2t.miraheze.org/wiki/KinoGrad_Base). Marcus made the trek out, and built a wheat farm, a wooden cabin with a haybale roof, and began building a large hotel before the base was blown up by [Branillon](https://2b2t.miraheze.org/wiki/Branillon). He returned to the monastery, but lost interest, and gave the coordinates to SilverKrownKing to pass on to the trustworthy refugees from the KGB disaster, some of whom later went there. The former KGB members renamed the base to Gape Haven, as several of them were part of the [Gape Group](https://2b2t.miraheze.org/wiki/Gape_Group).
+
+### Return to Monastery
+It was only after logging in after a multi-year break that Marcus learned the base was not destroyed, but surprisingly still under construction by [Xapamaa](https://2b2t.miraheze.org/wiki/Xapamaa), and Marcus became active again as a result The only build at the base built with duped items was the very largest iron pyramid. Marcus made extensive use of the solo WWE donkey dupe right as it ended, but had no chance to use the items to a significant extent before the grief.
+
+### Avalonia and Avalysium
+After the [Backstreet Boys](https://2b2t.miraheze.org/wiki/Backstreet_Boys) destroyed the Monastery, Marcus was approached by a number of groups inviting him and Xapamaa to their own groups. He settled on joining the newly growing build group, [Avalonia](https://2b2t.miraheze.org/wiki/Avalonia), and based there until that base’s untimely destruction.
+
+After the merger between Avalonia and [Elysium](https://2b2t.miraheze.org/wiki/Elysium), items began to be duped at the first [Avalysium](https://2b2t.miraheze.org/wiki/Avalysium) base location. Once the group got wind of  Ionar and DrBeardStash’s plans to betray the group and destroy the items, Marcus led the charge in pearling out every single shulker at the base to a secure location before it could then be pearled again to the second [Avalysium](https://2b2t.miraheze.org/wiki/Avalysium) location. This process took a solid weekend of constant grinding and pearl loading to accomplish.

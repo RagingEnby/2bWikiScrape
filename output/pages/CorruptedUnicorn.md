@@ -1,0 +1,6 @@
+{{Stub}}
+
+**CorruptedUnicorn** was the leader of the [Resistance](https://2b2t.miraheze.org/wiki/The_Resistance). <span>He rose to infamy after griefing t</span>he [Valley of Wheat](https://2b2t.miraheze.org/wiki/Valley_of_Wheat). After that, he arguably became a greater threat to [Team Veteran](https://2b2t.miraheze.org/wiki/Team_Veteran) than [TheCampingRusher](https://2b2t.miraheze.org/wiki/TheCampingRusher) himself. Corrupted and the Resistance preferred to patrol spawn in great numbers, forcing players to either run away, log, or accept death.
+
+## History
+CorruptedUnicorn first joined 2b2t on June 22nd, 2016. He made his first video on 2b2t about a floating island base. He continued to make videos until he began making friends on the server. This is likely what sparked one of the first major groups during the Rusher War: The Resistance. He would then go onto to become a large influence throughout the Rusher War. At what would be the peak of his popularity, he quit the server for roughly 2 and a half years. He returned for a month or so in 2019 to revive the Resistance, which would later disband due to internal drama.

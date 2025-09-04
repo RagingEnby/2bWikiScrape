@@ -1,0 +1,1 @@
+#REDIRECT [Etika Invasion](https://2b2t.miraheze.org/wiki/Etika_Invasion)

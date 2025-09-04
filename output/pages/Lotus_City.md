@@ -1,0 +1,1 @@
+#REDIRECT [White Lotus Society](https://2b2t.miraheze.org/wiki/White_Lotus_Society)

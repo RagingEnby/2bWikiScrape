@@ -1,0 +1,1 @@
+#REDIRECT [2k2k](https://2b2t.miraheze.org/wiki/2k2k)

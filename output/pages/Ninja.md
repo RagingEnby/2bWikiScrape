@@ -1,0 +1,1 @@
+#REDIRECT [YouTube tourists#Ninja](https://2b2t.miraheze.org/wiki/YouTube_tourists#Ninja)

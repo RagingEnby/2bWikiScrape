@@ -1,0 +1,1 @@
+#REDIRECT [Valley of Wheat](https://2b2t.miraheze.org/wiki/Valley_of_Wheat)

@@ -1,0 +1,3 @@
+{{stub}}
+
+**ImperatorTerrae** was an [oldfag](https://2b2t.miraheze.org/wiki/oldfag) [Facepuncher](https://2b2t.miraheze.org/wiki/Facepunch_Republic) most famous for his involvement with [Imperator's Base](https://2b2t.miraheze.org/wiki/Imperator%27s_Base), (which he joined in 2012) and for providing funding for the 2b2t website that was subsequently not used for its purpose by [Hausemaster](https://2b2t.miraheze.org/wiki/Hausemaster). Contrary to popular belief, ImperatorTerrarae was not the founder of Imperator's Base, which was originally called Viking base. When it was located in late 2015, ImperatorTerrae had iTristan relocate the base using iTristan's backdoor access to the server. ImperatorTerrae went inactive soon after the grief of Imperator's base.
